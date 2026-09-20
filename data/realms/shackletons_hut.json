@@ -1,0 +1,32 @@
+{
+  "id": "shackletons_hut",
+  "name": "Shackleton's Nimrod Hut",
+  "version": "v1.0.0",
+  "bbox": [
+    166.118143,
+    -77.563611,
+    166.218457,
+    -77.541989
+  ],
+  "featureCounts": {
+    "buildings": 1,
+    "roads": 1,
+    "water": 5,
+    "parks": 7,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "9867dcd7d429a7755b37695d52b4a5af17cee477dde453ab60893afcf4d6884d",
+  "createdAt": 1789934189,
+  "realm": "Antarctica",
+  "category": "Expedition Cache",
+  "icon": "\ud83d\uded6",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -77.5528,
+    166.1683
+  ]
+}

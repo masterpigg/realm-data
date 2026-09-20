@@ -1,0 +1,32 @@
+{
+  "id": "narusawa_ice_cave",
+  "name": "Mount Fuji Narusawa Ice Cave",
+  "version": "v1.0.0",
+  "bbox": [
+    138.640625,
+    35.464489,
+    138.667175,
+    35.486111
+  ],
+  "featureCounts": {
+    "buildings": 4,
+    "roads": 43,
+    "water": 0,
+    "parks": 0,
+    "pois": 2,
+    "caves": 2,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "7c2e185f39f0bd6f95a04cebef5021e07db9bf3933f9ca1926b78b497e4231e1",
+  "createdAt": 1789934574,
+  "realm": "Japan Feudal",
+  "category": "Volcanic Ice Cave",
+  "icon": "\u2744\ufe0f",
+  "realmEmoji": "\u26e9\ufe0f",
+  "center": [
+    35.4753,
+    138.6539
+  ]
+}

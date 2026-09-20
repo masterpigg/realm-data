@@ -1,0 +1,32 @@
+{
+  "id": "lone_elk_preserve",
+  "name": "Lone Elk Wildlife Preserve",
+  "version": "v1.0.0",
+  "bbox": [
+    -90.562222,
+    38.533889,
+    -90.534578,
+    38.555511
+  ],
+  "featureCounts": {
+    "buildings": 15,
+    "roads": 145,
+    "water": 25,
+    "parks": 11,
+    "pois": 3,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "d4a17d46f3585be1500eb721e2b3cbfdaeb6689490c3c5929fdff42a69c32096",
+  "createdAt": 1789934715,
+  "realm": "Missouri",
+  "category": "Wild Game Preserve",
+  "icon": "\ud83e\uddac",
+  "realmEmoji": "\ud83c\udfd4\ufe0f",
+  "center": [
+    38.5447,
+    -90.5484
+  ]
+}

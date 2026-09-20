@@ -1,0 +1,32 @@
+{
+  "id": "chicago_jackson_park",
+  "name": "Chicago \u2014 Jackson Park & White City Lagoons",
+  "version": "v1.0.0",
+  "bbox": [
+    -87.595098,
+    41.773589,
+    -87.566102,
+    41.795211
+  ],
+  "featureCounts": {
+    "buildings": 1446,
+    "roads": 2407,
+    "water": 14,
+    "parks": 438,
+    "pois": 1416,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 3158016,
+  "checksumSha256": "4c8288ecf14025f7c8a3821e745661f9e7c100ad7cca0aba95a9a0a868d7d76d",
+  "createdAt": 1789933766,
+  "realm": "Chicago",
+  "category": "World's Fair Lagoon",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udfd9\ufe0f",
+  "center": [
+    41.7844,
+    -87.5806
+  ]
+}

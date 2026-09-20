@@ -1,0 +1,32 @@
+{
+  "id": "mcmurdo_station",
+  "name": "McMurdo Station (Ross Island)",
+  "version": "v1.0.0",
+  "bbox": [
+    166.634969,
+    -77.852711,
+    166.737631,
+    -77.831089
+  ],
+  "featureCounts": {
+    "buildings": 307,
+    "roads": 309,
+    "water": 7,
+    "parks": 25,
+    "pois": 12,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "6040ac8e38f7f802bba64702a9fdab96aae9afe5c8240d2b2e3d16e5dcb12135",
+  "createdAt": 1789933896,
+  "realm": "Antarctica",
+  "category": "Polar Outpost Hub",
+  "icon": "\u2744\ufe0f",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -77.8419,
+    166.6863
+  ]
+}

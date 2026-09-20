@@ -1,0 +1,32 @@
+{
+  "id": "scotts_hut",
+  "name": "Scott's Terra Nova Hut",
+  "version": "v1.0.0",
+  "bbox": [
+    166.363909,
+    -77.647211,
+    166.464891,
+    -77.625589
+  ],
+  "featureCounts": {
+    "buildings": 1,
+    "roads": 3,
+    "water": 3,
+    "parks": 5,
+    "pois": 3,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "5cc425555631d32b65d681774d2f3dae536ede6ba0d43d03f5a00abe047704d8",
+  "createdAt": 1789934183,
+  "realm": "Antarctica",
+  "category": "Expedition Cache",
+  "icon": "\ud83d\uded6",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -77.6364,
+    166.4144
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "deception_island",
+  "name": "Deception Island Flooded Caldera",
+  "version": "v1.0.0",
+  "bbox": [
+    -60.677991,
+    -62.984411,
+    -60.630409,
+    -62.962789
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 38,
+    "parks": 1,
+    "pois": 1,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1323008,
+  "checksumSha256": "8cc45efaa4f60c7a9b7ee76ecd8bf3242290bf00777510e4e84c7e5c0831c571",
+  "createdAt": 1789934178,
+  "realm": "Antarctica",
+  "category": "Drowned Volcano",
+  "icon": "\u2693",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -62.9736,
+    -60.6542
+  ]
+}

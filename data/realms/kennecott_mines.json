@@ -1,0 +1,32 @@
+{
+  "id": "kennecott_mines",
+  "name": "Kennecott Copper Mill Citadel",
+  "version": "v1.0.0",
+  "bbox": [
+    -142.910447,
+    61.475889,
+    -142.865153,
+    61.497511
+  ],
+  "featureCounts": {
+    "buildings": 46,
+    "roads": 33,
+    "water": 2,
+    "parks": 2,
+    "pois": 3,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "a5bf89a8c12bcdfce967dbcfea22b0393e216445605189d871c87532b8a30bb4",
+  "createdAt": 1789933820,
+  "realm": "Alaska & Arctic",
+  "category": "Timber Mill Citadel",
+  "icon": "\ud83c\udfed",
+  "realmEmoji": "\ud83c\udfd4\ufe0f",
+  "center": [
+    61.4867,
+    -142.8878
+  ]
+}

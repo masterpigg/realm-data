@@ -1,0 +1,32 @@
+{
+  "id": "blood_falls",
+  "name": "Blood Falls & Taylor Glacier",
+  "version": "v1.0.0",
+  "bbox": [
+    162.220261,
+    -77.733311,
+    162.321939,
+    -77.711689
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 9,
+    "parks": 23,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1060864,
+  "checksumSha256": "cc2bb0189980d936a0dc3340b9d816d25f40463987506179ba03e0167ab7784e",
+  "createdAt": 1789933884,
+  "realm": "Antarctica",
+  "category": "Bleeding Glacier",
+  "icon": "\ud83e\ude78",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -77.7225,
+    162.2711
+  ]
+}

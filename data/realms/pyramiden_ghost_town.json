@@ -1,0 +1,32 @@
+{
+  "id": "pyramiden_ghost_town",
+  "name": "Pyramiden Ghost Mining Town",
+  "version": "v1.0.0",
+  "bbox": [
+    16.271738,
+    78.645289,
+    16.381662,
+    78.666911
+  ],
+  "featureCounts": {
+    "buildings": 75,
+    "roads": 189,
+    "water": 53,
+    "parks": 23,
+    "pois": 6,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "42775ac77534bb06e80176cf9a82f609dd79c116ade2df84f48b89f371caef04",
+  "createdAt": 1789933878,
+  "realm": "High Arctic",
+  "category": "Ghost Town Citadel",
+  "icon": "\u2692\ufe0f",
+  "realmEmoji": "\ud83c\udf10",
+  "center": [
+    78.6561,
+    16.3267
+  ]
+}

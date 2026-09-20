@@ -1,0 +1,32 @@
+{
+  "id": "kumano_kodo",
+  "name": "Kumano Kodo Daimon-zaka",
+  "version": "v1.0.0",
+  "bbox": [
+    135.87761,
+    33.657689,
+    135.90359,
+    33.679311
+  ],
+  "featureCounts": {
+    "buildings": 162,
+    "roads": 212,
+    "water": 16,
+    "parks": 10,
+    "pois": 6,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "d999aa54d060e2304d71779acaf6873fcdf6a5ca99f0b9dac483ebb52bde27c9",
+  "createdAt": 1789934592,
+  "realm": "Japan Feudal",
+  "category": "Pilgrim Trail",
+  "icon": "\ud83c\udf32",
+  "realmEmoji": "\u26e9\ufe0f",
+  "center": [
+    33.6685,
+    135.8906
+  ]
+}

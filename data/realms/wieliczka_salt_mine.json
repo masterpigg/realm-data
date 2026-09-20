@@ -1,0 +1,32 @@
+{
+  "id": "wieliczka_salt_mine",
+  "name": "Wieliczka Salt Mine",
+  "version": "v1.0.0",
+  "bbox": [
+    20.038887,
+    49.972289,
+    20.072513,
+    49.993911
+  ],
+  "featureCounts": {
+    "buildings": 4443,
+    "roads": 4209,
+    "water": 43,
+    "parks": 1096,
+    "pois": 202,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2895872,
+  "checksumSha256": "798437bda0a1c875971b354e1357057daf2739b9d3d6be3fadb7820ebd9b61c8",
+  "createdAt": 1789934282,
+  "realm": "Europe",
+  "category": "Megadungeon",
+  "icon": "\ud83d\udc8e",
+  "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+  "center": [
+    49.9831,
+    20.0557
+  ]
+}

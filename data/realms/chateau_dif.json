@@ -1,0 +1,32 @@
+{
+  "id": "chateau_dif",
+  "name": "Ch\u00e2teau d'If Island Fortress",
+  "version": "v1.0.0",
+  "bbox": [
+    5.31045,
+    43.269089,
+    5.34015,
+    43.290711
+  ],
+  "featureCounts": {
+    "buildings": 44,
+    "roads": 84,
+    "water": 0,
+    "parks": 62,
+    "pois": 49,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "f5074b031ad7b2e15d91a09e52d2c576d9f18b5bbf26689de714c44e42559985",
+  "createdAt": 1789934309,
+  "realm": "Europe",
+  "category": "Island Prison",
+  "icon": "\u2693",
+  "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+  "center": [
+    43.2799,
+    5.3253
+  ]
+}

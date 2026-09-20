@@ -1,0 +1,32 @@
+{
+  "id": "mount_erebus",
+  "name": "Mount Erebus Caldera & Fumaroles",
+  "version": "v1.0.0",
+  "bbox": [
+    167.103235,
+    -77.540511,
+    167.203365,
+    -77.518889
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 4,
+    "pois": 3,
+    "caves": 1,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "b71a3d6d40e681bdf6d30e53704a1011f1c67bdd78b7938f004c7bcabbec7aac",
+  "createdAt": 1789933889,
+  "realm": "Antarctica",
+  "category": "Volcanic Ice Chimneys",
+  "icon": "\ud83c\udf0b",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -77.5297,
+    167.1533
+  ]
+}

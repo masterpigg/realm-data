@@ -1,0 +1,32 @@
+{
+  "id": "halley_vi_station",
+  "name": "Halley VI Ski-Stilt Station",
+  "version": "v1.0.0",
+  "bbox": [
+    -25.543422,
+    -75.594111,
+    -25.456578,
+    -75.572489
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 0,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 536576,
+  "checksumSha256": "ffe2594e877dc88892977f6bf3450a573a42768d667e84800cea31fe86c6191f",
+  "createdAt": 1789934167,
+  "realm": "Antarctica",
+  "category": "Mobile Ice Crawler",
+  "icon": "\ud83d\ude9c",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -75.5833,
+    -25.5
+  ]
+}

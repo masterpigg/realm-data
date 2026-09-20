@@ -1,0 +1,32 @@
+{
+  "id": "hoh_rainforest",
+  "name": "Hoh Rain Forest Canopy",
+  "version": "v1.0.0",
+  "bbox": [
+    -123.950913,
+    47.849189,
+    -123.918687,
+    47.870811
+  ],
+  "featureCounts": {
+    "buildings": 10,
+    "roads": 58,
+    "water": 12,
+    "parks": 20,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "21b362d861bfc69b9ec54cac8aaf9541523d711b7c93436e999ff3c8bdfe94a5",
+  "createdAt": 1789934653,
+  "realm": "Cascadia",
+  "category": "Ancient Canopy",
+  "icon": "\ud83c\udf32",
+  "realmEmoji": "\ud83c\udf32",
+  "center": [
+    47.86,
+    -123.9348
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "prince_of_wales_fort",
+  "name": "Prince of Wales Stone Fort",
+  "version": "v1.0.0",
+  "bbox": [
+    -94.235267,
+    58.785889,
+    -94.193533,
+    58.807511
+  ],
+  "featureCounts": {
+    "buildings": 4,
+    "roads": 12,
+    "water": 4,
+    "parks": 3,
+    "pois": 2,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "2cfd5c79c8246153084298bf64c540451128bb82d5402bf2a6fa687f009e05bd",
+  "createdAt": 1789933845,
+  "realm": "Canada Frontier",
+  "category": "Coastal Stone Bastion",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+  "center": [
+    58.7967,
+    -94.2144
+  ]
+}

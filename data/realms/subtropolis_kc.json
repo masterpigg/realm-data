@@ -1,0 +1,32 @@
+{
+  "id": "subtropolis_kc",
+  "name": "Kansas City SubTropolis",
+  "version": "v1.0.0",
+  "bbox": [
+    -94.507842,
+    39.144989,
+    -94.479958,
+    39.166611
+  ],
+  "featureCounts": {
+    "buildings": 102,
+    "roads": 434,
+    "water": 25,
+    "parks": 92,
+    "pois": 4,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "d7d021b73c31ef30bfe41d56a774ef6a8bbc1eaf9fd83376830d28bcc433da73",
+  "createdAt": 1789934707,
+  "realm": "Missouri",
+  "category": "Limestone City",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udfd4\ufe0f",
+  "center": [
+    39.1558,
+    -94.4939
+  ]
+}

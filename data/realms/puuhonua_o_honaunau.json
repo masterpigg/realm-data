@@ -1,0 +1,32 @@
+{
+  "id": "puuhonua_o_honaunau",
+  "name": "Pu\u02bbuhonua o H\u014dnaunau Heiau",
+  "version": "v1.0.0",
+  "bbox": [
+    -155.925863,
+    19.410889,
+    -155.902937,
+    19.432511
+  ],
+  "featureCounts": {
+    "buildings": 18,
+    "roads": 38,
+    "water": 0,
+    "parks": 13,
+    "pois": 2,
+    "caves": 1,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "be9f75cd0248cf2370957887c69eebf28a4d67d7b8ae4988cdb568c6ac0e37ef",
+  "createdAt": 1789934606,
+  "realm": "Hawaii",
+  "category": "Sacred Temple",
+  "icon": "\u26e9\ufe0f",
+  "realmEmoji": "\ud83c\udf3a",
+  "center": [
+    19.4217,
+    -155.9144
+  ]
+}

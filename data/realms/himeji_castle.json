@@ -1,0 +1,32 @@
+{
+  "id": "himeji_castle",
+  "name": "Himeji Castle (White Heron)",
+  "version": "v1.0.0",
+  "bbox": [
+    134.680728,
+    34.828589,
+    134.707072,
+    34.850211
+  ],
+  "featureCounts": {
+    "buildings": 9134,
+    "roads": 2155,
+    "water": 95,
+    "parks": 253,
+    "pois": 2643,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2895872,
+  "checksumSha256": "e5c5c160ead4408c8b3c6b2e0ca1e3e671ed908d909ccf7bb934a91a442f97bb",
+  "createdAt": 1789934568,
+  "realm": "Japan Feudal",
+  "category": "Feudal Castle",
+  "icon": "\ud83c\udfef",
+  "realmEmoji": "\u26e9\ufe0f",
+  "center": [
+    34.8394,
+    134.6939
+  ]
+}

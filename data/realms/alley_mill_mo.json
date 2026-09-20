@@ -1,0 +1,32 @@
+{
+  "id": "alley_mill_mo",
+  "name": "Alley Spring Crimson Mill",
+  "version": "v1.0.0",
+  "bbox": [
+    -91.455564,
+    37.143189,
+    -91.428436,
+    37.164811
+  ],
+  "featureCounts": {
+    "buildings": 16,
+    "roads": 64,
+    "water": 36,
+    "parks": 3,
+    "pois": 3,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "aa8163f8885cad327a26665100ae3cb00fc563eeb6eb98d14e4462f79297cc93",
+  "createdAt": 1789934687,
+  "realm": "Missouri",
+  "category": "Historic Gristmill",
+  "icon": "\u2699\ufe0f",
+  "realmEmoji": "\ud83c\udfd4\ufe0f",
+  "center": [
+    37.154,
+    -91.442
+  ]
+}

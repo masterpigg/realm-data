@@ -1,0 +1,32 @@
+{
+  "id": "molokini_crater",
+  "name": "Molokini Sunken Crater",
+  "version": "v1.0.0",
+  "bbox": [
+    -156.507352,
+    20.621089,
+    -156.484248,
+    20.642711
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 2,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 798720,
+  "checksumSha256": "b66e2363874d9e6bc92e4bb52e9b74c8dc23a13e74fed5f0a7ebec1935cc3dc4",
+  "createdAt": 1789934623,
+  "realm": "Hawaii",
+  "category": "Marine Sanctuary",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83c\udf3a",
+  "center": [
+    20.6319,
+    -156.4958
+  ]
+}

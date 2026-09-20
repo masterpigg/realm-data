@@ -1,0 +1,32 @@
+{
+  "id": "utqiagvik_barrow",
+  "name": "Utqia\u0121vik (Point Barrow)",
+  "version": "v1.0.0",
+  "bbox": [
+    -156.822303,
+    71.279789,
+    -156.754897,
+    71.301411
+  ],
+  "featureCounts": {
+    "buildings": 964,
+    "roads": 140,
+    "water": 2,
+    "parks": 18,
+    "pois": 22,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "a08c5bcc159ed34362412bef5bf746f0083477bcb8e02863c6b93d6700e638e4",
+  "createdAt": 1789933840,
+  "realm": "Alaska & Arctic",
+  "category": "Arctic Bluffs",
+  "icon": "\ud83c\udff9",
+  "realmEmoji": "\ud83c\udfd4\ufe0f",
+  "center": [
+    71.2906,
+    -156.7886
+  ]
+}

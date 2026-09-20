@@ -1,0 +1,32 @@
+{
+  "id": "south_pole_station",
+  "name": "Amundsen-Scott South Pole Station",
+  "version": "v1.0.0",
+  "bbox": [
+    -108.108108,
+    -90.0,
+    108.108108,
+    -89.989089
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 0,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 536576,
+  "checksumSha256": "81813b3b13bfe0e1972c29a6d334cb420fa6c9ef2c5f83f13d6b9a0b62976902",
+  "createdAt": 1789934162,
+  "realm": "Antarctica",
+  "category": "Plateau Citadel",
+  "icon": "\ud83e\udded",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -89.9999,
+    0.0
+  ]
+}

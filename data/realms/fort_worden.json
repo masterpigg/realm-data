@@ -1,0 +1,32 @@
+{
+  "id": "fort_worden",
+  "name": "Fort Worden Coastal Bastion",
+  "version": "v1.0.0",
+  "bbox": [
+    -122.782899,
+    48.123689,
+    -122.750501,
+    48.145311
+  ],
+  "featureCounts": {
+    "buildings": 1738,
+    "roads": 740,
+    "water": 11,
+    "parks": 120,
+    "pois": 67,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "fabacd9e2a830822adc558ef86a916622290a0f03872d3ccfe72a1e3d6378100",
+  "createdAt": 1789934675,
+  "realm": "Cascadia",
+  "category": "Artillery Bastion",
+  "icon": "\u2693",
+  "realmEmoji": "\ud83c\udf32",
+  "center": [
+    48.1345,
+    -122.7667
+  ]
+}

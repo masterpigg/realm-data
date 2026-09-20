@@ -1,0 +1,32 @@
+{
+  "id": "kazumura_cave",
+  "name": "Kazumura Basalt Lava Tube",
+  "version": "v1.0.0",
+  "bbox": [
+    -155.04547,
+    19.508189,
+    -155.02253,
+    19.529811
+  ],
+  "featureCounts": {
+    "buildings": 369,
+    "roads": 32,
+    "water": 0,
+    "parks": 0,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1060864,
+  "checksumSha256": "6eabb4dd3517719916c6a34a6578ce131fb0e8c92deb5a3b01cd25c82052d6cf",
+  "createdAt": 1789934599,
+  "realm": "Hawaii",
+  "category": "Basalt Conduit",
+  "icon": "\ud83c\udf0b",
+  "realmEmoji": "\ud83c\udf3a",
+  "center": [
+    19.519,
+    -155.034
+  ]
+}

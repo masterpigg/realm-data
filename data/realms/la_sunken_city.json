@@ -1,0 +1,32 @@
+{
+  "id": "la_sunken_city",
+  "name": "LA \u2014 Sunken City Ruins & Fort MacArthur",
+  "version": "v1.0.0",
+  "bbox": [
+    -118.306596,
+    33.696889,
+    -118.280604,
+    33.718511
+  ],
+  "featureCounts": {
+    "buildings": 2806,
+    "roads": 440,
+    "water": 1,
+    "parks": 120,
+    "pois": 195,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "0a95a7fff6702843f7f6d16a0b04a4feab64b0edff60a4e4e6d8216fe4afc057",
+  "createdAt": 1789933814,
+  "realm": "Los Angeles",
+  "category": "Sunken Coastal Ruins",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83c\udf34",
+  "center": [
+    33.7077,
+    -118.2936
+  ]
+}

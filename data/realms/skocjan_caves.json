@@ -1,0 +1,32 @@
+{
+  "id": "skocjan_caves",
+  "name": "\u0160kocjan Caves & Karst Chasm",
+  "version": "v1.0.0",
+  "bbox": [
+    13.975731,
+    45.652289,
+    14.006669,
+    45.673911
+  ],
+  "featureCounts": {
+    "buildings": 216,
+    "roads": 274,
+    "water": 13,
+    "parks": 638,
+    "pois": 70,
+    "caves": 10,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 3158016,
+  "checksumSha256": "a5f6a7814d9521ad91c291511863daadc696c5b7a67ad5e70c3353ef85a6d0da",
+  "createdAt": 1789934291,
+  "realm": "Europe",
+  "category": "Karst Canyon",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+  "center": [
+    45.6631,
+    13.9912
+  ]
+}

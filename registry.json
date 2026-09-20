@@ -1,0 +1,2353 @@
+{
+  "version": "v1.0.0",
+  "generatedAt": 1789934721,
+  "repository": "masterpigg/realm-data",
+  "releaseTag": "v1.0.0",
+  "releasesBaseUrl": "https://github.com/masterpigg/realm-data/releases/download",
+  "realmsCount": 71,
+  "realms": [
+    {
+      "id": "kennecott_mines",
+      "name": "Kennecott Copper Mill Citadel",
+      "realm": "Alaska & Arctic",
+      "category": "Timber Mill Citadel",
+      "icon": "\ud83c\udfed",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -142.910447,
+        61.475889,
+        -142.865153,
+        61.497511
+      ],
+      "center": [
+        61.4867,
+        -142.8878
+      ],
+      "featureCounts": {
+        "buildings": 46,
+        "roads": 33,
+        "water": 2,
+        "parks": 2,
+        "pois": 3,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "a5bf89a8c12bcdfce967dbcfea22b0393e216445605189d871c87532b8a30bb4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kennecott_mines.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kennecott_mines.json"
+    },
+    {
+      "id": "mendenhall_ice_caves",
+      "name": "Mendenhall Glacier Ice Caves",
+      "realm": "Alaska & Arctic",
+      "category": "Blue Ice Grotto",
+      "icon": "\u2744\ufe0f",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -134.570661,
+        58.439189,
+        -134.529339,
+        58.460811
+      ],
+      "center": [
+        58.45,
+        -134.55
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 5,
+        "water": 1,
+        "parks": 1,
+        "pois": 0,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "aa84199cdea1c342c8c5f707657a82db61a69856aecf5dedef15681f8610f37c",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mendenhall_ice_caves.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mendenhall_ice_caves.json"
+    },
+    {
+      "id": "utqiagvik_barrow",
+      "name": "Utqia\u0121vik (Point Barrow)",
+      "realm": "Alaska & Arctic",
+      "category": "Arctic Bluffs",
+      "icon": "\ud83c\udff9",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -156.822303,
+        71.279789,
+        -156.754897,
+        71.301411
+      ],
+      "center": [
+        71.2906,
+        -156.7886
+      ],
+      "featureCounts": {
+        "buildings": 964,
+        "roads": 140,
+        "water": 2,
+        "parks": 18,
+        "pois": 22,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "a08c5bcc159ed34362412bef5bf746f0083477bcb8e02863c6b93d6700e638e4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/utqiagvik_barrow.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/utqiagvik_barrow.json"
+    },
+    {
+      "id": "whittier_begich",
+      "name": "Whittier \"Town Under One Roof\"",
+      "realm": "Alaska & Arctic",
+      "category": "Bunker Fortress",
+      "icon": "\ud83c\udfe2",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -148.706041,
+        60.762289,
+        -148.661759,
+        60.783911
+      ],
+      "center": [
+        60.7731,
+        -148.6839
+      ],
+      "featureCounts": {
+        "buildings": 56,
+        "roads": 82,
+        "water": 6,
+        "parks": 13,
+        "pois": 4,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "b3c0fa9acad617088697e70075a842b1a48358478908e439790d05eda1853496",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/whittier_begich.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/whittier_begich.json"
+    },
+    {
+      "id": "south_pole_station",
+      "name": "Amundsen-Scott South Pole Station",
+      "realm": "Antarctica",
+      "category": "Plateau Citadel",
+      "icon": "\ud83e\udded",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -108.108108,
+        -90.0,
+        108.108108,
+        -89.989089
+      ],
+      "center": [
+        -89.9999,
+        0.0
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 0,
+        "parks": 0,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 536576,
+      "checksumSha256": "81813b3b13bfe0e1972c29a6d334cb420fa6c9ef2c5f83f13d6b9a0b62976902",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/south_pole_station.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/south_pole_station.json"
+    },
+    {
+      "id": "blood_falls",
+      "name": "Blood Falls & Taylor Glacier",
+      "realm": "Antarctica",
+      "category": "Bleeding Glacier",
+      "icon": "\ud83e\ude78",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        162.220261,
+        -77.733311,
+        162.321939,
+        -77.711689
+      ],
+      "center": [
+        -77.7225,
+        162.2711
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 9,
+        "parks": 23,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1060864,
+      "checksumSha256": "cc2bb0189980d936a0dc3340b9d816d25f40463987506179ba03e0167ab7784e",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/blood_falls.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/blood_falls.json"
+    },
+    {
+      "id": "deception_island",
+      "name": "Deception Island Flooded Caldera",
+      "realm": "Antarctica",
+      "category": "Drowned Volcano",
+      "icon": "\u2693",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -60.677991,
+        -62.984411,
+        -60.630409,
+        -62.962789
+      ],
+      "center": [
+        -62.9736,
+        -60.6542
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 38,
+        "parks": 1,
+        "pois": 1,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1323008,
+      "checksumSha256": "8cc45efaa4f60c7a9b7ee76ecd8bf3242290bf00777510e4e84c7e5c0831c571",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/deception_island.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/deception_island.json"
+    },
+    {
+      "id": "halley_vi_station",
+      "name": "Halley VI Ski-Stilt Station",
+      "realm": "Antarctica",
+      "category": "Mobile Ice Crawler",
+      "icon": "\ud83d\ude9c",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -25.543422,
+        -75.594111,
+        -25.456578,
+        -75.572489
+      ],
+      "center": [
+        -75.5833,
+        -25.5
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 0,
+        "parks": 0,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 536576,
+      "checksumSha256": "ffe2594e877dc88892977f6bf3450a573a42768d667e84800cea31fe86c6191f",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/halley_vi_station.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/halley_vi_station.json"
+    },
+    {
+      "id": "mcmurdo_station",
+      "name": "McMurdo Station (Ross Island)",
+      "realm": "Antarctica",
+      "category": "Polar Outpost Hub",
+      "icon": "\u2744\ufe0f",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        166.634969,
+        -77.852711,
+        166.737631,
+        -77.831089
+      ],
+      "center": [
+        -77.8419,
+        166.6863
+      ],
+      "featureCounts": {
+        "buildings": 307,
+        "roads": 309,
+        "water": 7,
+        "parks": 25,
+        "pois": 12,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "6040ac8e38f7f802bba64702a9fdab96aae9afe5c8240d2b2e3d16e5dcb12135",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mcmurdo_station.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mcmurdo_station.json"
+    },
+    {
+      "id": "mount_erebus",
+      "name": "Mount Erebus Caldera & Fumaroles",
+      "realm": "Antarctica",
+      "category": "Volcanic Ice Chimneys",
+      "icon": "\ud83c\udf0b",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        167.103235,
+        -77.540511,
+        167.203365,
+        -77.518889
+      ],
+      "center": [
+        -77.5297,
+        167.1533
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 0,
+        "parks": 4,
+        "pois": 3,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1585152,
+      "checksumSha256": "b71a3d6d40e681bdf6d30e53704a1011f1c67bdd78b7938f004c7bcabbec7aac",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mount_erebus.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mount_erebus.json"
+    },
+    {
+      "id": "neumayer_iii_station",
+      "name": "Neumayer Station III Platform",
+      "realm": "Antarctica",
+      "category": "Hydraulic Ice Fortress",
+      "icon": "\ud83c\udfd7\ufe0f",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -8.299355,
+        -70.677511,
+        -8.234045,
+        -70.655889
+      ],
+      "center": [
+        -70.6667,
+        -8.2667
+      ],
+      "featureCounts": {
+        "buildings": 2,
+        "roads": 2,
+        "water": 0,
+        "parks": 0,
+        "pois": 1,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1323008,
+      "checksumSha256": "6bb09025738572eb2fadcf93d31d61a2e9eae42936b0484d70e1b8cac00e68b4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/neumayer_iii_station.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/neumayer_iii_station.json"
+    },
+    {
+      "id": "scotts_hut",
+      "name": "Scott's Terra Nova Hut",
+      "realm": "Antarctica",
+      "category": "Expedition Cache",
+      "icon": "\ud83d\uded6",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        166.363909,
+        -77.647211,
+        166.464891,
+        -77.625589
+      ],
+      "center": [
+        -77.6364,
+        166.4144
+      ],
+      "featureCounts": {
+        "buildings": 1,
+        "roads": 3,
+        "water": 3,
+        "parks": 5,
+        "pois": 3,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "5cc425555631d32b65d681774d2f3dae536ede6ba0d43d03f5a00abe047704d8",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/scotts_hut.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/scotts_hut.json"
+    },
+    {
+      "id": "shackletons_hut",
+      "name": "Shackleton's Nimrod Hut",
+      "realm": "Antarctica",
+      "category": "Expedition Cache",
+      "icon": "\ud83d\uded6",
+      "realmEmoji": "\u2744\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        166.118143,
+        -77.563611,
+        166.218457,
+        -77.541989
+      ],
+      "center": [
+        -77.5528,
+        166.1683
+      ],
+      "featureCounts": {
+        "buildings": 1,
+        "roads": 1,
+        "water": 5,
+        "parks": 7,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1847296,
+      "checksumSha256": "9867dcd7d429a7755b37695d52b4a5af17cee477dde453ab60893afcf4d6884d",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/shackletons_hut.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/shackletons_hut.json"
+    },
+    {
+      "id": "alert_nunavut",
+      "name": "Alert High Arctic Station",
+      "realm": "Canada Frontier",
+      "category": "High Arctic Sentry",
+      "icon": "\ud83d\udce1",
+      "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+      "version": "v1.0.0",
+      "bbox": [
+        -62.430945,
+        82.490989,
+        -62.265255,
+        82.512611
+      ],
+      "center": [
+        82.5018,
+        -62.3481
+      ],
+      "featureCounts": {
+        "buildings": 57,
+        "roads": 45,
+        "water": 11,
+        "parks": 4,
+        "pois": 1,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "32da06cb4a085f212dbdc40a06646033e8fa7c6c63647516ce94e7cf97443226",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/alert_nunavut.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/alert_nunavut.json"
+    },
+    {
+      "id": "dawson_city_klondike",
+      "name": "Dawson City & Dredge No. 4",
+      "realm": "Canada Frontier",
+      "category": "Gold Rush Boomtown",
+      "icon": "\u26cf\ufe0f",
+      "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+      "version": "v1.0.0",
+      "bbox": [
+        -139.456714,
+        64.049189,
+        -139.407286,
+        64.070811
+      ],
+      "center": [
+        64.06,
+        -139.432
+      ],
+      "featureCounts": {
+        "buildings": 344,
+        "roads": 111,
+        "water": 12,
+        "parks": 46,
+        "pois": 20,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "4adf3d43b380cd0c90d00624bd845fe06c5137a65f8d3182fb80ae8f383bd79b",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dawson_city_klondike.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dawson_city_klondike.json"
+    },
+    {
+      "id": "prince_of_wales_fort",
+      "name": "Prince of Wales Stone Fort",
+      "realm": "Canada Frontier",
+      "category": "Coastal Stone Bastion",
+      "icon": "\ud83c\udff0",
+      "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+      "version": "v1.0.0",
+      "bbox": [
+        -94.235267,
+        58.785889,
+        -94.193533,
+        58.807511
+      ],
+      "center": [
+        58.7967,
+        -94.2144
+      ],
+      "featureCounts": {
+        "buildings": 4,
+        "roads": 12,
+        "water": 4,
+        "parks": 3,
+        "pois": 2,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "2cfd5c79c8246153084298bf64c540451128bb82d5402bf2a6fa687f009e05bd",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/prince_of_wales_fort.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/prince_of_wales_fort.json"
+    },
+    {
+      "id": "diefenbunker_carp",
+      "name": "The Diefenbunker Blast Shelter",
+      "realm": "Canada Frontier",
+      "category": "Cold War Bunker",
+      "icon": "\ud83d\udee1\ufe0f",
+      "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+      "version": "v1.0.0",
+      "bbox": [
+        -76.064284,
+        45.340889,
+        -76.033516,
+        45.362511
+      ],
+      "center": [
+        45.3517,
+        -76.0489
+      ],
+      "featureCounts": {
+        "buildings": 408,
+        "roads": 175,
+        "water": 13,
+        "parks": 65,
+        "pois": 315,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "c140152cda7836ff5c7d0f0d8b0b00e3b69e43421d10b0108e69f359cba4858d",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/diefenbunker_carp.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/diefenbunker_carp.json"
+    },
+    {
+      "id": "fort_worden",
+      "name": "Fort Worden Coastal Bastion",
+      "realm": "Cascadia",
+      "category": "Artillery Bastion",
+      "icon": "\u2693",
+      "realmEmoji": "\ud83c\udf32",
+      "version": "v1.0.0",
+      "bbox": [
+        -122.782899,
+        48.123689,
+        -122.750501,
+        48.145311
+      ],
+      "center": [
+        48.1345,
+        -122.7667
+      ],
+      "featureCounts": {
+        "buildings": 1738,
+        "roads": 740,
+        "water": 11,
+        "parks": 120,
+        "pois": 67,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "fabacd9e2a830822adc558ef86a916622290a0f03872d3ccfe72a1e3d6378100",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fort_worden.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fort_worden.json"
+    },
+    {
+      "id": "hoh_rainforest",
+      "name": "Hoh Rain Forest Canopy",
+      "realm": "Cascadia",
+      "category": "Ancient Canopy",
+      "icon": "\ud83c\udf32",
+      "realmEmoji": "\ud83c\udf32",
+      "version": "v1.0.0",
+      "bbox": [
+        -123.950913,
+        47.849189,
+        -123.918687,
+        47.870811
+      ],
+      "center": [
+        47.86,
+        -123.9348
+      ],
+      "featureCounts": {
+        "buildings": 10,
+        "roads": 58,
+        "water": 12,
+        "parks": 20,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "21b362d861bfc69b9ec54cac8aaf9541523d711b7c93436e999ff3c8bdfe94a5",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/hoh_rainforest.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/hoh_rainforest.json"
+    },
+    {
+      "id": "rainier_fumaroles",
+      "name": "Mount Rainier Fumarole Caves",
+      "realm": "Cascadia",
+      "category": "Summit Ice Grotto",
+      "icon": "\u2744\ufe0f",
+      "realmEmoji": "\ud83c\udf32",
+      "version": "v1.0.0",
+      "bbox": [
+        -121.776108,
+        46.841489,
+        -121.744492,
+        46.863111
+      ],
+      "center": [
+        46.8523,
+        -121.7603
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 4,
+        "water": 0,
+        "parks": 2,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1060864,
+      "checksumSha256": "451b9f74ecd6efbcf4f3841454c8292e01a92bd0e159087fece78ac5ec2a2b8e",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/rainier_fumaroles.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/rainier_fumaroles.json"
+    },
+    {
+      "id": "ape_cave",
+      "name": "Mount St. Helens Ape Cave",
+      "realm": "Cascadia",
+      "category": "Lava Tube Conduit",
+      "icon": "\ud83d\udd73\ufe0f",
+      "realmEmoji": "\ud83c\udf32",
+      "version": "v1.0.0",
+      "bbox": [
+        -122.225994,
+        46.098189,
+        -122.194806,
+        46.119811
+      ],
+      "center": [
+        46.109,
+        -122.2104
+      ],
+      "featureCounts": {
+        "buildings": 2,
+        "roads": 28,
+        "water": 3,
+        "parks": 1,
+        "pois": 0,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "b2cfb54d80e8c56ac0cfb6979ea05ff493929f4508fe17c375821dd83bffe87e",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/ape_cave.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/ape_cave.json"
+    },
+    {
+      "id": "seattle_underground",
+      "name": "Seattle Pioneer Square Areaways",
+      "realm": "Cascadia",
+      "category": "Submerged Street",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83c\udf32",
+      "version": "v1.0.0",
+      "bbox": [
+        -122.350333,
+        47.590689,
+        -122.318267,
+        47.612311
+      ],
+      "center": [
+        47.6015,
+        -122.3343
+      ],
+      "featureCounts": {
+        "buildings": 1086,
+        "roads": 7732,
+        "water": 12,
+        "parks": 382,
+        "pois": 1627,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3420160,
+      "checksumSha256": "f8e1695df19f388ef6b045428c0474749224bfd96b2d5f665552a1d60c7249f8",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/seattle_underground.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/seattle_underground.json"
+    },
+    {
+      "id": "chicago_river_bascule",
+      "name": "Chicago \u2014 Chicago River & Bascule Bridges",
+      "realm": "Chicago",
+      "category": "Bascule Canyon",
+      "icon": "\ud83c\udf09",
+      "realmEmoji": "\ud83c\udfd9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -87.639222,
+        41.877989,
+        -87.610178,
+        41.899611
+      ],
+      "center": [
+        41.8888,
+        -87.6247
+      ],
+      "featureCounts": {
+        "buildings": 1985,
+        "roads": 9585,
+        "water": 68,
+        "parks": 2115,
+        "pois": 5915,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 6565888,
+      "checksumSha256": "3a19e18785a4327793b1174b0091a4c05ebb944a840b8580ed51eca9991b6b65",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_river_bascule.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_river_bascule.json"
+    },
+    {
+      "id": "chicago_freight_tunnels",
+      "name": "Chicago \u2014 Freight Tunnels & TARP Deep Tunnel",
+      "realm": "Chicago",
+      "category": "Subterranean Labyrinth",
+      "icon": "\ud83d\ude87",
+      "realmEmoji": "\ud83c\udfd9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -87.643321,
+        41.871889,
+        -87.614279,
+        41.893511
+      ],
+      "center": [
+        41.8827,
+        -87.6288
+      ],
+      "featureCounts": {
+        "buildings": 1913,
+        "roads": 10907,
+        "water": 61,
+        "parks": 2433,
+        "pois": 7929,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 7614464,
+      "checksumSha256": "fdec7978d4ba91e07f42cdcb95daf872ef00501f2749a3a06993ebd27c9a225c",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_freight_tunnels.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_freight_tunnels.json"
+    },
+    {
+      "id": "chicago_jackson_park",
+      "name": "Chicago \u2014 Jackson Park & White City Lagoons",
+      "realm": "Chicago",
+      "category": "World's Fair Lagoon",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83c\udfd9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -87.595098,
+        41.773589,
+        -87.566102,
+        41.795211
+      ],
+      "center": [
+        41.7844,
+        -87.5806
+      ],
+      "featureCounts": {
+        "buildings": 1446,
+        "roads": 2407,
+        "water": 14,
+        "parks": 438,
+        "pois": 1416,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3158016,
+      "checksumSha256": "4c8288ecf14025f7c8a3821e745661f9e7c100ad7cca0aba95a9a0a868d7d76d",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_jackson_park.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_jackson_park.json"
+    },
+    {
+      "id": "carnac_alignments",
+      "name": "Carnac Megalithic Menhirs",
+      "realm": "Europe",
+      "category": "Ancient Megaliths",
+      "icon": "\ud83d\uddff",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        -3.09853,
+        47.581689,
+        -3.06647,
+        47.603311
+      ],
+      "center": [
+        47.5925,
+        -3.0825
+      ],
+      "featureCounts": {
+        "buildings": 2598,
+        "roads": 850,
+        "water": 8,
+        "parks": 128,
+        "pois": 186,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "453ba2e012d04a86dc24e542b3b5c4a494ddd794191df691dc6643c0851540fe",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/carnac_alignments.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/carnac_alignments.json"
+    },
+    {
+      "id": "chateau_dif",
+      "name": "Ch\u00e2teau d'If Island Fortress",
+      "realm": "Europe",
+      "category": "Island Prison",
+      "icon": "\u2693",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        5.31045,
+        43.269089,
+        5.34015,
+        43.290711
+      ],
+      "center": [
+        43.2799,
+        5.3253
+      ],
+      "featureCounts": {
+        "buildings": 44,
+        "roads": 84,
+        "water": 0,
+        "parks": 62,
+        "pois": 49,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1847296,
+      "checksumSha256": "f5074b031ad7b2e15d91a09e52d2c576d9f18b5bbf26689de714c44e42559985",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chateau_dif.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chateau_dif.json"
+    },
+    {
+      "id": "derinkuyu_underground",
+      "name": "Derinkuyu Underground City",
+      "realm": "Europe",
+      "category": "Megadungeon",
+      "icon": "\ud83d\udd73\ufe0f",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        34.72101,
+        38.362689,
+        34.74859,
+        38.384311
+      ],
+      "center": [
+        38.3735,
+        34.7348
+      ],
+      "featureCounts": {
+        "buildings": 3132,
+        "roads": 316,
+        "water": 0,
+        "parks": 27,
+        "pois": 44,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "cc638596ac549bf7fed12ee57801e713c35235023a417f3cbfe928919f42dc57",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/derinkuyu_underground.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/derinkuyu_underground.json"
+    },
+    {
+      "id": "dubrovnik_walls",
+      "name": "Dubrovnik Old Town Walls",
+      "realm": "Europe",
+      "category": "Seaside Ramparts",
+      "icon": "\ud83e\uddf1",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        18.093704,
+        42.630489,
+        18.123096,
+        42.652111
+      ],
+      "center": [
+        42.6413,
+        18.1084
+      ],
+      "featureCounts": {
+        "buildings": 1660,
+        "roads": 1016,
+        "water": 4,
+        "parks": 141,
+        "pois": 285,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "13669fa8648f4d311ed9e151bb7d98b01c78ecbb279744cf2e90aa89cafa4324",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dubrovnik_walls.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dubrovnik_walls.json"
+    },
+    {
+      "id": "hadrians_wall",
+      "name": "Hadrian's Wall & Vindolanda",
+      "realm": "Europe",
+      "category": "Roman Rampart",
+      "icon": "\u2694\ufe0f",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        -2.37895,
+        54.993589,
+        -2.34125,
+        55.015211
+      ],
+      "center": [
+        55.0044,
+        -2.3601
+      ],
+      "featureCounts": {
+        "buildings": 29,
+        "roads": 60,
+        "water": 18,
+        "parks": 127,
+        "pois": 12,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "89e473c563c76bb14d404c0c499f0562ce08e57a4c51bc0efc33ebf100af9314",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/hadrians_wall.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/hadrians_wall.json"
+    },
+    {
+      "id": "mont_saint_michel",
+      "name": "Mont-Saint-Michel",
+      "realm": "Europe",
+      "category": "Tidal Citadel",
+      "icon": "\ud83c\udff0",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        -1.527859,
+        48.625189,
+        -1.495141,
+        48.646811
+      ],
+      "center": [
+        48.636,
+        -1.5115
+      ],
+      "featureCounts": {
+        "buildings": 106,
+        "roads": 567,
+        "water": 212,
+        "parks": 77,
+        "pois": 48,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "87a02f228ec7d8bfd94f7b29877449de91fb783360a9ad8ea6bdbc646530d7c5",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mont_saint_michel.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mont_saint_michel.json"
+    },
+    {
+      "id": "naarden",
+      "name": "Naarden Double-Moated Fort",
+      "realm": "Europe",
+      "category": "Star Fortress",
+      "icon": "\ud83d\udee1\ufe0f",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        5.145023,
+        52.285289,
+        5.180377,
+        52.306911
+      ],
+      "center": [
+        52.2961,
+        5.1627
+      ],
+      "featureCounts": {
+        "buildings": 7335,
+        "roads": 1295,
+        "water": 135,
+        "parks": 676,
+        "pois": 264,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3682304,
+      "checksumSha256": "4c08e5b0e8ee17734098cdf523f1a93eec8ca8ffec09ddbdb61444025ff51cc1",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/naarden.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/naarden.json"
+    },
+    {
+      "id": "palmanova",
+      "name": "Palmanova Star Fortress",
+      "realm": "Europe",
+      "category": "Star Fortress",
+      "icon": "\u2b50",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        13.295064,
+        45.894789,
+        13.326136,
+        45.916411
+      ],
+      "center": [
+        45.9056,
+        13.3106
+      ],
+      "featureCounts": {
+        "buildings": 1529,
+        "roads": 672,
+        "water": 69,
+        "parks": 241,
+        "pois": 127,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "8e3b36c64ab1cb493039065c97b50379da52af5d9c4512bcb147d8d167bf3224",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/palmanova.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/palmanova.json"
+    },
+    {
+      "id": "paris_catacombs",
+      "name": "Paris Catacombs (Ossuary)",
+      "realm": "Europe",
+      "category": "Megadungeon",
+      "icon": "\ud83d\udc80",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        2.315976,
+        48.822989,
+        2.348824,
+        48.844611
+      ],
+      "center": [
+        48.8338,
+        2.3324
+      ],
+      "featureCounts": {
+        "buildings": 8430,
+        "roads": 8716,
+        "water": 9,
+        "parks": 646,
+        "pois": 12020,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 7352320,
+      "checksumSha256": "0d4b3126d77fb0490b9ebf8f3acea16aff6f8c03eb958e447fd74f301b9f7ec1",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/paris_catacombs.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/paris_catacombs.json"
+    },
+    {
+      "id": "wieliczka_salt_mine",
+      "name": "Wieliczka Salt Mine",
+      "realm": "Europe",
+      "category": "Megadungeon",
+      "icon": "\ud83d\udc8e",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        20.038887,
+        49.972289,
+        20.072513,
+        49.993911
+      ],
+      "center": [
+        49.9831,
+        20.0557
+      ],
+      "featureCounts": {
+        "buildings": 4443,
+        "roads": 4209,
+        "water": 43,
+        "parks": 1096,
+        "pois": 202,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2895872,
+      "checksumSha256": "798437bda0a1c875971b354e1357057daf2739b9d3d6be3fadb7820ebd9b61c8",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/wieliczka_salt_mine.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/wieliczka_salt_mine.json"
+    },
+    {
+      "id": "skocjan_caves",
+      "name": "\u0160kocjan Caves & Karst Chasm",
+      "realm": "Europe",
+      "category": "Karst Canyon",
+      "icon": "\ud83c\udf0a",
+      "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+      "version": "v1.0.0",
+      "bbox": [
+        13.975731,
+        45.652289,
+        14.006669,
+        45.673911
+      ],
+      "center": [
+        45.6631,
+        13.9912
+      ],
+      "featureCounts": {
+        "buildings": 216,
+        "roads": 274,
+        "water": 13,
+        "parks": 638,
+        "pois": 70,
+        "caves": 10,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3158016,
+      "checksumSha256": "a5f6a7814d9521ad91c291511863daadc696c5b7a67ad5e70c3353ef85a6d0da",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/skocjan_caves.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/skocjan_caves.json"
+    },
+    {
+      "id": "kazumura_cave",
+      "name": "Kazumura Basalt Lava Tube",
+      "realm": "Hawaii",
+      "category": "Basalt Conduit",
+      "icon": "\ud83c\udf0b",
+      "realmEmoji": "\ud83c\udf3a",
+      "version": "v1.0.0",
+      "bbox": [
+        -155.04547,
+        19.508189,
+        -155.02253,
+        19.529811
+      ],
+      "center": [
+        19.519,
+        -155.034
+      ],
+      "featureCounts": {
+        "buildings": 369,
+        "roads": 32,
+        "water": 0,
+        "parks": 0,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1060864,
+      "checksumSha256": "6eabb4dd3517719916c6a34a6578ce131fb0e8c92deb5a3b01cd25c82052d6cf",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kazumura_cave.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kazumura_cave.json"
+    },
+    {
+      "id": "kilauea_caldera",
+      "name": "K\u012blauea Halema\u02bbuma\u02bbu Crater",
+      "realm": "Hawaii",
+      "category": "Magma Caldera",
+      "icon": "\ud83d\udd25",
+      "realmEmoji": "\ud83c\udf3a",
+      "version": "v1.0.0",
+      "bbox": [
+        -155.294862,
+        19.396089,
+        -155.271938,
+        19.417711
+      ],
+      "center": [
+        19.4069,
+        -155.2834
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 4,
+        "water": 0,
+        "parks": 20,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1323008,
+      "checksumSha256": "5ea40a10f4beeb750cd5f2b1ab04c7793bf48835e80b2b79fc5a708728e4c37e",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kilauea_caldera.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kilauea_caldera.json"
+    },
+    {
+      "id": "molokini_crater",
+      "name": "Molokini Sunken Crater",
+      "realm": "Hawaii",
+      "category": "Marine Sanctuary",
+      "icon": "\ud83c\udf0a",
+      "realmEmoji": "\ud83c\udf3a",
+      "version": "v1.0.0",
+      "bbox": [
+        -156.507352,
+        20.621089,
+        -156.484248,
+        20.642711
+      ],
+      "center": [
+        20.6319,
+        -156.4958
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 0,
+        "water": 0,
+        "parks": 2,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 798720,
+      "checksumSha256": "b66e2363874d9e6bc92e4bb52e9b74c8dc23a13e74fed5f0a7ebec1935cc3dc4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/molokini_crater.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/molokini_crater.json"
+    },
+    {
+      "id": "puuhonua_o_honaunau",
+      "name": "Pu\u02bbuhonua o H\u014dnaunau Heiau",
+      "realm": "Hawaii",
+      "category": "Sacred Temple",
+      "icon": "\u26e9\ufe0f",
+      "realmEmoji": "\ud83c\udf3a",
+      "version": "v1.0.0",
+      "bbox": [
+        -155.925863,
+        19.410889,
+        -155.902937,
+        19.432511
+      ],
+      "center": [
+        19.4217,
+        -155.9144
+      ],
+      "featureCounts": {
+        "buildings": 18,
+        "roads": 38,
+        "water": 0,
+        "parks": 13,
+        "pois": 2,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "be9f75cd0248cf2370957887c69eebf28a4d67d7b8ae4988cdb568c6ac0e37ef",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/puuhonua_o_honaunau.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/puuhonua_o_honaunau.json"
+    },
+    {
+      "id": "waipio_valley",
+      "name": "Waipi\u02bbo Valley Ahupua\u02bba",
+      "realm": "Hawaii",
+      "category": "Taro Watershed",
+      "icon": "\ud83c\udf31",
+      "realmEmoji": "\ud83c\udf3a",
+      "version": "v1.0.0",
+      "bbox": [
+        -155.597613,
+        20.108089,
+        -155.574587,
+        20.129711
+      ],
+      "center": [
+        20.1189,
+        -155.5861
+      ],
+      "featureCounts": {
+        "buildings": 93,
+        "roads": 40,
+        "water": 8,
+        "parks": 16,
+        "pois": 1,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "7dbb29e182d59c525f492ab9ce320f51e81a154de3bc97bff6c6890268ed1860",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/waipio_valley.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/waipio_valley.json"
+    },
+    {
+      "id": "pyramiden_ghost_town",
+      "name": "Pyramiden Ghost Mining Town",
+      "realm": "High Arctic",
+      "category": "Ghost Town Citadel",
+      "icon": "\u2692\ufe0f",
+      "realmEmoji": "\ud83c\udf10",
+      "version": "v1.0.0",
+      "bbox": [
+        16.271738,
+        78.645289,
+        16.381662,
+        78.666911
+      ],
+      "center": [
+        78.6561,
+        16.3267
+      ],
+      "featureCounts": {
+        "buildings": 75,
+        "roads": 189,
+        "water": 53,
+        "parks": 23,
+        "pois": 6,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "42775ac77534bb06e80176cf9a82f609dd79c116ade2df84f48b89f371caef04",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/pyramiden_ghost_town.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/pyramiden_ghost_town.json"
+    },
+    {
+      "id": "svalbard_seed_vault",
+      "name": "Svalbard Global Seed Vault",
+      "realm": "High Arctic",
+      "category": "Doomsday Vault",
+      "icon": "\ud83c\udf31",
+      "realmEmoji": "\ud83c\udf10",
+      "version": "v1.0.0",
+      "bbox": [
+        15.438276,
+        78.224989,
+        15.544324,
+        78.246611
+      ],
+      "center": [
+        78.2358,
+        15.4913
+      ],
+      "featureCounts": {
+        "buildings": 45,
+        "roads": 44,
+        "water": 12,
+        "parks": 11,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1847296,
+      "checksumSha256": "fe60bb60b6f92acade2d1060fc728edfe9268f92b3ff35ffa8d50bc1fc4425c7",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/svalbard_seed_vault.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/svalbard_seed_vault.json"
+    },
+    {
+      "id": "fushimi_inari",
+      "name": "Fushimi Inari Torii Corridor",
+      "realm": "Japan Feudal",
+      "category": "Shinto Shrine",
+      "icon": "\u26e9\ufe0f",
+      "realmEmoji": "\u26e9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        135.759508,
+        34.956289,
+        135.785892,
+        34.977911
+      ],
+      "center": [
+        34.9671,
+        135.7727
+      ],
+      "featureCounts": {
+        "buildings": 12761,
+        "roads": 2436,
+        "water": 113,
+        "parks": 376,
+        "pois": 604,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3944448,
+      "checksumSha256": "65c172642124371e5093b7e6f09443e32c121cdb2808e2d2ef4157b40c546d35",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fushimi_inari.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fushimi_inari.json"
+    },
+    {
+      "id": "himeji_castle",
+      "name": "Himeji Castle (White Heron)",
+      "realm": "Japan Feudal",
+      "category": "Feudal Castle",
+      "icon": "\ud83c\udfef",
+      "realmEmoji": "\u26e9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        134.680728,
+        34.828589,
+        134.707072,
+        34.850211
+      ],
+      "center": [
+        34.8394,
+        134.6939
+      ],
+      "featureCounts": {
+        "buildings": 9134,
+        "roads": 2155,
+        "water": 95,
+        "parks": 253,
+        "pois": 2643,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2895872,
+      "checksumSha256": "e5c5c160ead4408c8b3c6b2e0ca1e3e671ed908d909ccf7bb934a91a442f97bb",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/himeji_castle.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/himeji_castle.json"
+    },
+    {
+      "id": "kumano_kodo",
+      "name": "Kumano Kodo Daimon-zaka",
+      "realm": "Japan Feudal",
+      "category": "Pilgrim Trail",
+      "icon": "\ud83c\udf32",
+      "realmEmoji": "\u26e9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        135.87761,
+        33.657689,
+        135.90359,
+        33.679311
+      ],
+      "center": [
+        33.6685,
+        135.8906
+      ],
+      "featureCounts": {
+        "buildings": 162,
+        "roads": 212,
+        "water": 16,
+        "parks": 10,
+        "pois": 6,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "d999aa54d060e2304d71779acaf6873fcdf6a5ca99f0b9dac483ebb52bde27c9",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kumano_kodo.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kumano_kodo.json"
+    },
+    {
+      "id": "kusatsu_onsen",
+      "name": "Kusatsu Onsen Yubatake",
+      "realm": "Japan Feudal",
+      "category": "Geothermal Spring",
+      "icon": "\u2668\ufe0f",
+      "realmEmoji": "\u26e9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        138.58263,
+        36.609789,
+        138.60957,
+        36.631411
+      ],
+      "center": [
+        36.6206,
+        138.5961
+      ],
+      "featureCounts": {
+        "buildings": 2490,
+        "roads": 780,
+        "water": 52,
+        "parks": 80,
+        "pois": 93,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "8791234422cf1701cd3001ccda816b2b92d8bf1671e84174edef0d227e67a226",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kusatsu_onsen.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kusatsu_onsen.json"
+    },
+    {
+      "id": "narusawa_ice_cave",
+      "name": "Mount Fuji Narusawa Ice Cave",
+      "realm": "Japan Feudal",
+      "category": "Volcanic Ice Cave",
+      "icon": "\u2744\ufe0f",
+      "realmEmoji": "\u26e9\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        138.640625,
+        35.464489,
+        138.667175,
+        35.486111
+      ],
+      "center": [
+        35.4753,
+        138.6539
+      ],
+      "featureCounts": {
+        "buildings": 4,
+        "roads": 43,
+        "water": 0,
+        "parks": 0,
+        "pois": 2,
+        "caves": 2,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1585152,
+      "checksumSha256": "7c2e185f39f0bd6f95a04cebef5021e07db9bf3933f9ca1926b78b497e4231e1",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/narusawa_ice_cave.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/narusawa_ice_cave.json"
+    },
+    {
+      "id": "la_griffith_observatory",
+      "name": "LA \u2014 Griffith Observatory & Bronson Caves",
+      "realm": "Los Angeles",
+      "category": "Mountain Overlook",
+      "icon": "\ud83d\udd2d",
+      "realmEmoji": "\ud83c\udf34",
+      "version": "v1.0.0",
+      "bbox": [
+        -118.313458,
+        34.107589,
+        -118.287342,
+        34.129211
+      ],
+      "center": [
+        34.1184,
+        -118.3004
+      ],
+      "featureCounts": {
+        "buildings": 2253,
+        "roads": 1004,
+        "water": 29,
+        "parks": 810,
+        "pois": 137,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3420160,
+      "checksumSha256": "c7117d0427138ed88aef5fbc221774094d0e3c01e6409edc46531179b78ced4a",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_griffith_observatory.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_griffith_observatory.json"
+    },
+    {
+      "id": "la_river_viaducts",
+      "name": "LA \u2014 Los Angeles River & 6th St Viaduct",
+      "realm": "Los Angeles",
+      "category": "Concrete Arroyo",
+      "icon": "\ud83c\udf09",
+      "realmEmoji": "\ud83c\udf34",
+      "version": "v1.0.0",
+      "bbox": [
+        -118.241146,
+        34.027589,
+        -118.215054,
+        34.049211
+      ],
+      "center": [
+        34.0384,
+        -118.2281
+      ],
+      "featureCounts": {
+        "buildings": 2735,
+        "roads": 2991,
+        "water": 5,
+        "parks": 60,
+        "pois": 113,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3944448,
+      "checksumSha256": "3ef60a0f3d0a4fa662495559026ae939b4697ec4679ebea4fbb41244610ddcbe",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_river_viaducts.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_river_viaducts.json"
+    },
+    {
+      "id": "la_sunken_city",
+      "name": "LA \u2014 Sunken City Ruins & Fort MacArthur",
+      "realm": "Los Angeles",
+      "category": "Sunken Coastal Ruins",
+      "icon": "\ud83c\udf0a",
+      "realmEmoji": "\ud83c\udf34",
+      "version": "v1.0.0",
+      "bbox": [
+        -118.306596,
+        33.696889,
+        -118.280604,
+        33.718511
+      ],
+      "center": [
+        33.7077,
+        -118.2936
+      ],
+      "featureCounts": {
+        "buildings": 2806,
+        "roads": 440,
+        "water": 1,
+        "parks": 120,
+        "pois": 195,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "0a95a7fff6702843f7f6d16a0b04a4feab64b0edff60a4e4e6d8216fe4afc057",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_sunken_city.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_sunken_city.json"
+    },
+    {
+      "id": "alley_mill_mo",
+      "name": "Alley Spring Crimson Mill",
+      "realm": "Missouri",
+      "category": "Historic Gristmill",
+      "icon": "\u2699\ufe0f",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -91.455564,
+        37.143189,
+        -91.428436,
+        37.164811
+      ],
+      "center": [
+        37.154,
+        -91.442
+      ],
+      "featureCounts": {
+        "buildings": 16,
+        "roads": 64,
+        "water": 36,
+        "parks": 3,
+        "pois": 3,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "aa8163f8885cad327a26665100ae3cb00fc563eeb6eb98d14e4462f79297cc93",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/alley_mill_mo.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/alley_mill_mo.json"
+    },
+    {
+      "id": "big_spring_mo",
+      "name": "Big Spring (Elemental Surge)",
+      "realm": "Missouri",
+      "category": "Karst Spring",
+      "icon": "\u26f2",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -91.007528,
+        36.942189,
+        -90.980472,
+        36.963811
+      ],
+      "center": [
+        36.953,
+        -90.994
+      ],
+      "featureCounts": {
+        "buildings": 9,
+        "roads": 66,
+        "water": 3,
+        "parks": 2,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "3f047f9ae61ec72a0a52db07d646d6565c60b227ebc390ecc6c5a1989eaa4954",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/big_spring_mo.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/big_spring_mo.json"
+    },
+    {
+      "id": "fort_davidson_mo",
+      "name": "Fort Davidson Star Fort",
+      "realm": "Missouri",
+      "category": "Star Fort Redoubt",
+      "icon": "\u2694\ufe0f",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -90.656949,
+        37.609989,
+        -90.629651,
+        37.631611
+      ],
+      "center": [
+        37.6208,
+        -90.6433
+      ],
+      "featureCounts": {
+        "buildings": 16,
+        "roads": 92,
+        "water": 1,
+        "parks": 4,
+        "pois": 3,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "cbd87f3c8686432d4436547a8bcbaf31b24282b635eb61d8d33a927a3919c856",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fort_davidson_mo.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fort_davidson_mo.json"
+    },
+    {
+      "id": "subtropolis_kc",
+      "name": "Kansas City SubTropolis",
+      "realm": "Missouri",
+      "category": "Limestone City",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -94.507842,
+        39.144989,
+        -94.479958,
+        39.166611
+      ],
+      "center": [
+        39.1558,
+        -94.4939
+      ],
+      "featureCounts": {
+        "buildings": 102,
+        "roads": 434,
+        "water": 25,
+        "parks": 92,
+        "pois": 4,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2371584,
+      "checksumSha256": "d7d021b73c31ef30bfe41d56a774ef6a8bbc1eaf9fd83376830d28bcc433da73",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/subtropolis_kc.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/subtropolis_kc.json"
+    },
+    {
+      "id": "lone_elk_preserve",
+      "name": "Lone Elk Wildlife Preserve",
+      "realm": "Missouri",
+      "category": "Wild Game Preserve",
+      "icon": "\ud83e\uddac",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -90.562222,
+        38.533889,
+        -90.534578,
+        38.555511
+      ],
+      "center": [
+        38.5447,
+        -90.5484
+      ],
+      "featureCounts": {
+        "buildings": 15,
+        "roads": 145,
+        "water": 25,
+        "parks": 11,
+        "pois": 3,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "d4a17d46f3585be1500eb721e2b3cbfdaeb6689490c3c5929fdff42a69c32096",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/lone_elk_preserve.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/lone_elk_preserve.json"
+    },
+    {
+      "id": "monks_mound_cahokia",
+      "name": "Monks Mound (Cahokia)",
+      "realm": "Missouri",
+      "category": "Platform Earthwork",
+      "icon": "\u26f0\ufe0f",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -90.076045,
+        38.649689,
+        -90.048355,
+        38.671311
+      ],
+      "center": [
+        38.6605,
+        -90.0622
+      ],
+      "featureCounts": {
+        "buildings": 15,
+        "roads": 149,
+        "water": 12,
+        "parks": 76,
+        "pois": 0,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "915b78e08b555af6383f6eac79f645a7631e09862a08e25c069bb7edb8490de5",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/monks_mound_cahokia.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/monks_mound_cahokia.json"
+    },
+    {
+      "id": "world_bird_sanctuary",
+      "name": "World Bird Sanctuary Aerie",
+      "realm": "Missouri",
+      "category": "Raptor Sanctuary",
+      "icon": "\ud83e\udd85",
+      "realmEmoji": "\ud83c\udfd4\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -90.572021,
+        38.525889,
+        -90.544379,
+        38.547511
+      ],
+      "center": [
+        38.5367,
+        -90.5582
+      ],
+      "featureCounts": {
+        "buildings": 4,
+        "roads": 67,
+        "water": 27,
+        "parks": 4,
+        "pois": 0,
+        "caves": 1,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "cfb96137eea3bee5f215a809c1b0bf6ad7f8adb8caf89d7d8bc5ca579641ba3d",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/world_bird_sanctuary.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/world_bird_sanctuary.json"
+    },
+    {
+      "id": "central_park_belvedere",
+      "name": "NYC \u2014 Central Park & Belvedere Castle",
+      "realm": "New York City",
+      "category": "Stone Folly & Park",
+      "icon": "\ud83c\udff0",
+      "realmEmoji": "\ud83d\uddfd",
+      "version": "v1.0.0",
+      "bbox": [
+        -73.983277,
+        40.768589,
+        -73.954723,
+        40.790211
+      ],
+      "center": [
+        40.7794,
+        -73.969
+      ],
+      "featureCounts": {
+        "buildings": 4913,
+        "roads": 4378,
+        "water": 16,
+        "parks": 595,
+        "pois": 2369,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 6041600,
+      "checksumSha256": "604bd51b11369cf17ee54618717969744e8d5d86aed71d41a8219489d6ae65bc",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/central_park_belvedere.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/central_park_belvedere.json"
+    },
+    {
+      "id": "nyc_city_hall_loop",
+      "name": "NYC \u2014 City Hall Loop Subterranean Station",
+      "realm": "New York City",
+      "category": "Guastavino Vault",
+      "icon": "\ud83d\ude87",
+      "realmEmoji": "\ud83d\uddfd",
+      "version": "v1.0.0",
+      "bbox": [
+        -74.018363,
+        40.702189,
+        -73.989837,
+        40.723811
+      ],
+      "center": [
+        40.713,
+        -74.0041
+      ],
+      "featureCounts": {
+        "buildings": 4137,
+        "roads": 10798,
+        "water": 44,
+        "parks": 3632,
+        "pois": 9763,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 8138752,
+      "checksumSha256": "2505c1acc100cdac6bf5b696845bc74dee04e26e2995b84279fabe322ada4851",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/nyc_city_hall_loop.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/nyc_city_hall_loop.json"
+    },
+    {
+      "id": "governors_island_castle",
+      "name": "NYC \u2014 Governors Island & Castle Williams",
+      "realm": "New York City",
+      "category": "Coastal Star Fort",
+      "icon": "\ud83d\udee1\ufe0f",
+      "realmEmoji": "\ud83d\uddfd",
+      "version": "v1.0.0",
+      "bbox": [
+        -74.030558,
+        40.681389,
+        -74.002042,
+        40.703011
+      ],
+      "center": [
+        40.6922,
+        -74.0163
+      ],
+      "featureCounts": {
+        "buildings": 709,
+        "roads": 2056,
+        "water": 19,
+        "parks": 1262,
+        "pois": 2299,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 4730880,
+      "checksumSha256": "05df72d70830718febe50f9057377271529d5d11721b1c66f354ca1a6ab4658e",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/governors_island_castle.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/governors_island_castle.json"
+    },
+    {
+      "id": "nyc_high_line",
+      "name": "NYC \u2014 High Line Viaduct & Sky Meadow",
+      "realm": "New York City",
+      "category": "Elevated Rail Garden",
+      "icon": "\ud83c\udf3f",
+      "realmEmoji": "\ud83d\uddfd",
+      "version": "v1.0.0",
+      "bbox": [
+        -74.01907,
+        40.737189,
+        -73.99053,
+        40.758811
+      ],
+      "center": [
+        40.748,
+        -74.0048
+      ],
+      "featureCounts": {
+        "buildings": 3555,
+        "roads": 3849,
+        "water": 7,
+        "parks": 646,
+        "pois": 1589,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3944448,
+      "checksumSha256": "cd439cb9b0f2be035703efd0a0785e9ad4501fb54ebedbba337076a4e3a558ee",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/nyc_high_line.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/nyc_high_line.json"
+    },
+    {
+      "id": "tokyo_edo_castle",
+      "name": "Edo Castle Moats & Ramparts",
+      "realm": "Tokyo",
+      "category": "Megalithic Walls",
+      "icon": "\ud83c\udfef",
+      "realmEmoji": "\ud83d\uddfc",
+      "version": "v1.0.0",
+      "bbox": [
+        139.73949,
+        35.674389,
+        139.76611,
+        35.696011
+      ],
+      "center": [
+        35.6852,
+        139.7528
+      ],
+      "featureCounts": {
+        "buildings": 3115,
+        "roads": 4349,
+        "water": 45,
+        "parks": 500,
+        "pois": 1544,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 4993024,
+      "checksumSha256": "1613224b5908378fc1573cb1e609a4f22eb0b33ece423bdd5469d14d1c6c08da",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_edo_castle.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_edo_castle.json"
+    },
+    {
+      "id": "tokyo_gcans",
+      "name": "G-Cans Storm Surge Cathedral",
+      "realm": "Tokyo",
+      "category": "Subterranean Tank",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83d\uddfc",
+      "version": "v1.0.0",
+      "bbox": [
+        139.798137,
+        35.986889,
+        139.824863,
+        36.008511
+      ],
+      "center": [
+        35.9977,
+        139.8115
+      ],
+      "featureCounts": {
+        "buildings": 3021,
+        "roads": 645,
+        "water": 57,
+        "parks": 204,
+        "pois": 104,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2633728,
+      "checksumSha256": "0dfc9f52e524d967b74c406f39ea761fab9f026c01be81c6b96caa7391104281",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_gcans.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_gcans.json"
+    },
+    {
+      "id": "tokyo_kanda",
+      "name": "Kanda Kan-nana Diversion",
+      "realm": "Tokyo",
+      "category": "Flood Conduit",
+      "icon": "\ud83c\udf00",
+      "realmEmoji": "\ud83d\uddfc",
+      "version": "v1.0.0",
+      "bbox": [
+        139.651086,
+        35.697989,
+        139.677714,
+        35.719611
+      ],
+      "center": [
+        35.7088,
+        139.6644
+      ],
+      "featureCounts": {
+        "buildings": 26509,
+        "roads": 4069,
+        "water": 13,
+        "parks": 1154,
+        "pois": 1377,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 6041600,
+      "checksumSha256": "8ed20d9c7f71fdb18f1fd72a774957928d260d6773770fe79f76e457d2fd4818",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_kanda.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_kanda.json"
+    },
+    {
+      "id": "tokyo_daiba",
+      "name": "Odaiba Daiba Fortress Island",
+      "realm": "Tokyo",
+      "category": "Offshore Battery",
+      "icon": "\u2693",
+      "realmEmoji": "\ud83d\uddfc",
+      "version": "v1.0.0",
+      "bbox": [
+        139.758199,
+        35.622689,
+        139.784801,
+        35.644311
+      ],
+      "center": [
+        35.6335,
+        139.7715
+      ],
+      "featureCounts": {
+        "buildings": 176,
+        "roads": 1109,
+        "water": 3,
+        "parks": 237,
+        "pois": 321,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 2109440,
+      "checksumSha256": "bb7787534aac373e75231046f512069f7bf3eed27cba82d89a3f9854d1efb7c0",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_daiba.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_daiba.json"
+    },
+    {
+      "id": "tokyo_shinjuku",
+      "name": "Shinjuku Metro Labyrinth",
+      "realm": "Tokyo",
+      "category": "Underground Concourse",
+      "icon": "\ud83d\ude87",
+      "realmEmoji": "\ud83d\uddfc",
+      "version": "v1.0.0",
+      "bbox": [
+        139.687189,
+        35.679689,
+        139.713811,
+        35.701311
+      ],
+      "center": [
+        35.6905,
+        139.7005
+      ],
+      "featureCounts": {
+        "buildings": 11688,
+        "roads": 5733,
+        "water": 34,
+        "parks": 360,
+        "pois": 2236,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 7090176,
+      "checksumSha256": "12ff3a768348cee1d53fe0cfd6c10bb6c50680707fd4bd3472546749a676861b",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_shinjuku.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_shinjuku.json"
+    },
+    {
+      "id": "dc_fort_stevens",
+      "name": "DC \u2014 Fort Stevens Civil War Defenses",
+      "realm": "Washington DC",
+      "category": "Civil War Redoubt",
+      "icon": "\u2694\ufe0f",
+      "realmEmoji": "\ud83c\udfdb\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -77.042804,
+        38.953589,
+        -77.014996,
+        38.975211
+      ],
+      "center": [
+        38.9644,
+        -77.0289
+      ],
+      "featureCounts": {
+        "buildings": 8185,
+        "roads": 3420,
+        "water": 26,
+        "parks": 378,
+        "pois": 192,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3944448,
+      "checksumSha256": "b405fb451931a24bdc279ddb34b5f55d54a5be95f810cf80a5020dc0386a472b",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_fort_stevens.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_fort_stevens.json"
+    },
+    {
+      "id": "dc_national_mall",
+      "name": "DC \u2014 National Mall & Lincoln Reflecting Pool",
+      "realm": "Washington DC",
+      "category": "Monumental Axis",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83c\udfdb\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -77.064089,
+        38.878489,
+        -77.036311,
+        38.900111
+      ],
+      "center": [
+        38.8893,
+        -77.0502
+      ],
+      "featureCounts": {
+        "buildings": 455,
+        "roads": 2975,
+        "water": 54,
+        "parks": 700,
+        "pois": 3209,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 4468736,
+      "checksumSha256": "4db5c3d6c6ae07d5482548f91460c1375363f605861c9cb278967795f93e859f",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_national_mall.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_national_mall.json"
+    },
+    {
+      "id": "dc_roosevelt_island",
+      "name": "DC \u2014 Theodore Roosevelt Island & Rock Creek",
+      "realm": "Washington DC",
+      "category": "Potomac Sanctuary",
+      "icon": "\ud83c\udf32",
+      "realmEmoji": "\ud83c\udfdb\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -77.078091,
+        38.886089,
+        -77.050309,
+        38.907711
+      ],
+      "center": [
+        38.8969,
+        -77.0642
+      ],
+      "featureCounts": {
+        "buildings": 2434,
+        "roads": 4848,
+        "water": 61,
+        "parks": 647,
+        "pois": 1357,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 5255168,
+      "checksumSha256": "522927bb4b06af5888bbe96005adf2ab7339ee61a953370c68a955ed71583422",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_roosevelt_island.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_roosevelt_island.json"
+    },
+    {
+      "id": "dc_capitol_complex",
+      "name": "DC \u2014 US Capitol & Congressional Tunnels",
+      "realm": "Washington DC",
+      "category": "Legislative Citadel",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "realmEmoji": "\ud83c\udfdb\ufe0f",
+      "version": "v1.0.0",
+      "bbox": [
+        -77.022989,
+        38.879089,
+        -76.995211,
+        38.900711
+      ],
+      "center": [
+        38.8899,
+        -77.0091
+      ],
+      "featureCounts": {
+        "buildings": 6308,
+        "roads": 7145,
+        "water": 41,
+        "parks": 1089,
+        "pois": 2975,
+        "caves": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 3944448,
+      "checksumSha256": "83ba50624cfa80205e7e26402c81d8ed84e147154da02e965c29d9074c92f983",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_capitol_complex.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_capitol_complex.json"
+    }
+  ]
+}

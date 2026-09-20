@@ -1,0 +1,32 @@
+{
+  "id": "tokyo_edo_castle",
+  "name": "Edo Castle Moats & Ramparts",
+  "version": "v1.0.0",
+  "bbox": [
+    139.73949,
+    35.674389,
+    139.76611,
+    35.696011
+  ],
+  "featureCounts": {
+    "buildings": 3115,
+    "roads": 4349,
+    "water": 45,
+    "parks": 500,
+    "pois": 1544,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 4993024,
+  "checksumSha256": "1613224b5908378fc1573cb1e609a4f22eb0b33ece423bdd5469d14d1c6c08da",
+  "createdAt": 1789934438,
+  "realm": "Tokyo",
+  "category": "Megalithic Walls",
+  "icon": "\ud83c\udfef",
+  "realmEmoji": "\ud83d\uddfc",
+  "center": [
+    35.6852,
+    139.7528
+  ]
+}

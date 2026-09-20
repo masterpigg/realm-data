@@ -1,0 +1,32 @@
+{
+  "id": "central_park_belvedere",
+  "name": "NYC \u2014 Central Park & Belvedere Castle",
+  "version": "v1.0.0",
+  "bbox": [
+    -73.983277,
+    40.768589,
+    -73.954723,
+    40.790211
+  ],
+  "featureCounts": {
+    "buildings": 4913,
+    "roads": 4378,
+    "water": 16,
+    "parks": 595,
+    "pois": 2369,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 6041600,
+  "checksumSha256": "604bd51b11369cf17ee54618717969744e8d5d86aed71d41a8219489d6ae65bc",
+  "createdAt": 1789933479,
+  "realm": "New York City",
+  "category": "Stone Folly & Park",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83d\uddfd",
+  "center": [
+    40.7794,
+    -73.969
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kilauea_caldera",
+  "name": "K\u012blauea Halema\u02bbuma\u02bbu Crater",
+  "version": "v1.0.0",
+  "bbox": [
+    -155.294862,
+    19.396089,
+    -155.271938,
+    19.417711
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 4,
+    "water": 0,
+    "parks": 20,
+    "pois": 0,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1323008,
+  "checksumSha256": "5ea40a10f4beeb750cd5f2b1ab04c7793bf48835e80b2b79fc5a708728e4c37e",
+  "createdAt": 1789934611,
+  "realm": "Hawaii",
+  "category": "Magma Caldera",
+  "icon": "\ud83d\udd25",
+  "realmEmoji": "\ud83c\udf3a",
+  "center": [
+    19.4069,
+    -155.2834
+  ]
+}

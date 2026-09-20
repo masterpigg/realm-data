@@ -1,0 +1,32 @@
+{
+  "id": "dawson_city_klondike",
+  "name": "Dawson City & Dredge No. 4",
+  "version": "v1.0.0",
+  "bbox": [
+    -139.456714,
+    64.049189,
+    -139.407286,
+    64.070811
+  ],
+  "featureCounts": {
+    "buildings": 344,
+    "roads": 111,
+    "water": 12,
+    "parks": 46,
+    "pois": 20,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "4adf3d43b380cd0c90d00624bd845fe06c5137a65f8d3182fb80ae8f383bd79b",
+  "createdAt": 1789933860,
+  "realm": "Canada Frontier",
+  "category": "Gold Rush Boomtown",
+  "icon": "\u26cf\ufe0f",
+  "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+  "center": [
+    64.06,
+    -139.432
+  ]
+}

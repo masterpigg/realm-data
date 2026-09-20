@@ -1,0 +1,32 @@
+{
+  "id": "mont_saint_michel",
+  "name": "Mont-Saint-Michel",
+  "version": "v1.0.0",
+  "bbox": [
+    -1.527859,
+    48.625189,
+    -1.495141,
+    48.646811
+  ],
+  "featureCounts": {
+    "buildings": 106,
+    "roads": 567,
+    "water": 212,
+    "parks": 77,
+    "pois": 48,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "87a02f228ec7d8bfd94f7b29877449de91fb783360a9ad8ea6bdbc646530d7c5",
+  "createdAt": 1789934197,
+  "realm": "Europe",
+  "category": "Tidal Citadel",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\uddea\ud83c\uddfa",
+  "center": [
+    48.636,
+    -1.5115
+  ]
+}

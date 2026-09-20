@@ -1,0 +1,32 @@
+{
+  "id": "diefenbunker_carp",
+  "name": "The Diefenbunker Blast Shelter",
+  "version": "v1.0.0",
+  "bbox": [
+    -76.064284,
+    45.340889,
+    -76.033516,
+    45.362511
+  ],
+  "featureCounts": {
+    "buildings": 408,
+    "roads": 175,
+    "water": 13,
+    "parks": 65,
+    "pois": 315,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "c140152cda7836ff5c7d0f0d8b0b00e3b69e43421d10b0108e69f359cba4858d",
+  "createdAt": 1789933853,
+  "realm": "Canada Frontier",
+  "category": "Cold War Bunker",
+  "icon": "\ud83d\udee1\ufe0f",
+  "realmEmoji": "\ud83c\udde8\ud83c\udde6",
+  "center": [
+    45.3517,
+    -76.0489
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "waipio_valley",
+  "name": "Waipi\u02bbo Valley Ahupua\u02bba",
+  "version": "v1.0.0",
+  "bbox": [
+    -155.597613,
+    20.108089,
+    -155.574587,
+    20.129711
+  ],
+  "featureCounts": {
+    "buildings": 93,
+    "roads": 40,
+    "water": 8,
+    "parks": 16,
+    "pois": 1,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "7dbb29e182d59c525f492ab9ce320f51e81a154de3bc97bff6c6890268ed1860",
+  "createdAt": 1789934617,
+  "realm": "Hawaii",
+  "category": "Taro Watershed",
+  "icon": "\ud83c\udf31",
+  "realmEmoji": "\ud83c\udf3a",
+  "center": [
+    20.1189,
+    -155.5861
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nyc_city_hall_loop",
+  "name": "NYC \u2014 City Hall Loop Subterranean Station",
+  "version": "v1.0.0",
+  "bbox": [
+    -74.018363,
+    40.702189,
+    -73.989837,
+    40.723811
+  ],
+  "featureCounts": {
+    "buildings": 4137,
+    "roads": 10798,
+    "water": 44,
+    "parks": 3632,
+    "pois": 9763,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 8138752,
+  "checksumSha256": "2505c1acc100cdac6bf5b696845bc74dee04e26e2995b84279fabe322ada4851",
+  "createdAt": 1789933548,
+  "realm": "New York City",
+  "category": "Guastavino Vault",
+  "icon": "\ud83d\ude87",
+  "realmEmoji": "\ud83d\uddfd",
+  "center": [
+    40.713,
+    -74.0041
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "governors_island_castle",
+  "name": "NYC \u2014 Governors Island & Castle Williams",
+  "version": "v1.0.0",
+  "bbox": [
+    -74.030558,
+    40.681389,
+    -74.002042,
+    40.703011
+  ],
+  "featureCounts": {
+    "buildings": 709,
+    "roads": 2056,
+    "water": 19,
+    "parks": 1262,
+    "pois": 2299,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 4730880,
+  "checksumSha256": "05df72d70830718febe50f9057377271529d5d11721b1c66f354ca1a6ab4658e",
+  "createdAt": 1789933498,
+  "realm": "New York City",
+  "category": "Coastal Star Fort",
+  "icon": "\ud83d\udee1\ufe0f",
+  "realmEmoji": "\ud83d\uddfd",
+  "center": [
+    40.6922,
+    -74.0163
+  ]
+}

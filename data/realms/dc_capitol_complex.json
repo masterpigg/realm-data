@@ -1,0 +1,32 @@
+{
+  "id": "dc_capitol_complex",
+  "name": "DC \u2014 US Capitol & Congressional Tunnels",
+  "version": "v1.0.0",
+  "bbox": [
+    -77.022989,
+    38.879089,
+    -76.995211,
+    38.900711
+  ],
+  "featureCounts": {
+    "buildings": 6308,
+    "roads": 7145,
+    "water": 41,
+    "parks": 1089,
+    "pois": 2975,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 3944448,
+  "checksumSha256": "83ba50624cfa80205e7e26402c81d8ed84e147154da02e965c29d9074c92f983",
+  "createdAt": 1789933623,
+  "realm": "Washington DC",
+  "category": "Legislative Citadel",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udfdb\ufe0f",
+  "center": [
+    38.8899,
+    -77.0091
+  ]
+}

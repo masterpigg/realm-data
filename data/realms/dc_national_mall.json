@@ -1,0 +1,32 @@
+{
+  "id": "dc_national_mall",
+  "name": "DC \u2014 National Mall & Lincoln Reflecting Pool",
+  "version": "v1.0.0",
+  "bbox": [
+    -77.064089,
+    38.878489,
+    -77.036311,
+    38.900111
+  ],
+  "featureCounts": {
+    "buildings": 455,
+    "roads": 2975,
+    "water": 54,
+    "parks": 700,
+    "pois": 3209,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 4468736,
+  "checksumSha256": "4db5c3d6c6ae07d5482548f91460c1375363f605861c9cb278967795f93e859f",
+  "createdAt": 1789933589,
+  "realm": "Washington DC",
+  "category": "Monumental Axis",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udfdb\ufe0f",
+  "center": [
+    38.8893,
+    -77.0502
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "neumayer_iii_station",
+  "name": "Neumayer Station III Platform",
+  "version": "v1.0.0",
+  "bbox": [
+    -8.299355,
+    -70.677511,
+    -8.234045,
+    -70.655889
+  ],
+  "featureCounts": {
+    "buildings": 2,
+    "roads": 2,
+    "water": 0,
+    "parks": 0,
+    "pois": 1,
+    "caves": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1323008,
+  "checksumSha256": "6bb09025738572eb2fadcf93d31d61a2e9eae42936b0484d70e1b8cac00e68b4",
+  "createdAt": 1789934172,
+  "realm": "Antarctica",
+  "category": "Hydraulic Ice Fortress",
+  "icon": "\ud83c\udfd7\ufe0f",
+  "realmEmoji": "\u2744\ufe0f",
+  "center": [
+    -70.6667,
+    -8.2667
+  ]
+}
