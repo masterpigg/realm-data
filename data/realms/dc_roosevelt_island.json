@@ -18,9 +18,9 @@
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 5255168,
-  "checksumSha256": "522927bb4b06af5888bbe96005adf2ab7339ee61a953370c68a955ed71583422",
-  "createdAt": 1789933671,
+  "sizeBytes": 4730880,
+  "checksumSha256": "f460be0b46e106f900d59e4c5d916db817ce409dc4d1f547d3b80a18d5ffd2b8",
+  "createdAt": 1789935286,
   "realm": "Washington DC",
   "category": "Potomac Sanctuary",
   "icon": "\ud83c\udf32",

@@ -1,6 +1,6 @@
 {
   "version": "v1.0.0",
-  "generatedAt": 1789934721,
+  "generatedAt": 1789936348,
   "repository": "masterpigg/realm-data",
   "releaseTag": "v1.0.0",
   "releasesBaseUrl": "https://github.com/masterpigg/realm-data/releases/download",
@@ -35,7 +35,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "a5bf89a8c12bcdfce967dbcfea22b0393e216445605189d871c87532b8a30bb4",
+      "checksumSha256": "af11f897bd8190032aa9f8db65f69b7e9fd323ea12214b34f60f28ea05a04479",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kennecott_mines.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kennecott_mines.json"
     },
@@ -68,7 +68,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "aa84199cdea1c342c8c5f707657a82db61a69856aecf5dedef15681f8610f37c",
+      "checksumSha256": "c1644c59f9b6b417b0f0f3f30a9fcf98d16a2f46cee319e247a5496b4207df8e",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mendenhall_ice_caves.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mendenhall_ice_caves.json"
     },
@@ -101,7 +101,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "a08c5bcc159ed34362412bef5bf746f0083477bcb8e02863c6b93d6700e638e4",
+      "checksumSha256": "d90f2edb782bd97cc087967be95005ff21e1e519d797b89dae75c8a98fe1dd31",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/utqiagvik_barrow.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/utqiagvik_barrow.json"
     },
@@ -134,7 +134,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "b3c0fa9acad617088697e70075a842b1a48358478908e439790d05eda1853496",
+      "checksumSha256": "cd5bb45580cd4567573bea107165173d73c24eb5b35069461b12525835591f76",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/whittier_begich.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/whittier_begich.json"
     },
@@ -167,7 +167,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 536576,
-      "checksumSha256": "81813b3b13bfe0e1972c29a6d334cb420fa6c9ef2c5f83f13d6b9a0b62976902",
+      "checksumSha256": "df21389c15f89c57b184fa49a4cdab5843fe6fc7a51b40cc15a58674f054bbd1",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/south_pole_station.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/south_pole_station.json"
     },
@@ -200,7 +200,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1060864,
-      "checksumSha256": "cc2bb0189980d936a0dc3340b9d816d25f40463987506179ba03e0167ab7784e",
+      "checksumSha256": "8777892f57f30649e0d2aee6f9f344a74d3c7f5ea931d64fd5368efca20b7068",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/blood_falls.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/blood_falls.json"
     },
@@ -233,7 +233,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1323008,
-      "checksumSha256": "8cc45efaa4f60c7a9b7ee76ecd8bf3242290bf00777510e4e84c7e5c0831c571",
+      "checksumSha256": "d765cab7820531d8f804eb50487b233c9ef67d5ef4cc981e917f62c7be7bda9c",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/deception_island.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/deception_island.json"
     },
@@ -266,7 +266,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 536576,
-      "checksumSha256": "ffe2594e877dc88892977f6bf3450a573a42768d667e84800cea31fe86c6191f",
+      "checksumSha256": "01af4f48f4006fd4887fd9bf325327e70987ba5095c0eba992afedc71b4075ad",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/halley_vi_station.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/halley_vi_station.json"
     },
@@ -299,7 +299,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "6040ac8e38f7f802bba64702a9fdab96aae9afe5c8240d2b2e3d16e5dcb12135",
+      "checksumSha256": "8d76417ffc18965a14278a2faa72f4020e2845c80c21f313a23abe7414f3d024",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mcmurdo_station.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mcmurdo_station.json"
     },
@@ -332,7 +332,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1585152,
-      "checksumSha256": "b71a3d6d40e681bdf6d30e53704a1011f1c67bdd78b7938f004c7bcabbec7aac",
+      "checksumSha256": "f7b44f0098765f061be4c88b2e0b6e5c5b08983b858b3d538d92ae72109d35f7",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mount_erebus.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mount_erebus.json"
     },
@@ -365,7 +365,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1323008,
-      "checksumSha256": "6bb09025738572eb2fadcf93d31d61a2e9eae42936b0484d70e1b8cac00e68b4",
+      "checksumSha256": "6d2da65d0cb37f3045c5622f8d7535e27f63b931ea7b0c9cb5ecbb3a87a0a3ef",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/neumayer_iii_station.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/neumayer_iii_station.json"
     },
@@ -398,7 +398,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "5cc425555631d32b65d681774d2f3dae536ede6ba0d43d03f5a00abe047704d8",
+      "checksumSha256": "97016b45b38c06e34980a2c5fe921a37d1778b4a86e9e261a1eed7c1a7df652e",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/scotts_hut.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/scotts_hut.json"
     },
@@ -431,7 +431,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1847296,
-      "checksumSha256": "9867dcd7d429a7755b37695d52b4a5af17cee477dde453ab60893afcf4d6884d",
+      "checksumSha256": "bac9a8323d6d0c5307305740a8abfd7079b62564a4dc699e2729e649cecd8edc",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/shackletons_hut.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/shackletons_hut.json"
     },
@@ -464,7 +464,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "32da06cb4a085f212dbdc40a06646033e8fa7c6c63647516ce94e7cf97443226",
+      "checksumSha256": "be3dbb4d10958d48b3416a11d0993aa1f7efe0a31870807458e09ea5b102a067",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/alert_nunavut.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/alert_nunavut.json"
     },
@@ -497,7 +497,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "4adf3d43b380cd0c90d00624bd845fe06c5137a65f8d3182fb80ae8f383bd79b",
+      "checksumSha256": "ed6d6805fad428e8088d120964f6dd19e9c6440863de7e39149bbc13c66ba255",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dawson_city_klondike.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dawson_city_klondike.json"
     },
@@ -530,7 +530,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "2cfd5c79c8246153084298bf64c540451128bb82d5402bf2a6fa687f009e05bd",
+      "checksumSha256": "adf82677affe7e0d279525da1b8f6a9fed4005aec010240dc207193654cc588a",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/prince_of_wales_fort.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/prince_of_wales_fort.json"
     },
@@ -563,7 +563,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "c140152cda7836ff5c7d0f0d8b0b00e3b69e43421d10b0108e69f359cba4858d",
+      "checksumSha256": "4603763fa54d3e244c8b99cdb610618b1f49ceb1566415105ef421a997b89e71",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/diefenbunker_carp.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/diefenbunker_carp.json"
     },
@@ -595,8 +595,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 2109440,
-      "checksumSha256": "fabacd9e2a830822adc558ef86a916622290a0f03872d3ccfe72a1e3d6378100",
+      "sizeBytes": 2371584,
+      "checksumSha256": "4ba27d108db6965dd2b887fdb7987f4ce3a6a05c6addc387c9518a0e696f5263",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fort_worden.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fort_worden.json"
     },
@@ -629,7 +629,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "21b362d861bfc69b9ec54cac8aaf9541523d711b7c93436e999ff3c8bdfe94a5",
+      "checksumSha256": "531c2337205574a08bb14c9576da11474cac7c716073ebc56288ac67b952af36",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/hoh_rainforest.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/hoh_rainforest.json"
     },
@@ -662,7 +662,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1060864,
-      "checksumSha256": "451b9f74ecd6efbcf4f3841454c8292e01a92bd0e159087fece78ac5ec2a2b8e",
+      "checksumSha256": "996f8bb163e0633ae6a8df5c504cd63e81a3de1d37c36479b91494633b17b0ec",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/rainier_fumaroles.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/rainier_fumaroles.json"
     },
@@ -695,7 +695,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "b2cfb54d80e8c56ac0cfb6979ea05ff493929f4508fe17c375821dd83bffe87e",
+      "checksumSha256": "3da9526c81c416d94dde109bbf24005bb9d072fc3a922c6fe47f83b6e0552833",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/ape_cave.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/ape_cave.json"
     },
@@ -728,7 +728,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3420160,
-      "checksumSha256": "f8e1695df19f388ef6b045428c0474749224bfd96b2d5f665552a1d60c7249f8",
+      "checksumSha256": "3d1987aed7b7cc7374b3d43469417ba09ad7eeaf97878ed4709d052ec16f9b0e",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/seattle_underground.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/seattle_underground.json"
     },
@@ -760,8 +760,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 6565888,
-      "checksumSha256": "3a19e18785a4327793b1174b0091a4c05ebb944a840b8580ed51eca9991b6b65",
+      "sizeBytes": 6828032,
+      "checksumSha256": "eb7112b5a400727b604807ef27be4f07f34ed8cc611680adab039901d39995d8",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_river_bascule.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_river_bascule.json"
     },
@@ -793,8 +793,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 7614464,
-      "checksumSha256": "fdec7978d4ba91e07f42cdcb95daf872ef00501f2749a3a06993ebd27c9a225c",
+      "sizeBytes": 7352320,
+      "checksumSha256": "fdef4c10ad705ea19357fe865c9c94fc7f38b2e12993be9161bc08c763e0b38b",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_freight_tunnels.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_freight_tunnels.json"
     },
@@ -827,7 +827,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3158016,
-      "checksumSha256": "4c8288ecf14025f7c8a3821e745661f9e7c100ad7cca0aba95a9a0a868d7d76d",
+      "checksumSha256": "a82941c6213823c0a271e53b4dc3aee81b9d596ee8fbeb66403a41ab258a48ad",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chicago_jackson_park.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chicago_jackson_park.json"
     },
@@ -860,7 +860,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "453ba2e012d04a86dc24e542b3b5c4a494ddd794191df691dc6643c0851540fe",
+      "checksumSha256": "2fc0df400a9e3c19df713c6dd45775d7d695bb49bb6c1dfd41d6c596fe2f15f9",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/carnac_alignments.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/carnac_alignments.json"
     },
@@ -893,7 +893,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1847296,
-      "checksumSha256": "f5074b031ad7b2e15d91a09e52d2c576d9f18b5bbf26689de714c44e42559985",
+      "checksumSha256": "3129550b5b3690e903676ce1b7bd12e9bf10fd42e460a8f90955101ba2e1c4ef",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chateau_dif.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/chateau_dif.json"
     },
@@ -926,7 +926,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "cc638596ac549bf7fed12ee57801e713c35235023a417f3cbfe928919f42dc57",
+      "checksumSha256": "c43463b1d0e7ed0c7c4ca73568a57fc5b4bf5ea8286ee451c41450cb516d56cf",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/derinkuyu_underground.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/derinkuyu_underground.json"
     },
@@ -959,7 +959,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "13669fa8648f4d311ed9e151bb7d98b01c78ecbb279744cf2e90aa89cafa4324",
+      "checksumSha256": "2295f8e31e49807ee24f9e05932c606d6fba83475974c94387a1e016c1fbe747",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dubrovnik_walls.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dubrovnik_walls.json"
     },
@@ -992,7 +992,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "89e473c563c76bb14d404c0c499f0562ce08e57a4c51bc0efc33ebf100af9314",
+      "checksumSha256": "383737bc13938e71623468c4d3e30e78e151876e76f98b875e153f4cace96144",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/hadrians_wall.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/hadrians_wall.json"
     },
@@ -1025,7 +1025,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "87a02f228ec7d8bfd94f7b29877449de91fb783360a9ad8ea6bdbc646530d7c5",
+      "checksumSha256": "4c593b2f98959bc75b6ede78aba187d3f8eac2032d2f13d15d2cb6f8c4fc1f81",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mont_saint_michel.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/mont_saint_michel.json"
     },
@@ -1058,7 +1058,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3682304,
-      "checksumSha256": "4c08e5b0e8ee17734098cdf523f1a93eec8ca8ffec09ddbdb61444025ff51cc1",
+      "checksumSha256": "3b11c659abd2735a804b90f3c672a4c4dc22c21aba8b9588ccff60e90a834389",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/naarden.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/naarden.json"
     },
@@ -1090,8 +1090,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 2109440,
-      "checksumSha256": "8e3b36c64ab1cb493039065c97b50379da52af5d9c4512bcb147d8d167bf3224",
+      "sizeBytes": 1847296,
+      "checksumSha256": "55c473053c7c1d92c2df96b121835f387bdb591bfe9bffa5556799a8e70671b7",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/palmanova.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/palmanova.json"
     },
@@ -1124,7 +1124,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 7352320,
-      "checksumSha256": "0d4b3126d77fb0490b9ebf8f3acea16aff6f8c03eb958e447fd74f301b9f7ec1",
+      "checksumSha256": "f6cc231e2a52bbca744e677abef96695f2a2aaec56515010572e11ac21689c27",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/paris_catacombs.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/paris_catacombs.json"
     },
@@ -1157,7 +1157,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2895872,
-      "checksumSha256": "798437bda0a1c875971b354e1357057daf2739b9d3d6be3fadb7820ebd9b61c8",
+      "checksumSha256": "003d814aa81e77f919fb8d9d92b8a0e19888b232aad67fd1f99007f55d3f9f25",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/wieliczka_salt_mine.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/wieliczka_salt_mine.json"
     },
@@ -1190,7 +1190,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3158016,
-      "checksumSha256": "a5f6a7814d9521ad91c291511863daadc696c5b7a67ad5e70c3353ef85a6d0da",
+      "checksumSha256": "815b9a23a8605d5b2cd8ff50438d4b335856727ec2f016793aa82f8a995fe4a3",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/skocjan_caves.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/skocjan_caves.json"
     },
@@ -1223,7 +1223,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1060864,
-      "checksumSha256": "6eabb4dd3517719916c6a34a6578ce131fb0e8c92deb5a3b01cd25c82052d6cf",
+      "checksumSha256": "11bbf457957e721c97fdbcf31ccba9cf07c0c3ce1597319710949c2fb5775003",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kazumura_cave.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kazumura_cave.json"
     },
@@ -1256,7 +1256,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1323008,
-      "checksumSha256": "5ea40a10f4beeb750cd5f2b1ab04c7793bf48835e80b2b79fc5a708728e4c37e",
+      "checksumSha256": "f523783e9b57e465abd1714c68ba1f6e5e52418ce5a227a771f5bcd79a9f7543",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kilauea_caldera.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kilauea_caldera.json"
     },
@@ -1289,7 +1289,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 798720,
-      "checksumSha256": "b66e2363874d9e6bc92e4bb52e9b74c8dc23a13e74fed5f0a7ebec1935cc3dc4",
+      "checksumSha256": "72bb8d4e694502b30a8aa26bcdc5b1ca8d42fd8df33866267e9a2a7cb7cf1d03",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/molokini_crater.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/molokini_crater.json"
     },
@@ -1322,7 +1322,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "be9f75cd0248cf2370957887c69eebf28a4d67d7b8ae4988cdb568c6ac0e37ef",
+      "checksumSha256": "8905a51531eaa96b996eacb70fba2375b92ebaf8403756ff433bd25397ffc667",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/puuhonua_o_honaunau.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/puuhonua_o_honaunau.json"
     },
@@ -1355,7 +1355,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "7dbb29e182d59c525f492ab9ce320f51e81a154de3bc97bff6c6890268ed1860",
+      "checksumSha256": "9387cf5c1d23da8dc8f4115bc303239d6373bbaa3c4c0f3aa190e8b33fd00140",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/waipio_valley.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/waipio_valley.json"
     },
@@ -1388,7 +1388,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "42775ac77534bb06e80176cf9a82f609dd79c116ade2df84f48b89f371caef04",
+      "checksumSha256": "f9ef14cda362f35b3c470e77fcd0215c8f127821ea670214bac7a76906f4dfb3",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/pyramiden_ghost_town.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/pyramiden_ghost_town.json"
     },
@@ -1421,7 +1421,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1847296,
-      "checksumSha256": "fe60bb60b6f92acade2d1060fc728edfe9268f92b3ff35ffa8d50bc1fc4425c7",
+      "checksumSha256": "5ad6f1fec5afcf7a90c1c30a59fcb0a080dcba9b8984ed34ab74167b50365f11",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/svalbard_seed_vault.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/svalbard_seed_vault.json"
     },
@@ -1453,8 +1453,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 3944448,
-      "checksumSha256": "65c172642124371e5093b7e6f09443e32c121cdb2808e2d2ef4157b40c546d35",
+      "sizeBytes": 4206592,
+      "checksumSha256": "065adbc7f0e2787ea5afa0e0b9e51822f4d3ed2ed42888cbdee70644913fede7",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fushimi_inari.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fushimi_inari.json"
     },
@@ -1486,8 +1486,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 2895872,
-      "checksumSha256": "e5c5c160ead4408c8b3c6b2e0ca1e3e671ed908d909ccf7bb934a91a442f97bb",
+      "sizeBytes": 3158016,
+      "checksumSha256": "0af1620d32c3b39ce2cabdec20f6e153af4507b8520862b56ad27427d15bdbea",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/himeji_castle.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/himeji_castle.json"
     },
@@ -1520,7 +1520,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "d999aa54d060e2304d71779acaf6873fcdf6a5ca99f0b9dac483ebb52bde27c9",
+      "checksumSha256": "6aa724602ce0e03b539a780dff3298cd5832670822bd277decdb29c8a38b30a1",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kumano_kodo.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kumano_kodo.json"
     },
@@ -1553,7 +1553,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "8791234422cf1701cd3001ccda816b2b92d8bf1671e84174edef0d227e67a226",
+      "checksumSha256": "48d0a6b1b8234bcacb02750458cb98c88286c057d038b0dd801494c0d820135f",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kusatsu_onsen.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/kusatsu_onsen.json"
     },
@@ -1586,7 +1586,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 1585152,
-      "checksumSha256": "7c2e185f39f0bd6f95a04cebef5021e07db9bf3933f9ca1926b78b497e4231e1",
+      "checksumSha256": "15309b61a9503baf09cd70247c4d6550070fac0d1832577245100c24f17411c0",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/narusawa_ice_cave.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/narusawa_ice_cave.json"
     },
@@ -1619,7 +1619,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3420160,
-      "checksumSha256": "c7117d0427138ed88aef5fbc221774094d0e3c01e6409edc46531179b78ced4a",
+      "checksumSha256": "6adc866efbf106e5d76ec5e0b23b2c98066ecf63d3dedbdf62746549b326f475",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_griffith_observatory.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_griffith_observatory.json"
     },
@@ -1652,7 +1652,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3944448,
-      "checksumSha256": "3ef60a0f3d0a4fa662495559026ae939b4697ec4679ebea4fbb41244610ddcbe",
+      "checksumSha256": "c15e5780efcc53b483a6aea3749864cdfad363cc4410c9b1ad6c8fec266a085d",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_river_viaducts.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_river_viaducts.json"
     },
@@ -1685,7 +1685,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "0a95a7fff6702843f7f6d16a0b04a4feab64b0edff60a4e4e6d8216fe4afc057",
+      "checksumSha256": "26bbc2be46de76e31790957222fb066190fed01ecaf65de7234c445ca6a4afed",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/la_sunken_city.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/la_sunken_city.json"
     },
@@ -1718,7 +1718,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "aa8163f8885cad327a26665100ae3cb00fc563eeb6eb98d14e4462f79297cc93",
+      "checksumSha256": "611644fc73971187ecf61d4fa057df67c8efe38789e13278f034fe5fdf431789",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/alley_mill_mo.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/alley_mill_mo.json"
     },
@@ -1751,7 +1751,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "3f047f9ae61ec72a0a52db07d646d6565c60b227ebc390ecc6c5a1989eaa4954",
+      "checksumSha256": "8c3d0ea0e0bd4698d70d9f87ef283e2fef678c76cda9348ae2e6e987c660ae09",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/big_spring_mo.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/big_spring_mo.json"
     },
@@ -1784,7 +1784,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "cbd87f3c8686432d4436547a8bcbaf31b24282b635eb61d8d33a927a3919c856",
+      "checksumSha256": "e5d0b42f06597d549a858770698ad2f67f0562b4521b5902d78f65515ce94189",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/fort_davidson_mo.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/fort_davidson_mo.json"
     },
@@ -1817,7 +1817,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2371584,
-      "checksumSha256": "d7d021b73c31ef30bfe41d56a774ef6a8bbc1eaf9fd83376830d28bcc433da73",
+      "checksumSha256": "e6f812ef7374b203228679a86bb18f6cabefd28d9398a06ab0c08b617a5e1962",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/subtropolis_kc.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/subtropolis_kc.json"
     },
@@ -1850,7 +1850,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "d4a17d46f3585be1500eb721e2b3cbfdaeb6689490c3c5929fdff42a69c32096",
+      "checksumSha256": "ab07b6497bee6c4df88c27562502a2c0a344c0fcbb68d31737330f2e2a5da9fe",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/lone_elk_preserve.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/lone_elk_preserve.json"
     },
@@ -1883,7 +1883,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "915b78e08b555af6383f6eac79f645a7631e09862a08e25c069bb7edb8490de5",
+      "checksumSha256": "c02ad9568527696bc94babbc8c96963a7d75df53191951a6cee14e7df5a63498",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/monks_mound_cahokia.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/monks_mound_cahokia.json"
     },
@@ -1916,7 +1916,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "cfb96137eea3bee5f215a809c1b0bf6ad7f8adb8caf89d7d8bc5ca579641ba3d",
+      "checksumSha256": "c71bdb3bd1b434593874dc18b0af87b18d67181b929265469cccd75b332aa28b",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/world_bird_sanctuary.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/world_bird_sanctuary.json"
     },
@@ -1948,8 +1948,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 6041600,
-      "checksumSha256": "604bd51b11369cf17ee54618717969744e8d5d86aed71d41a8219489d6ae65bc",
+      "sizeBytes": 6565888,
+      "checksumSha256": "f1c6ca41a323951cce9a8aedf3fc56608cc22d1c79a1955b837dc965cf241bff",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/central_park_belvedere.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/central_park_belvedere.json"
     },
@@ -1981,8 +1981,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 8138752,
-      "checksumSha256": "2505c1acc100cdac6bf5b696845bc74dee04e26e2995b84279fabe322ada4851",
+      "sizeBytes": 7090176,
+      "checksumSha256": "58348d0b805fcbaeb935db31030521116fbcc9edfd7c761b6ca926340fd3b340",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/nyc_city_hall_loop.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/nyc_city_hall_loop.json"
     },
@@ -2015,7 +2015,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 4730880,
-      "checksumSha256": "05df72d70830718febe50f9057377271529d5d11721b1c66f354ca1a6ab4658e",
+      "checksumSha256": "d7d796527826896b7926080ad62a7d9eb7b533adf433823d331591c2c1e803ea",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/governors_island_castle.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/governors_island_castle.json"
     },
@@ -2048,7 +2048,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 3944448,
-      "checksumSha256": "cd439cb9b0f2be035703efd0a0785e9ad4501fb54ebedbba337076a4e3a558ee",
+      "checksumSha256": "d48686cd9de9192d44882738b58d926694c5dbef86c14a5deb54894cbc80e240",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/nyc_high_line.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/nyc_high_line.json"
     },
@@ -2080,8 +2080,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 4993024,
-      "checksumSha256": "1613224b5908378fc1573cb1e609a4f22eb0b33ece423bdd5469d14d1c6c08da",
+      "sizeBytes": 5255168,
+      "checksumSha256": "f187144d3eb8fc117549c2e0e2e119129163cfe8c848a416051f97486c658538",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_edo_castle.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_edo_castle.json"
     },
@@ -2114,7 +2114,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2633728,
-      "checksumSha256": "0dfc9f52e524d967b74c406f39ea761fab9f026c01be81c6b96caa7391104281",
+      "checksumSha256": "d49daaf4e215a6c9c7be1550fc18d96f342f591dde580dc43c8eaaa5dcd86a28",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_gcans.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_gcans.json"
     },
@@ -2146,8 +2146,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 6041600,
-      "checksumSha256": "8ed20d9c7f71fdb18f1fd72a774957928d260d6773770fe79f76e457d2fd4818",
+      "sizeBytes": 5779456,
+      "checksumSha256": "c3aa248ba8f5386690c91a68d5facc8d958c10fe02ff79caeb7330f88ccfb1f6",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_kanda.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_kanda.json"
     },
@@ -2180,7 +2180,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 2109440,
-      "checksumSha256": "bb7787534aac373e75231046f512069f7bf3eed27cba82d89a3f9854d1efb7c0",
+      "checksumSha256": "7ef1ba0fa4b19fe6676654cc7dc010cdf5427d34d4cb6eda4f08e2e484e49de8",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_daiba.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_daiba.json"
     },
@@ -2212,8 +2212,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 7090176,
-      "checksumSha256": "12ff3a768348cee1d53fe0cfd6c10bb6c50680707fd4bd3472546749a676861b",
+      "sizeBytes": 6828032,
+      "checksumSha256": "ec011359063f9450c8158ef5e55307ecf7a562134276701278e3f07a3cd344a1",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tokyo_shinjuku.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/tokyo_shinjuku.json"
     },
@@ -2245,8 +2245,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 3944448,
-      "checksumSha256": "b405fb451931a24bdc279ddb34b5f55d54a5be95f810cf80a5020dc0386a472b",
+      "sizeBytes": 4206592,
+      "checksumSha256": "e18c24a8972bfbb1fb9eb0e68c9c429ffda7d849dafd4a4c2068113fbbd3dd3f",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_fort_stevens.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_fort_stevens.json"
     },
@@ -2279,7 +2279,7 @@
       },
       "includeTiles": false,
       "sizeBytes": 4468736,
-      "checksumSha256": "4db5c3d6c6ae07d5482548f91460c1375363f605861c9cb278967795f93e859f",
+      "checksumSha256": "e391999a40610a95edc3501b2888de6d0adc8f0af6cd969dbe03c0b385d9489a",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_national_mall.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_national_mall.json"
     },
@@ -2311,8 +2311,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 5255168,
-      "checksumSha256": "522927bb4b06af5888bbe96005adf2ab7339ee61a953370c68a955ed71583422",
+      "sizeBytes": 4730880,
+      "checksumSha256": "f460be0b46e106f900d59e4c5d916db817ce409dc4d1f547d3b80a18d5ffd2b8",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_roosevelt_island.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_roosevelt_island.json"
     },
@@ -2344,8 +2344,8 @@
         "tiles": 0
       },
       "includeTiles": false,
-      "sizeBytes": 3944448,
-      "checksumSha256": "83ba50624cfa80205e7e26402c81d8ed84e147154da02e965c29d9074c92f983",
+      "sizeBytes": 4730880,
+      "checksumSha256": "dea6aae41f6a899218cfff1d7a3b6de978e7ae1953e5a0e5dd8f7e364d4a34ab",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/dc_capitol_complex.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/dc_capitol_complex.json"
     }
