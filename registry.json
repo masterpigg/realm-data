@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generatedAt": 1792214888,
+  "generatedAt": 1792250838,
   "repository": "masterpigg/realm-data",
   "releaseTag": "v1.0.0",
   "releasesBaseUrl": "https://github.com/masterpigg/realm-data/releases/download",
-  "realmsCount": 128,
+  "realmsCount": 129,
   "realms": [
     {
       "id": "dallol_acid_terraces",
@@ -311,6 +311,40 @@
       "checksumSha256": "d37fc3e999a6594bca73856d1a88b1748f65f4acfcc625ae0ff5d0dbfd8095b9",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/victoria_falls.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/victoria_falls.json"
+    },
+    {
+      "id": "white_desert_farafra",
+      "name": "White Desert Chalk Monoliths & Ventifacts",
+      "realm": "Africa & Great Rift",
+      "category": "Chalk Yardang Monoliths",
+      "icon": "\ud83c\udf44",
+      "realmEmoji": "\ud83c\udf0d",
+      "version": "1.0.0",
+      "bbox": [
+        28.049272,
+        27.334955,
+        28.150728,
+        27.425045
+      ],
+      "center": [
+        27.38,
+        28.1
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 4,
+        "water": 0,
+        "parks": 2,
+        "pois": 0,
+        "caves": 0,
+        "subterranean": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 1323008,
+      "checksumSha256": "2b8944637021c50de8f7870c3da1aeea1ea6ca7af6d95a4cfc29e4ccd931b4a4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/white_desert_farafra.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/white_desert_farafra.json"
     },
     {
       "id": "kennecott_mines",

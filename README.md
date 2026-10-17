@@ -5,10 +5,10 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 
 ## 📊 Catalog Overview
 
-- **Curated Landmarks Baked:** 128
+- **Curated Landmarks Baked:** 129
 - **Total Structures Indexed:** 192,517
-- **Total Thoroughfares & Paths:** 133,835
-- **Total Compressed Footprint:** 318.0 MB
+- **Total Thoroughfares & Paths:** 133,839
+- **Total Compressed Footprint:** 319.26 MB
 - **Master Registry Catalog:** [`registry.json`](registry.json)
 - **Release Tag:** `v1.0.0`
 
@@ -25,6 +25,7 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 | **👁️ Richat Structure (Eye of the Sahara)**<br><code>richat_structure</code> | Africa & Great Rift | Concentric Ring Dome | <code>v1.0.0</code> | 2.0 MB | 6 | 4 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/richat_structure.realm.duckdb) |
 | **⛰️ Table Mountain Sandstone Plateau & Tablecloth**<br><code>table_mountain_plateau</code> | Africa & Great Rift | Quartzite Cloud Mesa | <code>v1.0.0</code> | 2.3 MB | 28 | 166 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/table_mountain_plateau.realm.duckdb) |
 | **🌊 Victoria Falls (Mosi-oa-Tunya) & Batoka Gorge**<br><code>victoria_falls</code> | Africa & Great Rift | Basalt Cataract Canyon | <code>v1.0.0</code> | 2.0 MB | 272 | 153 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/victoria_falls.realm.duckdb) |
+| **🍄 White Desert Chalk Monoliths & Ventifacts**<br><code>white_desert_farafra</code> | Africa & Great Rift | Chalk Yardang Monoliths | <code>v1.0.0</code> | 1.3 MB | 0 | 4 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/white_desert_farafra.realm.duckdb) |
 | **🏭 Kennecott Copper Mill Citadel**<br><code>kennecott_mines</code> | Alaska & Arctic | Timber Mill Citadel | <code>v1.0.0</code> | 2.0 MB | 46 | 33 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/kennecott_mines.realm.duckdb) |
 | **❄️ Mendenhall Glacier Ice Caves**<br><code>mendenhall_ice_caves</code> | Alaska & Arctic | Blue Ice Grotto | <code>v1.0.0</code> | 2.0 MB | 0 | 5 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mendenhall_ice_caves.realm.duckdb) |
 | **🏹 Utqiaġvik (Point Barrow)**<br><code>utqiagvik_barrow</code> | Alaska & Arctic | Arctic Bluffs | <code>v1.0.0</code> | 2.0 MB | 964 | 140 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/utqiagvik_barrow.realm.duckdb) |
