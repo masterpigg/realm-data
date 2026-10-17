@@ -1,0 +1,33 @@
+{
+  "id": "zhangye_danxia",
+  "name": "Zhangye Danxia Rainbow Mountains",
+  "version": "1.0.0",
+  "bbox": [
+    100.025594,
+    38.515955,
+    100.140806,
+    38.606045
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 2,
+    "water": 0,
+    "parks": 0,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 798720,
+  "checksumSha256": "629265a487a015625cd4f72e4e04a08f9568f8efd18a4db56c77e525a0a32eb4",
+  "createdAt": 1792250885,
+  "realm": "China & East Asia",
+  "category": "Striped Sandstone Badlands",
+  "icon": "\ud83c\udf08",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    38.561,
+    100.0832
+  ]
+}

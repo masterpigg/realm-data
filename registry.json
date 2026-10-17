@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generatedAt": 1792250838,
+  "generatedAt": 1792250885,
   "repository": "masterpigg/realm-data",
   "releaseTag": "v1.0.0",
   "releasesBaseUrl": "https://github.com/masterpigg/realm-data/releases/download",
-  "realmsCount": 129,
+  "realmsCount": 130,
   "realms": [
     {
       "id": "dallol_acid_terraces",
@@ -1839,6 +1839,40 @@
       "checksumSha256": "76edd1f631d574e8aa52a9ccbb911e86661e5b4c54790623e6acd754e26df4c9",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/zhangjiajie_pillars.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/zhangjiajie_pillars.json"
+    },
+    {
+      "id": "zhangye_danxia",
+      "name": "Zhangye Danxia Rainbow Mountains",
+      "realm": "China & East Asia",
+      "category": "Striped Sandstone Badlands",
+      "icon": "\ud83c\udf08",
+      "realmEmoji": "\ud83d\udc09",
+      "version": "1.0.0",
+      "bbox": [
+        100.025594,
+        38.515955,
+        100.140806,
+        38.606045
+      ],
+      "center": [
+        38.561,
+        100.0832
+      ],
+      "featureCounts": {
+        "buildings": 0,
+        "roads": 2,
+        "water": 0,
+        "parks": 0,
+        "pois": 0,
+        "caves": 0,
+        "subterranean": 0,
+        "tiles": 0
+      },
+      "includeTiles": false,
+      "sizeBytes": 798720,
+      "checksumSha256": "629265a487a015625cd4f72e4e04a08f9568f8efd18a4db56c77e525a0a32eb4",
+      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/zhangye_danxia.realm.duckdb",
+      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/zhangye_danxia.json"
     },
     {
       "id": "carnac_alignments",

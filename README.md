@@ -5,10 +5,10 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 
 ## 📊 Catalog Overview
 
-- **Curated Landmarks Baked:** 129
+- **Curated Landmarks Baked:** 130
 - **Total Structures Indexed:** 192,517
-- **Total Thoroughfares & Paths:** 133,839
-- **Total Compressed Footprint:** 319.26 MB
+- **Total Thoroughfares & Paths:** 133,841
+- **Total Compressed Footprint:** 320.02 MB
 - **Master Registry Catalog:** [`registry.json`](registry.json)
 - **Release Tag:** `v1.0.0`
 
@@ -70,6 +70,7 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 | **⚔️ Terracotta Army Mausoleum of Qin Shi Huang**<br><code>terracotta_army</code> | China & East Asia | Subterranean Necropolis | <code>v1.0.0</code> | 2.0 MB | 104 | 252 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/terracotta_army.realm.duckdb) |
 | **🛡️ Tulou Hakka Fortress Roundhouses (Fujian)**<br><code>tulou_fujian</code> | China & East Asia | Circular Earthen Bastion | <code>v1.0.0</code> | 1.0 MB | 0 | 3 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/tulou_fujian.realm.duckdb) |
 | **🏔️ Zhangjiajie Quartz Sandstone Pillar Forest**<br><code>zhangjiajie_pillars</code> | China & East Asia | Quartz Pillar Forest | <code>v1.0.0</code> | 2.3 MB | 36 | 51 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/zhangjiajie_pillars.realm.duckdb) |
+| **🌈 Zhangye Danxia Rainbow Mountains**<br><code>zhangye_danxia</code> | China & East Asia | Striped Sandstone Badlands | <code>v1.0.0</code> | 780 KB | 0 | 2 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/zhangye_danxia.realm.duckdb) |
 | **🗿 Carnac Megalithic Menhirs**<br><code>carnac_alignments</code> | Europe | Ancient Megaliths | <code>v1.0.0</code> | 2.3 MB | 2,598 | 852 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/carnac_alignments.realm.duckdb) |
 | **⚓ Château d'If Island Fortress**<br><code>chateau_dif</code> | Europe | Island Prison | <code>v1.0.0</code> | 1.8 MB | 44 | 84 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/chateau_dif.realm.duckdb) |
 | **🕳️ Derinkuyu Underground City**<br><code>derinkuyu_underground</code> | Europe | Megadungeon | <code>v1.0.0</code> | 2.3 MB | 3,132 | 316 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/derinkuyu_underground.realm.duckdb) |
