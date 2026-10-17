@@ -1,0 +1,33 @@
+{
+  "id": "great_wall_jinshanling",
+  "name": "Great Wall at Jinshanling Ridge Bastions",
+  "version": "1.0.0",
+  "bbox": [
+    117.233445,
+    40.666089,
+    117.261955,
+    40.687711
+  ],
+  "featureCounts": {
+    "buildings": 77,
+    "roads": 69,
+    "water": 0,
+    "parks": 2,
+    "pois": 5,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "fc88cae9f9eaaed62f373ea863b0f64a7f0cac826d07bf7c5fd92d73c6af8959",
+  "createdAt": 1792213995,
+  "realm": "China & East Asia",
+  "category": "Mountain Crest Rampart",
+  "icon": "\ud83c\udfef",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    40.6769,
+    117.2477
+  ]
+}

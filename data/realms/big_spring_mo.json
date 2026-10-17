@@ -1,7 +1,7 @@
 {
   "id": "big_spring_mo",
   "name": "Big Spring (Elemental Surge)",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -91.007528,
     36.942189,
@@ -15,12 +15,13 @@
     "parks": 2,
     "pois": 0,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "8c3d0ea0e0bd4698d70d9f87ef283e2fef678c76cda9348ae2e6e987c660ae09",
-  "createdAt": 1789936300,
+  "checksumSha256": "d7298b4d1c79ba063e1e5d9c62053a1ae2a2728194451de1c681456408c7b8dc",
+  "createdAt": 1792214850,
   "realm": "Missouri",
   "category": "Karst Spring",
   "icon": "\u26f2",

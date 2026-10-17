@@ -1,7 +1,7 @@
 {
   "id": "kusatsu_onsen",
   "name": "Kusatsu Onsen Yubatake",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     138.58263,
     36.609789,
@@ -15,12 +15,13 @@
     "parks": 80,
     "pois": 93,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2633728,
-  "checksumSha256": "48d0a6b1b8234bcacb02750458cb98c88286c057d038b0dd801494c0d820135f",
-  "createdAt": 1789936204,
+  "checksumSha256": "bee5b55717a8cde43f2a02f11ce96c351ba7cecbbf9909247eebf7f42fd20128",
+  "createdAt": 1792214771,
   "realm": "Japan Feudal",
   "category": "Geothermal Spring",
   "icon": "\u2668\ufe0f",

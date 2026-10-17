@@ -1,7 +1,7 @@
 {
   "id": "tokyo_shinjuku",
   "name": "Shinjuku Metro Labyrinth",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     139.687189,
     35.679689,
@@ -9,18 +9,19 @@
     35.701311
   ],
   "featureCounts": {
-    "buildings": 11688,
-    "roads": 5733,
+    "buildings": 11693,
+    "roads": 5738,
     "water": 34,
     "parks": 360,
-    "pois": 2236,
+    "pois": 2243,
     "caves": 0,
+    "subterranean": 189,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 6828032,
-  "checksumSha256": "ec011359063f9450c8158ef5e55307ecf7a562134276701278e3f07a3cd344a1",
-  "createdAt": 1789936036,
+  "sizeBytes": 7090176,
+  "checksumSha256": "64672ed0adf6e1cd04b79c9d9094a63eafb1810d00b3e006b746c16f1b3c24db",
+  "createdAt": 1792214670,
   "realm": "Tokyo",
   "category": "Underground Concourse",
   "icon": "\ud83d\ude87",

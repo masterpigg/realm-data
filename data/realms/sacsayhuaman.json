@@ -1,0 +1,33 @@
+{
+  "id": "sacsayhuaman",
+  "name": "Sacsayhuam\u00e1n Megalithic Cyclopean Fortress",
+  "version": "1.0.0",
+  "bbox": [
+    -71.993318,
+    -13.520211,
+    -71.971082,
+    -13.498589
+  ],
+  "featureCounts": {
+    "buildings": 1964,
+    "roads": 922,
+    "water": 12,
+    "parks": 269,
+    "pois": 892,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "245541b8e6a97878346fd32c794ae44c75e3fef5707119e8220d002ff260adba",
+  "createdAt": 1792214055,
+  "realm": "South America",
+  "category": "Cyclopean Megalith Rampart",
+  "icon": "\ud83d\uddff",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -13.5094,
+    -71.9822
+  ]
+}

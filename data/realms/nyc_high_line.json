@@ -1,7 +1,7 @@
 {
   "id": "nyc_high_line",
   "name": "NYC \u2014 High Line Viaduct & Sky Meadow",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -74.01907,
     40.737189,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 3555,
-    "roads": 3849,
+    "roads": 3851,
     "water": 7,
     "parks": 646,
-    "pois": 1589,
+    "pois": 1590,
     "caves": 0,
+    "subterranean": 353,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 3944448,
-  "checksumSha256": "d48686cd9de9192d44882738b58d926694c5dbef86c14a5deb54894cbc80e240",
-  "createdAt": 1789935185,
+  "checksumSha256": "3a1f2fedf9e44704c362f396b46b038c0841a18a77565c3c08399a05825e7189",
+  "createdAt": 1792214244,
   "realm": "New York City",
   "category": "Elevated Rail Garden",
   "icon": "\ud83c\udf3f",

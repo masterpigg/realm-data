@@ -1,0 +1,33 @@
+{
+  "id": "sao_paulo_metro",
+  "name": "S\u00e3o Paulo Subterranean Megacity & Luz Underground",
+  "version": "1.0.0",
+  "bbox": [
+    -46.651394,
+    -23.566611,
+    -46.627806,
+    -23.544989
+  ],
+  "featureCounts": {
+    "buildings": 11960,
+    "roads": 2804,
+    "water": 29,
+    "parks": 270,
+    "pois": 431,
+    "caves": 0,
+    "subterranean": 22,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 8400896,
+  "checksumSha256": "857922a5573e6b3f5d2d41a463f97edfbf31d60aa49acd246fd94cd02067dbbf",
+  "createdAt": 1792214111,
+  "realm": "South America",
+  "category": "Subterranean Megacity Rail",
+  "icon": "\ud83d\ude87",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -23.5558,
+    -46.6396
+  ]
+}

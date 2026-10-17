@@ -1,0 +1,33 @@
+{
+  "id": "mount_roraima",
+  "name": "Mount Roraima Tepui Mesa & Crystal Valley",
+  "version": "1.0.0",
+  "bbox": [
+    -60.773355,
+    5.132389,
+    -60.751645,
+    5.154011
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 1,
+    "parks": 4,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "5eb59ddf68744cfbe795a67973105a323e96527ce1467ba3e77e2be9a1fba545",
+  "createdAt": 1792214061,
+  "realm": "South America",
+  "category": "Sandstone Tepui Mesa",
+  "icon": "\u26f0\ufe0f",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    5.1432,
+    -60.7625
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "mont_saint_michel",
   "name": "Mont-Saint-Michel",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -1.527859,
     48.625189,
@@ -13,14 +13,15 @@
     "roads": 567,
     "water": 212,
     "parks": 77,
-    "pois": 48,
+    "pois": 49,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2633728,
-  "checksumSha256": "4c593b2f98959bc75b6ede78aba187d3f8eac2032d2f13d15d2cb6f8c4fc1f81",
-  "createdAt": 1789935816,
+  "checksumSha256": "99025f73c412ad7a83046714e2f09325c2ea53e9ebc8a6d7af3ead6d3e13e616",
+  "createdAt": 1792214525,
   "realm": "Europe",
   "category": "Tidal Citadel",
   "icon": "\ud83c\udff0",

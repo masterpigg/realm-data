@@ -1,0 +1,33 @@
+{
+  "id": "easter_island_rapa_nui",
+  "name": "Rapa Nui Rano Raraku Moai Quarry & Ahu Tongariki",
+  "version": "1.0.0",
+  "bbox": [
+    -109.289847,
+    -27.135311,
+    -109.265553,
+    -27.113689
+  ],
+  "featureCounts": {
+    "buildings": 1,
+    "roads": 16,
+    "water": 0,
+    "parks": 24,
+    "pois": 9,
+    "caves": 7,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "cf4cd566b16e9a4d6fca40204e9afc18da41fe83964e4d85ff70cfae6167d5f8",
+  "createdAt": 1792214093,
+  "realm": "South America",
+  "category": "Volcanic Moai Quarry",
+  "icon": "\ud83d\uddff",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -27.1245,
+    -109.2777
+  ]
+}

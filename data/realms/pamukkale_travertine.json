@@ -1,0 +1,33 @@
+{
+  "id": "pamukkale_travertine",
+  "name": "Pamukkale Hierapolis Travertine Terraces",
+  "version": "1.0.0",
+  "bbox": [
+    29.107695,
+    37.914189,
+    29.135105,
+    37.935811
+  ],
+  "featureCounts": {
+    "buildings": 90,
+    "roads": 294,
+    "water": 47,
+    "parks": 71,
+    "pois": 113,
+    "caves": 2,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "e795371fe40cc143db4284cc3a1cf53f61c49d5997fe7a46dc40d2dc7bfc6c71",
+  "createdAt": 1792213819,
+  "realm": "Middle East & Levant",
+  "category": "Travertine Thermal Cascade",
+  "icon": "\u2668\ufe0f",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    37.925,
+    29.1214
+  ]
+}

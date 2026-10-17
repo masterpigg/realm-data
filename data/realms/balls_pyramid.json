@@ -1,0 +1,33 @@
+{
+  "id": "balls_pyramid",
+  "name": "Ball's Pyramid Oceanic Basalt Pinnacle",
+  "version": "1.0.0",
+  "bbox": [
+    159.238786,
+    -31.765511,
+    159.264214,
+    -31.743889
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 17,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1060864,
+  "checksumSha256": "2310fbb1c6f672e1470a94074ae00a777764bc69cce0acd1fc534aebab79c516",
+  "createdAt": 1792214161,
+  "realm": "Australia & Red Centre",
+  "category": "Oceanic Basalt Spire",
+  "icon": "\ud83d\udde1\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -31.7547,
+    159.2515
+  ]
+}

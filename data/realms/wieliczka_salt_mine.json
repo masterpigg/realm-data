@@ -1,7 +1,7 @@
 {
   "id": "wieliczka_salt_mine",
   "name": "Wieliczka Salt Mine",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     20.038887,
     49.972289,
@@ -15,12 +15,13 @@
     "parks": 1096,
     "pois": 202,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2895872,
-  "checksumSha256": "003d814aa81e77f919fb8d9d92b8a0e19888b232aad67fd1f99007f55d3f9f25",
-  "createdAt": 1789935902,
+  "checksumSha256": "90f9bdc1694ae454b0bb0712514dc94114adedc106a0d40576eec29526b9304d",
+  "createdAt": 1792214575,
   "realm": "Europe",
   "category": "Megadungeon",
   "icon": "\ud83d\udc8e",

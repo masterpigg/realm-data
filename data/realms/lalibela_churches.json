@@ -1,0 +1,33 @@
+{
+  "id": "lalibela_churches",
+  "name": "Lalibela Rock-Hewn Churches (Bet Giyorgis)",
+  "version": "1.0.0",
+  "bbox": [
+    39.030546,
+    12.021289,
+    39.052654,
+    12.042911
+  ],
+  "featureCounts": {
+    "buildings": 440,
+    "roads": 350,
+    "water": 21,
+    "parks": 42,
+    "pois": 94,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "6a74c0566f8ca7ede9bc3b19b90e643f45aabf8eb1ea820df270d3304a8a05da",
+  "createdAt": 1792213849,
+  "realm": "Africa & Great Rift",
+  "category": "Monolithic Cross Church",
+  "icon": "\u271d\ufe0f",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    12.0321,
+    39.0416
+  ]
+}

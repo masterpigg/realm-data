@@ -1,0 +1,33 @@
+{
+  "id": "galapagos_caldera",
+  "name": "Sierra Negra Volcanic Caldera & Basalt Shield",
+  "version": "1.0.0",
+  "bbox": [
+    -91.128212,
+    -0.842411,
+    -91.106588,
+    -0.820789
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 1,
+    "water": 0,
+    "parks": 2,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1323008,
+  "checksumSha256": "3bb748aaf01c895ba5e98c2780b96b05d298771c4286efb642a945f35d0e2bc6",
+  "createdAt": 1792214077,
+  "realm": "South America",
+  "category": "Volcanic Shield Caldera",
+  "icon": "\ud83c\udf0b",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -0.8316,
+    -91.1174
+  ]
+}

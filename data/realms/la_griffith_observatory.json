@@ -1,7 +1,7 @@
 {
   "id": "la_griffith_observatory",
   "name": "LA \u2014 Griffith Observatory & Bronson Caves",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -118.313458,
     34.107589,
@@ -15,12 +15,13 @@
     "parks": 810,
     "pois": 137,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 3420160,
-  "checksumSha256": "6adc866efbf106e5d76ec5e0b23b2c98066ecf63d3dedbdf62746549b326f475",
-  "createdAt": 1789935419,
+  "checksumSha256": "173bc7a2984d9633230553f65b1df90f3415c25ced05f01a6ac957dbc199e68f",
+  "createdAt": 1792214388,
   "realm": "Los Angeles",
   "category": "Mountain Overlook",
   "icon": "\ud83d\udd2d",

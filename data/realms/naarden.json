@@ -1,7 +1,7 @@
 {
   "id": "naarden",
   "name": "Naarden Double-Moated Fort",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     5.145023,
     52.285289,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 7335,
-    "roads": 1295,
-    "water": 135,
-    "parks": 676,
+    "roads": 1294,
+    "water": 136,
+    "parks": 681,
     "pois": 264,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 3682304,
-  "checksumSha256": "3b11c659abd2735a804b90f3c672a4c4dc22c21aba8b9588ccff60e90a834389",
-  "createdAt": 1789935963,
+  "checksumSha256": "68b9c53aa54046dc92bf917aad56ff3d49e4495c1216a0b7143a106baec27924",
+  "createdAt": 1792214621,
   "realm": "Europe",
   "category": "Star Fortress",
   "icon": "\ud83d\udee1\ufe0f",

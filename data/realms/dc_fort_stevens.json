@@ -1,7 +1,7 @@
 {
   "id": "dc_fort_stevens",
   "name": "DC \u2014 Fort Stevens Civil War Defenses",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -77.042804,
     38.953589,
@@ -9,18 +9,19 @@
     38.975211
   ],
   "featureCounts": {
-    "buildings": 8185,
-    "roads": 3420,
+    "buildings": 8181,
+    "roads": 3425,
     "water": 26,
-    "parks": 378,
-    "pois": 192,
+    "parks": 380,
+    "pois": 193,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 4206592,
-  "checksumSha256": "e18c24a8972bfbb1fb9eb0e68c9c429ffda7d849dafd4a4c2068113fbbd3dd3f",
-  "createdAt": 1789935263,
+  "sizeBytes": 3944448,
+  "checksumSha256": "d87a4d22731d79e13cbff9b9728c5ef283e6aa1b000d953d22c772750c7defdb",
+  "createdAt": 1792214291,
   "realm": "Washington DC",
   "category": "Civil War Redoubt",
   "icon": "\u2694\ufe0f",

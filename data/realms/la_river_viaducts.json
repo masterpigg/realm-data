@@ -1,7 +1,7 @@
 {
   "id": "la_river_viaducts",
   "name": "LA \u2014 Los Angeles River & 6th St Viaduct",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -118.241146,
     34.027589,
@@ -9,18 +9,19 @@
     34.049211
   ],
   "featureCounts": {
-    "buildings": 2735,
-    "roads": 2991,
+    "buildings": 2734,
+    "roads": 3003,
     "water": 5,
     "parks": 60,
-    "pois": 113,
+    "pois": 114,
     "caves": 0,
+    "subterranean": 14,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 3944448,
-  "checksumSha256": "c15e5780efcc53b483a6aea3749864cdfad363cc4410c9b1ad6c8fec266a085d",
-  "createdAt": 1789935402,
+  "checksumSha256": "ced2caab57efac20e1a6c4ba8bebfd35d72827c0940c199026439e490af10dd0",
+  "createdAt": 1792214377,
   "realm": "Los Angeles",
   "category": "Concrete Arroyo",
   "icon": "\ud83c\udf09",

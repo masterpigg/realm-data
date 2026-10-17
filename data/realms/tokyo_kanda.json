@@ -1,7 +1,7 @@
 {
   "id": "tokyo_kanda",
   "name": "Kanda Kan-nana Diversion",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     139.651086,
     35.697989,
@@ -15,12 +15,13 @@
     "parks": 1154,
     "pois": 1377,
     "caves": 0,
+    "subterranean": 7,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 5779456,
-  "checksumSha256": "c3aa248ba8f5386690c91a68d5facc8d958c10fe02ff79caeb7330f88ccfb1f6",
-  "createdAt": 1789936116,
+  "sizeBytes": 6303744,
+  "checksumSha256": "08881752627aea96b8a3bde678511c199408567c55434fcdd2e3b430a024e8c5",
+  "createdAt": 1792214714,
   "realm": "Tokyo",
   "category": "Flood Conduit",
   "icon": "\ud83c\udf00",

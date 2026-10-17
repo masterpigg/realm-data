@@ -1,0 +1,33 @@
+{
+  "id": "tulou_fujian",
+  "name": "Tulou Hakka Fortress Roundhouses (Fujian)",
+  "version": "1.0.0",
+  "bbox": [
+    116.9979,
+    24.696189,
+    117.0217,
+    24.717811
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 3,
+    "water": 0,
+    "parks": 5,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1060864,
+  "checksumSha256": "798c2b24c650e976683669d4d540a66d1a7a77ece0ab25e02ab5889b94cfb7dc",
+  "createdAt": 1792214011,
+  "realm": "China & East Asia",
+  "category": "Circular Earthen Bastion",
+  "icon": "\ud83d\udee1\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    24.707,
+    117.0098
+  ]
+}

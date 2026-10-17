@@ -1,0 +1,33 @@
+{
+  "id": "rani_ki_vav",
+  "name": "Rani ki Vav (The Queen\u2019s Stepwell)",
+  "version": "1.0.0",
+  "bbox": [
+    72.089579,
+    23.848089,
+    72.113221,
+    23.869711
+  ],
+  "featureCounts": {
+    "buildings": 11,
+    "roads": 61,
+    "water": 3,
+    "parks": 9,
+    "pois": 1,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "45eabf4981393636bbafca3afc9c47ed10561727e6baa109f7f14b23b91bf2bf",
+  "createdAt": 1792213918,
+  "realm": "India & South Asia",
+  "category": "Stepwell Palace",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    23.8589,
+    72.1014
+  ]
+}

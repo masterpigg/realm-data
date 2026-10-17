@@ -1,0 +1,33 @@
+{
+  "id": "jenolan_caves",
+  "name": "Jenolan Caves & Grand Arch Karst",
+  "version": "1.0.0",
+  "bbox": [
+    150.008887,
+    -33.831411,
+    150.034913,
+    -33.809789
+  ],
+  "featureCounts": {
+    "buildings": 41,
+    "roads": 46,
+    "water": 7,
+    "parks": 8,
+    "pois": 1,
+    "caves": 4,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "595fea4699ee3c1ce03b77a9737292cd5a082a9345b8779a3b9adce7400078d5",
+  "createdAt": 1792214156,
+  "realm": "Australia & Red Centre",
+  "category": "Silurian Karst Megadungeon",
+  "icon": "\ud83d\udd73\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -33.8206,
+    150.0219
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "world_bird_sanctuary",
   "name": "World Bird Sanctuary Aerie",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -90.572021,
     38.525889,
@@ -15,12 +15,13 @@
     "parks": 4,
     "pois": 0,
     "caves": 1,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2633728,
-  "checksumSha256": "c71bdb3bd1b434593874dc18b0af87b18d67181b929265469cccd75b332aa28b",
-  "createdAt": 1789936348,
+  "checksumSha256": "ea971b79f8b262a71e7701e2cbb7968d87fb16247c5f67ce6c33269c86f8d1d6",
+  "createdAt": 1792214888,
   "realm": "Missouri",
   "category": "Raptor Sanctuary",
   "icon": "\ud83e\udd85",

@@ -1,0 +1,33 @@
+{
+  "id": "petra_treasury",
+  "name": "Petra Rock-Cut Treasury (Al-Khazneh)",
+  "version": "1.0.0",
+  "bbox": [
+    35.439076,
+    30.311389,
+    35.464124,
+    30.333011
+  ],
+  "featureCounts": {
+    "buildings": 36,
+    "roads": 168,
+    "water": 22,
+    "parks": 42,
+    "pois": 18,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "ace07d39b2853738459decc23e26b3f7210d39ebf47315b90646f48bb2255799",
+  "createdAt": 1792213783,
+  "realm": "Middle East & Levant",
+  "category": "Nabataean Rock-Cut Facade",
+  "icon": "\ud83c\udffa",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    30.3222,
+    35.4516
+  ]
+}

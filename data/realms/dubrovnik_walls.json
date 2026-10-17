@@ -1,7 +1,7 @@
 {
   "id": "dubrovnik_walls",
   "name": "Dubrovnik Old Town Walls",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     18.093704,
     42.630489,
@@ -9,18 +9,19 @@
     42.652111
   ],
   "featureCounts": {
-    "buildings": 1660,
-    "roads": 1016,
+    "buildings": 1661,
+    "roads": 1023,
     "water": 4,
     "parks": 141,
     "pois": 285,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 2109440,
-  "checksumSha256": "2295f8e31e49807ee24f9e05932c606d6fba83475974c94387a1e016c1fbe747",
-  "createdAt": 1789935922,
+  "sizeBytes": 2371584,
+  "checksumSha256": "5e03541704b794f7e36cebd9af6da4bc8813074278ffecb44d706f011ff7ee8d",
+  "createdAt": 1792214591,
   "realm": "Europe",
   "category": "Seaside Ramparts",
   "icon": "\ud83e\uddf1",

@@ -1,0 +1,33 @@
+{
+  "id": "terracotta_army",
+  "name": "Terracotta Army Mausoleum of Qin Shi Huang",
+  "version": "1.0.0",
+  "bbox": [
+    109.265,
+    34.373589,
+    109.2912,
+    34.395211
+  ],
+  "featureCounts": {
+    "buildings": 104,
+    "roads": 252,
+    "water": 4,
+    "parks": 76,
+    "pois": 13,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "1c1c02abaaa59bf6473fe2e598631311101a2bf6a43878c6af46f59798b9437c",
+  "createdAt": 1792214030,
+  "realm": "China & East Asia",
+  "category": "Subterranean Necropolis",
+  "icon": "\u2694\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    34.3844,
+    109.2781
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mehrangarh_fort",
+  "name": "Mehrangarh Fort Perched Citadel",
+  "version": "1.0.0",
+  "bbox": [
+    73.006441,
+    26.286989,
+    73.030559,
+    26.308611
+  ],
+  "featureCounts": {
+    "buildings": 6276,
+    "roads": 1285,
+    "water": 19,
+    "parks": 23,
+    "pois": 185,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "4cf83283d871d7f10e838de9ac26061ab492a7a8fbdea18165bc9f6500a8bc44",
+  "createdAt": 1792213957,
+  "realm": "India & South Asia",
+  "category": "Perched Rhyolite Citadel",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    26.2978,
+    73.0185
+  ]
+}

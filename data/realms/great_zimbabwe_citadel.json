@@ -1,0 +1,33 @@
+{
+  "id": "great_zimbabwe_citadel",
+  "name": "Great Zimbabwe Medieval Dry-Stone Citadel",
+  "version": "1.0.0",
+  "bbox": [
+    30.921775,
+    -20.281911,
+    30.944825,
+    -20.260289
+  ],
+  "featureCounts": {
+    "buildings": 45,
+    "roads": 113,
+    "water": 0,
+    "parks": 1,
+    "pois": 9,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "0be043a9103e1ed6c6ac096e76e931f2d9c2b3cf2eb60f5e2bfbefe8ad3b1e42",
+  "createdAt": 1792213900,
+  "realm": "Africa & Great Rift",
+  "category": "Granite Dry-Stone Citadel",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    -20.2711,
+    30.9333
+  ]
+}

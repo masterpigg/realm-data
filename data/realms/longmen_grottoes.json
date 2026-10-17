@@ -1,0 +1,33 @@
+{
+  "id": "longmen_grottoes",
+  "name": "Longmen Limestone Cliff Grottoes & Grand Buddha",
+  "version": "1.0.0",
+  "bbox": [
+    112.457972,
+    34.554389,
+    112.484228,
+    34.576011
+  ],
+  "featureCounts": {
+    "buildings": 132,
+    "roads": 386,
+    "water": 13,
+    "parks": 21,
+    "pois": 20,
+    "caves": 0,
+    "subterranean": 2,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "6ac438c4d5b1bc87a26722dbd8dac08afc298afe60d4d09fadb2e0cb4c128a5d",
+  "createdAt": 1792214017,
+  "realm": "China & East Asia",
+  "category": "Rock-Cut Cliff Temple",
+  "icon": "\ud83d\uddff",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    34.5652,
+    112.4711
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "elephanta_caves",
+  "name": "Elephanta Island Basalt Cave Temples",
+  "version": "1.0.0",
+  "bbox": [
+    72.920069,
+    18.952489,
+    72.942931,
+    18.974111
+  ],
+  "featureCounts": {
+    "buildings": 99,
+    "roads": 20,
+    "water": 5,
+    "parks": 11,
+    "pois": 2,
+    "caves": 5,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "6fea348bc852d5b679a2354fc7efa31e7ae039ff421c82402420a56038e9a102",
+  "createdAt": 1792213940,
+  "realm": "India & South Asia",
+  "category": "Island Cave Temple",
+  "icon": "\ud83c\udfdd\ufe0f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    18.9633,
+    72.9315
+  ]
+}

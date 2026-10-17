@@ -1,7 +1,7 @@
 {
   "id": "paris_catacombs",
   "name": "Paris Catacombs (Ossuary)",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     2.315976,
     48.822989,
@@ -9,18 +9,19 @@
     48.844611
   ],
   "featureCounts": {
-    "buildings": 8430,
-    "roads": 8716,
+    "buildings": 8428,
+    "roads": 8726,
     "water": 9,
-    "parks": 646,
-    "pois": 12020,
+    "parks": 649,
+    "pois": 12029,
     "caves": 0,
+    "subterranean": 97,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 7352320,
-  "checksumSha256": "f6cc231e2a52bbca744e677abef96695f2a2aaec56515010572e11ac21689c27",
-  "createdAt": 1789935868,
+  "sizeBytes": 8400896,
+  "checksumSha256": "d7b36d6fd6aa2763e2b7a25f3453f251bc865f5d4c73f1e769307b09fb3a05d1",
+  "createdAt": 1792214552,
   "realm": "Europe",
   "category": "Megadungeon",
   "icon": "\ud83d\udc80",

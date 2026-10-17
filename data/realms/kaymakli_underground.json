@@ -1,0 +1,33 @@
+{
+  "id": "kaymakli_underground",
+  "name": "Kaymakli Multi-Level Subterranean Labyrinth",
+  "version": "1.0.0",
+  "bbox": [
+    34.738394,
+    38.448889,
+    34.766006,
+    38.470511
+  ],
+  "featureCounts": {
+    "buildings": 73,
+    "roads": 277,
+    "water": 1,
+    "parks": 5,
+    "pois": 8,
+    "caves": 1,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "a03e9d28dac0f94bcc0754642412920391e83f48aef8884f70011328fd56932e",
+  "createdAt": 1792213812,
+  "realm": "Middle East & Levant",
+  "category": "Volcanic Tuff Megadungeon",
+  "icon": "\ud83d\udd73\ufe0f",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    38.4597,
+    34.7522
+  ]
+}

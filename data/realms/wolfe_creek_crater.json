@@ -1,0 +1,33 @@
+{
+  "id": "wolfe_creek_crater",
+  "name": "Wolfe Creek Meteorite Impact Crater",
+  "version": "1.0.0",
+  "bbox": [
+    127.784354,
+    -19.183011,
+    127.807246,
+    -19.161389
+  ],
+  "featureCounts": {
+    "buildings": 2,
+    "roads": 6,
+    "water": 0,
+    "parks": 16,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "d46f3fa68d02cd72dc6a4f548230f5437259c4bda3813be07840912fe04fe7ab",
+  "createdAt": 1792214167,
+  "realm": "Australia & Red Centre",
+  "category": "Meteorite Impact Ring",
+  "icon": "\u2604\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -19.1722,
+    127.7958
+  ]
+}

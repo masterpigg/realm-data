@@ -1,7 +1,7 @@
 {
   "id": "derinkuyu_underground",
   "name": "Derinkuyu Underground City",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     34.72101,
     38.362689,
@@ -15,12 +15,13 @@
     "parks": 27,
     "pois": 44,
     "caves": 1,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2371584,
-  "checksumSha256": "c43463b1d0e7ed0c7c4ca73568a57fc5b4bf5ea8286ee451c41450cb516d56cf",
-  "createdAt": 1789935880,
+  "checksumSha256": "c0ab6956bbfd4c0f276a8a0fc94a670da042b822f1ebc1f03c7c52b2513e791b",
+  "createdAt": 1792214561,
   "realm": "Europe",
   "category": "Megadungeon",
   "icon": "\ud83d\udd73\ufe0f",

@@ -1,0 +1,33 @@
+{
+  "id": "cueva_de_las_manos",
+  "name": "Cueva de las Manos Prehistoric Ochre Gallery",
+  "version": "1.0.0",
+  "bbox": [
+    -70.683897,
+    -47.163811,
+    -70.652103,
+    -47.142189
+  ],
+  "featureCounts": {
+    "buildings": 4,
+    "roads": 19,
+    "water": 1,
+    "parks": 5,
+    "pois": 0,
+    "caves": 1,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "780db777ff8d763ee1e86b7f9890d20521d26c58611c61587cd042af2893b0fc",
+  "createdAt": 1792214072,
+  "realm": "South America",
+  "category": "Prehistoric Ochre Stencil Cave",
+  "icon": "\u270b",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -47.153,
+    -70.668
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "baalbek_trilithon",
+  "name": "Baalbek Heliopolis 800-Ton Trilithon",
+  "version": "1.0.0",
+  "bbox": [
+    36.191159,
+    33.996089,
+    36.217241,
+    34.017711
+  ],
+  "featureCounts": {
+    "buildings": 6302,
+    "roads": 406,
+    "water": 3,
+    "parks": 14,
+    "pois": 16,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "62f3d6ad8aa03437375c4b955b3b82b180109c8000f35eebfad8a98835070dea",
+  "createdAt": 1792213836,
+  "realm": "Middle East & Levant",
+  "category": "Cyclopean Roman Megalith",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    34.0069,
+    36.2042
+  ]
+}

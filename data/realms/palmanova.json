@@ -1,7 +1,7 @@
 {
   "id": "palmanova",
   "name": "Palmanova Star Fortress",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     13.295064,
     45.894789,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 1529,
-    "roads": 672,
+    "roads": 673,
     "water": 69,
     "parks": 241,
-    "pois": 127,
+    "pois": 128,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 1847296,
-  "checksumSha256": "55c473053c7c1d92c2df96b121835f387bdb591bfe9bffa5556799a8e70671b7",
-  "createdAt": 1789935940,
+  "sizeBytes": 2109440,
+  "checksumSha256": "8393da7acaa7347aba123ae0bec58975906ad40a627e3331d9eb734e13659569",
+  "createdAt": 1792214605,
   "realm": "Europe",
   "category": "Star Fortress",
   "icon": "\u2b50",

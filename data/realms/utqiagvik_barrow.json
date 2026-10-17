@@ -1,7 +1,7 @@
 {
   "id": "utqiagvik_barrow",
   "name": "Utqia\u0121vik (Point Barrow)",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -156.822303,
     71.279789,
@@ -15,12 +15,13 @@
     "parks": 18,
     "pois": 22,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 2371584,
-  "checksumSha256": "d90f2edb782bd97cc087967be95005ff21e1e519d797b89dae75c8a98fe1dd31",
-  "createdAt": 1789935456,
+  "sizeBytes": 2109440,
+  "checksumSha256": "56c93ac04e6bc7bdbd4f57cbeed33688538e6b30fde6196dc1d450006385690d",
+  "createdAt": 1792214421,
   "realm": "Alaska & Arctic",
   "category": "Arctic Bluffs",
   "icon": "\ud83c\udff9",

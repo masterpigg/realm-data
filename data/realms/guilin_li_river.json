@@ -1,0 +1,33 @@
+{
+  "id": "guilin_li_river",
+  "name": "Guilin & Yangshuo Li River Tower Karst",
+  "version": "1.0.0",
+  "bbox": [
+    110.476193,
+    24.763089,
+    110.500007,
+    24.784711
+  ],
+  "featureCounts": {
+    "buildings": 97,
+    "roads": 327,
+    "water": 23,
+    "parks": 55,
+    "pois": 122,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "9164e50254b01be2206bcce09fd64077fc24ffff6c52914a320a6dca2513d09d",
+  "createdAt": 1792213983,
+  "realm": "China & East Asia",
+  "category": "Tower Karst Waterway",
+  "icon": "\u26f0\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    24.7739,
+    110.4881
+  ]
+}

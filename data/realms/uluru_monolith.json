@@ -1,0 +1,33 @@
+{
+  "id": "uluru_monolith",
+  "name": "Uluru (Ayers Rock) Sacred Arkose Monolith",
+  "version": "1.0.0",
+  "bbox": [
+    131.024938,
+    -25.355211,
+    131.048862,
+    -25.333589
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 36,
+    "water": 15,
+    "parks": 49,
+    "pois": 6,
+    "caves": 3,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "9a81939cb745f5767af7f1fffebae15bc216c9d165645d8191d0254853aee0b3",
+  "createdAt": 1792214124,
+  "realm": "Australia & Red Centre",
+  "category": "Desert Arkose Inselberg",
+  "icon": "\u26f0\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -25.3444,
+    131.0369
+  ]
+}

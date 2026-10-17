@@ -1,7 +1,7 @@
 {
   "id": "chicago_freight_tunnels",
   "name": "Chicago \u2014 Freight Tunnels & TARP Deep Tunnel",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -87.643321,
     41.871889,
@@ -9,18 +9,19 @@
     41.893511
   ],
   "featureCounts": {
-    "buildings": 1913,
-    "roads": 10907,
+    "buildings": 1911,
+    "roads": 10927,
     "water": 61,
     "parks": 2433,
-    "pois": 7929,
+    "pois": 7928,
     "caves": 0,
+    "subterranean": 270,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 7352320,
-  "checksumSha256": "fdef4c10ad705ea19357fe865c9c94fc7f38b2e12993be9161bc08c763e0b38b",
-  "createdAt": 1789935366,
+  "sizeBytes": 7614464,
+  "checksumSha256": "5e12cff7569d6f11fa1b97068b51c6fdf48ad1040169884f2b36b19c057a153d",
+  "createdAt": 1792214350,
   "realm": "Chicago",
   "category": "Subterranean Labyrinth",
   "icon": "\ud83d\ude87",

@@ -1,0 +1,33 @@
+{
+  "id": "kata_tjuta_domes",
+  "name": "Kata Tjuta (The Olgas) & Valley of Winds",
+  "version": "1.0.0",
+  "bbox": [
+    130.720842,
+    -25.308311,
+    130.744758,
+    -25.286689
+  ],
+  "featureCounts": {
+    "buildings": 3,
+    "roads": 37,
+    "water": 2,
+    "parks": 15,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "235e0533db4981c0e325db2c338cc52246c13f7a11f7f699aa880ff614f60ecc",
+  "createdAt": 1792214129,
+  "realm": "Australia & Red Centre",
+  "category": "Conglomerate Dome Chasms",
+  "icon": "\ud83c\udfdc\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -25.2975,
+    130.7328
+  ]
+}

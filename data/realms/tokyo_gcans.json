@@ -1,7 +1,7 @@
 {
   "id": "tokyo_gcans",
   "name": "G-Cans Storm Surge Cathedral",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     139.798137,
     35.986889,
@@ -15,12 +15,13 @@
     "parks": 204,
     "pois": 104,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2633728,
-  "checksumSha256": "d49daaf4e215a6c9c7be1550fc18d96f342f591dde580dc43c8eaaa5dcd86a28",
-  "createdAt": 1789935996,
+  "checksumSha256": "8d722cb8daaff2acc2ffc11947c937029814613286ceaa53b437ff9c9070fa10",
+  "createdAt": 1792214647,
   "realm": "Tokyo",
   "category": "Subterranean Tank",
   "icon": "\ud83c\udfdb\ufe0f",

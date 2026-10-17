@@ -1,0 +1,33 @@
+{
+  "id": "iguazu_falls",
+  "name": "Iguaz\u00fa Falls Garganta del Diablo Cataract",
+  "version": "1.0.0",
+  "bbox": [
+    -54.448697,
+    -25.706111,
+    -54.424703,
+    -25.684489
+  ],
+  "featureCounts": {
+    "buildings": 9,
+    "roads": 66,
+    "water": 28,
+    "parks": 43,
+    "pois": 5,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "4abacf90e0966ee53994e0df65df64b03f481bf1b3915f369813a77967f15074",
+  "createdAt": 1792214066,
+  "realm": "South America",
+  "category": "Basalt Cataract Canyon",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -25.6953,
+    -54.4367
+  ]
+}

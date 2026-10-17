@@ -1,0 +1,33 @@
+{
+  "id": "persepolis_naqsh",
+  "name": "Persepolis Apadana & Naqsh-e Rostam",
+  "version": "1.0.0",
+  "bbox": [
+    52.877525,
+    29.923589,
+    52.902475,
+    29.945211
+  ],
+  "featureCounts": {
+    "buildings": 32,
+    "roads": 214,
+    "water": 13,
+    "parks": 17,
+    "pois": 3,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "3574065f6b76126b1882394660bcb587250f8a0a616c82a10dd3a7b8a4364673",
+  "createdAt": 1792213794,
+  "realm": "Middle East & Levant",
+  "category": "Achaemenid Cliff Necropolis",
+  "icon": "\ud83e\udd81",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    29.9344,
+    52.89
+  ]
+}

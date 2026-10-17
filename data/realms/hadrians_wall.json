@@ -1,7 +1,7 @@
 {
   "id": "hadrians_wall",
   "name": "Hadrian's Wall & Vindolanda",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -2.37895,
     54.993589,
@@ -15,12 +15,13 @@
     "parks": 127,
     "pois": 12,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "383737bc13938e71623468c4d3e30e78e151876e76f98b875e153f4cace96144",
-  "createdAt": 1789935969,
+  "checksumSha256": "b0b2b76170216bbb59bb95955fb1cb27b698816633e19aeded6f53376b9cb86e",
+  "createdAt": 1792214627,
   "realm": "Europe",
   "category": "Roman Rampart",
   "icon": "\u2694\ufe0f",

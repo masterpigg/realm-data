@@ -1,0 +1,33 @@
+{
+  "id": "forbidden_city",
+  "name": "Forbidden City (G\u00f9g\u014dng) Imperial Meridian Palace",
+  "version": "1.0.0",
+  "bbox": [
+    116.383105,
+    39.905489,
+    116.411295,
+    39.927111
+  ],
+  "featureCounts": {
+    "buildings": 3390,
+    "roads": 2072,
+    "water": 56,
+    "parks": 275,
+    "pois": 422,
+    "caves": 0,
+    "subterranean": 13,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2895872,
+  "checksumSha256": "1c2fcf28c6657b5be7ccb8f4a152f85d5807a1d24416be85849425a9bce85f87",
+  "createdAt": 1792214005,
+  "realm": "China & East Asia",
+  "category": "Imperial Meridian Palace",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    39.9163,
+    116.3972
+  ]
+}

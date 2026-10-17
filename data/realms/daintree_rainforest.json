@@ -1,0 +1,33 @@
+{
+  "id": "daintree_rainforest",
+  "name": "Daintree Rainforest & Mangrove Estuary",
+  "version": "1.0.0",
+  "bbox": [
+    145.407739,
+    -16.268811,
+    145.430261,
+    -16.247189
+  ],
+  "featureCounts": {
+    "buildings": 3,
+    "roads": 3,
+    "water": 1,
+    "parks": 2,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "4b94be27259ea2ba5270802601c572e77dcd41abcd12391b1375311476e16620",
+  "createdAt": 1792214135,
+  "realm": "Australia & Red Centre",
+  "category": "Gondwanan Rainforest",
+  "icon": "\ud83c\udf3f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -16.258,
+    145.419
+  ]
+}

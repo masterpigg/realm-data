@@ -1,0 +1,33 @@
+{
+  "id": "hanging_temple",
+  "name": "Hanging Temple of Xuankong Si Cliff Monasteries",
+  "version": "1.0.0",
+  "bbox": [
+    113.692756,
+    39.653889,
+    113.720844,
+    39.675511
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 33,
+    "water": 6,
+    "parks": 15,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "67ff0948a15be5ee9d9887aefab5c4bb60a5e427def54f632a8005ed16311419",
+  "createdAt": 1792214024,
+  "realm": "China & East Asia",
+  "category": "Cantilevered Cliff Monastery",
+  "icon": "\u26e9\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    39.6647,
+    113.7068
+  ]
+}

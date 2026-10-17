@@ -1,0 +1,33 @@
+{
+  "id": "machu_picchu",
+  "name": "Machu Picchu Incan Cloud Citadel",
+  "version": "1.0.0",
+  "bbox": [
+    -72.556103,
+    -13.173911,
+    -72.533897,
+    -13.152289
+  ],
+  "featureCounts": {
+    "buildings": 135,
+    "roads": 117,
+    "water": 5,
+    "parks": 84,
+    "pois": 20,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "aa57c8f87afeae1302cbcdef2f0f3bc04d8f07786ed8f179db8bb5cc86381ddc",
+  "createdAt": 1792214041,
+  "realm": "South America",
+  "category": "Inca Cloud Citadel",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    -13.1631,
+    -72.545
+  ]
+}

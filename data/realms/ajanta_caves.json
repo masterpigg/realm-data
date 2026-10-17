@@ -1,0 +1,33 @@
+{
+  "id": "ajanta_caves",
+  "name": "Ajanta Caves Buddhist Monastic Horseshoe",
+  "version": "1.0.0",
+  "bbox": [
+    75.691754,
+    20.541089,
+    75.714846,
+    20.562711
+  ],
+  "featureCounts": {
+    "buildings": 7,
+    "roads": 30,
+    "water": 6,
+    "parks": 6,
+    "pois": 2,
+    "caves": 25,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "369e463075a188cc299dded82eb6398df983010fdb3504fa28d8d4f3023f5399",
+  "createdAt": 1792213935,
+  "realm": "India & South Asia",
+  "category": "Buddhist Cliff Cave",
+  "icon": "\ud83d\udd73\ufe0f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    20.5519,
+    75.7033
+  ]
+}

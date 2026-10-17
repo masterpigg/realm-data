@@ -1,0 +1,33 @@
+{
+  "id": "erta_ale_lava_lake",
+  "name": "Erta Ale Boiling Lava Lake & Danakil Rift",
+  "version": "1.0.0",
+  "bbox": [
+    40.650577,
+    13.595589,
+    40.672823,
+    13.617211
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 7,
+    "water": 0,
+    "parks": 2,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1323008,
+  "checksumSha256": "e3e891272b6eb2dde7d384382f1f13058a87bad9e8dfec8a76b6348a6ede03f4",
+  "createdAt": 1792213855,
+  "realm": "Africa & Great Rift",
+  "category": "Active Lava Lake",
+  "icon": "\ud83d\udd25",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    13.6064,
+    40.6617
+  ]
+}

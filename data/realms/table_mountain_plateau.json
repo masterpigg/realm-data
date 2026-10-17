@@ -1,0 +1,33 @@
+{
+  "id": "table_mountain_plateau",
+  "name": "Table Mountain Sandstone Plateau & Tablecloth",
+  "version": "1.0.0",
+  "bbox": [
+    18.410266,
+    -33.968311,
+    18.436334,
+    -33.946689
+  ],
+  "featureCounts": {
+    "buildings": 28,
+    "roads": 166,
+    "water": 11,
+    "parks": 11,
+    "pois": 3,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "b855d0bdc8fe1235ef695206939dba21f2b716ac953343c890f2f252f034bc20",
+  "createdAt": 1792213906,
+  "realm": "Africa & Great Rift",
+  "category": "Quartzite Cloud Mesa",
+  "icon": "\u26f0\ufe0f",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    -33.9575,
+    18.4233
+  ]
+}

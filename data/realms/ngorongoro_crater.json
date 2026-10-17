@@ -1,0 +1,33 @@
+{
+  "id": "ngorongoro_crater",
+  "name": "Ngorongoro Crater Volcanic Caldera",
+  "version": "1.0.0",
+  "bbox": [
+    35.557573,
+    -3.181411,
+    35.579227,
+    -3.159789
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 15,
+    "water": 3,
+    "parks": 1,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1585152,
+  "checksumSha256": "a932fdab7d07fa015c4801824e46d39b0fa5ed4d27ebf5c6fafaa9d09ba54faf",
+  "createdAt": 1792213866,
+  "realm": "Africa & Great Rift",
+  "category": "Intact Caldera Basin",
+  "icon": "\ud83e\udd8f",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    -3.1706,
+    35.5684
+  ]
+}

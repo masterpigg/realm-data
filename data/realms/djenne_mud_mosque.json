@@ -1,0 +1,33 @@
+{
+  "id": "djenne_mud_mosque",
+  "name": "Great Mosque of Djenn\u00e9 & Bani Floodplain",
+  "version": "1.0.0",
+  "bbox": [
+    -4.566437,
+    13.894789,
+    -4.544163,
+    13.916411
+  ],
+  "featureCounts": {
+    "buildings": 7661,
+    "roads": 319,
+    "water": 16,
+    "parks": 41,
+    "pois": 51,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "e5ef8ccdba0a55ce0740dfbb6a3857808354a72cc0d95a7c1f387122c903a066",
+  "createdAt": 1792213883,
+  "realm": "Africa & Great Rift",
+  "category": "Adobe Earthen Bastion",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    13.9056,
+    -4.5553
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "reed_flute_cave",
+  "name": "Reed Flute Cave (L\u00fad\u00ed Y\u00e1n) Crystal Karst",
+  "version": "1.0.0",
+  "bbox": [
+    110.263342,
+    25.289489,
+    110.287258,
+    25.311111
+  ],
+  "featureCounts": {
+    "buildings": 28,
+    "roads": 150,
+    "water": 23,
+    "parks": 34,
+    "pois": 17,
+    "caves": 1,
+    "subterranean": 2,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2895872,
+  "checksumSha256": "704a1404618ec3a19f8ec475e6b14ce2123fc5e9dad564c26ea2f1d59bc95ff7",
+  "createdAt": 1792213989,
+  "realm": "China & East Asia",
+  "category": "Calcite Crystal Cavern",
+  "icon": "\ud83d\udc8e",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    25.3003,
+    110.2753
+  ]
+}

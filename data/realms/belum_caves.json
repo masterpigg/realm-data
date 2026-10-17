@@ -1,0 +1,33 @@
+{
+  "id": "belum_caves",
+  "name": "Belum Caves Black Limestone Underworld",
+  "version": "1.0.0",
+  "bbox": [
+    78.099902,
+    15.091989,
+    78.122298,
+    15.113611
+  ],
+  "featureCounts": {
+    "buildings": 3,
+    "roads": 14,
+    "water": 0,
+    "parks": 4,
+    "pois": 1,
+    "caves": 1,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "007d090e97f644ccebc8af60ecc00cd7c73f3efe565419a0b8a0050ab0a27c6e",
+  "createdAt": 1792213946,
+  "realm": "India & South Asia",
+  "category": "Limestone Karst Cave",
+  "icon": "\ud83d\udd73\ufe0f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    15.1028,
+    78.1111
+  ]
+}

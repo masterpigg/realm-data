@@ -1,7 +1,7 @@
 {
   "id": "mendenhall_ice_caves",
   "name": "Mendenhall Glacier Ice Caves",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -134.570661,
     58.439189,
@@ -15,12 +15,13 @@
     "parks": 1,
     "pois": 0,
     "caves": 1,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "c1644c59f9b6b417b0f0f3f30a9fcf98d16a2f46cee319e247a5496b4207df8e",
-  "createdAt": 1789935448,
+  "checksumSha256": "087e2eef8d28727c203fa33d52bc10e1c32317c872c9489c18fe7c77f38e20eb",
+  "createdAt": 1792214414,
   "realm": "Alaska & Arctic",
   "category": "Blue Ice Grotto",
   "icon": "\u2744\ufe0f",

@@ -1,0 +1,33 @@
+{
+  "id": "victoria_falls",
+  "name": "Victoria Falls (Mosi-oa-Tunya) & Batoka Gorge",
+  "version": "1.0.0",
+  "bbox": [
+    25.845838,
+    -17.935111,
+    25.868562,
+    -17.913489
+  ],
+  "featureCounts": {
+    "buildings": 272,
+    "roads": 153,
+    "water": 32,
+    "parks": 48,
+    "pois": 7,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "d37fc3e999a6594bca73856d1a88b1748f65f4acfcc625ae0ff5d0dbfd8095b9",
+  "createdAt": 1792213894,
+  "realm": "Africa & Great Rift",
+  "category": "Basalt Cataract Canyon",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    -17.9243,
+    25.8572
+  ]
+}

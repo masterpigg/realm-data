@@ -1,0 +1,33 @@
+{
+  "id": "richat_structure",
+  "name": "Richat Structure (Eye of the Sahara)",
+  "version": "1.0.0",
+  "bbox": [
+    -11.41319,
+    21.116089,
+    -11.39001,
+    21.137711
+  ],
+  "featureCounts": {
+    "buildings": 6,
+    "roads": 4,
+    "water": 28,
+    "parks": 7,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "6f6b104316df5a6a53220fcfc979c5fe8280d0c0d65079d2d9577f5e3379e6d3",
+  "createdAt": 1792213871,
+  "realm": "Africa & Great Rift",
+  "category": "Concentric Ring Dome",
+  "icon": "\ud83d\udc41\ufe0f",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    21.1269,
+    -11.4016
+  ]
+}

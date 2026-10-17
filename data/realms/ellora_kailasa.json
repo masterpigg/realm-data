@@ -1,0 +1,33 @@
+{
+  "id": "ellora_kailasa",
+  "name": "Kailasa Monolithic Temple at Ellora (Cave 16)",
+  "version": "1.0.0",
+  "bbox": [
+    75.167794,
+    20.012989,
+    75.190806,
+    20.034611
+  ],
+  "featureCounts": {
+    "buildings": 13,
+    "roads": 95,
+    "water": 10,
+    "parks": 16,
+    "pois": 11,
+    "caves": 33,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "f1c557a2a3a28f427ed337600dfe5d1de379def8431c78d4c377b4b2a8ea2ae7",
+  "createdAt": 1792213929,
+  "realm": "India & South Asia",
+  "category": "Monolithic Rock Cathedral",
+  "icon": "\ud83d\uddff",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    20.0238,
+    75.1793
+  ]
+}

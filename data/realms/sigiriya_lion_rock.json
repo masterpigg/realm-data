@@ -1,0 +1,33 @@
+{
+  "id": "sigiriya_lion_rock",
+  "name": "Sigiriya Ancient Lion Rock Citadel",
+  "version": "1.0.0",
+  "bbox": [
+    80.749384,
+    7.946189,
+    80.771216,
+    7.967811
+  ],
+  "featureCounts": {
+    "buildings": 149,
+    "roads": 88,
+    "water": 22,
+    "parks": 17,
+    "pois": 83,
+    "caves": 1,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "e6b5d98d2face3b92cb8fc796fec0eff83fef8f77007e51c8e14d021549c8170",
+  "createdAt": 1792213963,
+  "realm": "India & South Asia",
+  "category": "Inselberg Monolith Fort",
+  "icon": "\ud83e\udd81",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    7.957,
+    80.7603
+  ]
+}

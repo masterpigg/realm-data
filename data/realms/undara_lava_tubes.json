@@ -1,0 +1,33 @@
+{
+  "id": "undara_lava_tubes",
+  "name": "Undara Lava Tube Cathedrals",
+  "version": "1.0.0",
+  "bbox": [
+    144.56462,
+    -18.213811,
+    144.58738,
+    -18.192189
+  ],
+  "featureCounts": {
+    "buildings": 3,
+    "roads": 46,
+    "water": 1,
+    "parks": 2,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "7557ceb9484f2e90cfbad7490f09d2e98955ab4186c4518e1d024474bf52738a",
+  "createdAt": 1792214172,
+  "realm": "Australia & Red Centre",
+  "category": "Basalt Lava Tube System",
+  "icon": "\ud83c\udf0b",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -18.203,
+    144.576
+  ]
+}

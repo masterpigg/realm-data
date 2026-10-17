@@ -1,7 +1,7 @@
 {
   "id": "chicago_river_bascule",
   "name": "Chicago \u2014 Chicago River & Bascule Bridges",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -87.639222,
     41.877989,
@@ -9,18 +9,19 @@
     41.899611
   ],
   "featureCounts": {
-    "buildings": 1985,
-    "roads": 9585,
+    "buildings": 1983,
+    "roads": 9611,
     "water": 68,
-    "parks": 2115,
-    "pois": 5915,
+    "parks": 2116,
+    "pois": 5864,
     "caves": 0,
+    "subterranean": 182,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 6828032,
-  "checksumSha256": "eb7112b5a400727b604807ef27be4f07f34ed8cc611680adab039901d39995d8",
-  "createdAt": 1789935323,
+  "sizeBytes": 6565888,
+  "checksumSha256": "baadedcaa387c3dcd344d1a0163e1838f4150258356d0aada838f582341b5235",
+  "createdAt": 1792214327,
   "realm": "Chicago",
   "category": "Bascule Canyon",
   "icon": "\ud83c\udf09",

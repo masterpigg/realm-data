@@ -1,7 +1,7 @@
 {
   "id": "rainier_fumaroles",
   "name": "Mount Rainier Fumarole Caves",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -121.776108,
     46.841489,
@@ -15,12 +15,13 @@
     "parks": 2,
     "pois": 0,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 1060864,
-  "checksumSha256": "996f8bb163e0633ae6a8df5c504cd63e81a3de1d37c36479b91494633b17b0ec",
-  "createdAt": 1789936275,
+  "checksumSha256": "f54e7cf23b1257b98d08fe9f4246ea1376eef29e1dc30e6b5db640e11d414837",
+  "createdAt": 1792214830,
   "realm": "Cascadia",
   "category": "Summit Ice Grotto",
   "icon": "\u2744\ufe0f",

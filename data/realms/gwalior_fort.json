@@ -1,0 +1,33 @@
+{
+  "id": "gwalior_fort",
+  "name": "Gwalior Fort & Rock-Cut Jain Monoliths",
+  "version": "1.0.0",
+  "bbox": [
+    78.157448,
+    26.219889,
+    78.181552,
+    26.241511
+  ],
+  "featureCounts": {
+    "buildings": 16,
+    "roads": 1154,
+    "water": 23,
+    "parks": 7,
+    "pois": 10,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "ea4d352ffe33ec5aacda98d22a42883b933ef8a0532e06bc29643eed7cd53de4",
+  "createdAt": 1792213970,
+  "realm": "India & South Asia",
+  "category": "Sandstone Mesa Fort",
+  "icon": "\ud83d\udee1\ufe0f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    26.2307,
+    78.1695
+  ]
+}

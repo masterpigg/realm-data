@@ -1,7 +1,7 @@
 {
   "id": "svalbard_seed_vault",
   "name": "Svalbard Global Seed Vault",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     15.438276,
     78.224989,
@@ -12,15 +12,16 @@
     "buildings": 45,
     "roads": 44,
     "water": 12,
-    "parks": 11,
+    "parks": 10,
     "pois": 0,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 1847296,
-  "checksumSha256": "5ad6f1fec5afcf7a90c1c30a59fcb0a080dcba9b8984ed34ab74167b50365f11",
-  "createdAt": 1789935488,
+  "checksumSha256": "b87897e6babc9f95b61c61194462106e67aee351760da4a84ead0a1676da55b4",
+  "createdAt": 1792214451,
   "realm": "High Arctic",
   "category": "Doomsday Vault",
   "icon": "\ud83c\udf31",

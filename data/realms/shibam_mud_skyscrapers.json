@@ -1,0 +1,33 @@
+{
+  "id": "shibam_mud_skyscrapers",
+  "name": "Shibam Hadramawt Earthen High-Rises",
+  "version": "1.0.0",
+  "bbox": [
+    48.615158,
+    15.915889,
+    48.637642,
+    15.937511
+  ],
+  "featureCounts": {
+    "buildings": 525,
+    "roads": 139,
+    "water": 4,
+    "parks": 5,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "554296abbabae2584a27c6f2bc1f9d2ea1cd50391f2605d823dce4ed8c70dba9",
+  "createdAt": 1792213843,
+  "realm": "Middle East & Levant",
+  "category": "Earthen Mud Skyscraper",
+  "icon": "\ud83e\uddf1",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    15.9267,
+    48.6264
+  ]
+}

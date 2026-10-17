@@ -1,0 +1,33 @@
+{
+  "id": "cartagena_walled_city",
+  "name": "Cartagena de Indias Walled Bastion & Castle San Felipe",
+  "version": "1.0.0",
+  "bbox": [
+    -75.560392,
+    10.412789,
+    -75.538408,
+    10.434411
+  ],
+  "featureCounts": {
+    "buildings": 2132,
+    "roads": 1172,
+    "water": 16,
+    "parks": 255,
+    "pois": 1211,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2895872,
+  "checksumSha256": "7558b280531e8e27dafec6863152e3c0a61d0555b06155ff47a8fbe196b00f74",
+  "createdAt": 1792214086,
+  "realm": "South America",
+  "category": "Caribbean Coral Bastion",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\udf0e",
+  "center": [
+    10.4236,
+    -75.5494
+  ]
+}

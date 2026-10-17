@@ -1,0 +1,33 @@
+{
+  "id": "chand_baori",
+  "name": "Chand Baori Subterranean Stepwell",
+  "version": "1.0.0",
+  "bbox": [
+    76.594266,
+    26.996489,
+    76.618534,
+    27.018111
+  ],
+  "featureCounts": {
+    "buildings": 4,
+    "roads": 49,
+    "water": 2,
+    "parks": 15,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "7670b39c6f2dad1d14327e38ca6e767f1cadff3f17303f302d494bd707c3eec0",
+  "createdAt": 1792213912,
+  "realm": "India & South Asia",
+  "category": "Inverted Stepwell",
+  "icon": "\ud83e\udea3",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    27.0073,
+    76.6064
+  ]
+}

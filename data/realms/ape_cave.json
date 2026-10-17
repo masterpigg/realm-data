@@ -1,7 +1,7 @@
 {
   "id": "ape_cave",
   "name": "Mount St. Helens Ape Cave",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -122.225994,
     46.098189,
@@ -15,12 +15,13 @@
     "parks": 1,
     "pois": 0,
     "caves": 1,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2371584,
-  "checksumSha256": "3da9526c81c416d94dde109bbf24005bb9d072fc3a922c6fe47f83b6e0552833",
-  "createdAt": 1789936284,
+  "checksumSha256": "e54079c67d17b28639a7baaecc45b40716363512c14ca12dc9a338fddf99cd90",
+  "createdAt": 1792214836,
   "realm": "Cascadia",
   "category": "Lava Tube Conduit",
   "icon": "\ud83d\udd73\ufe0f",

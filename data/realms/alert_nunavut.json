@@ -1,7 +1,7 @@
 {
   "id": "alert_nunavut",
   "name": "Alert High Arctic Station",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -62.430945,
     82.490989,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 57,
-    "roads": 45,
+    "roads": 47,
     "water": 11,
     "parks": 4,
     "pois": 1,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "be3dbb4d10958d48b3416a11d0993aa1f7efe0a31870807458e09ea5b102a067",
-  "createdAt": 1789935482,
+  "checksumSha256": "f0f3ff5d31010e2dbe21433f709e70ac1ee098e643fe2c18cdd5269067a35651",
+  "createdAt": 1792214445,
   "realm": "Canada Frontier",
   "category": "High Arctic Sentry",
   "icon": "\ud83d\udce1",

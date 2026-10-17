@@ -1,0 +1,33 @@
+{
+  "id": "sydney_fort_denison",
+  "name": "Sydney Harbour & Fort Denison (Pinchgut)",
+  "version": "1.0.0",
+  "bbox": [
+    151.212482,
+    -33.865611,
+    151.238518,
+    -33.843989
+  ],
+  "featureCounts": {
+    "buildings": 1095,
+    "roads": 1705,
+    "water": 34,
+    "parks": 554,
+    "pois": 1196,
+    "caves": 0,
+    "subterranean": 6,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2633728,
+  "checksumSha256": "862bdd1d6f942cbf970ec2bc95496289880c3cce2832604aa2f133779eb62fc8",
+  "createdAt": 1792214150,
+  "realm": "Australia & Red Centre",
+  "category": "Island Martello Bastion",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -33.8548,
+    151.2255
+  ]
+}

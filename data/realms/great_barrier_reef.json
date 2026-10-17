@@ -1,0 +1,33 @@
+{
+  "id": "great_barrier_reef",
+  "name": "Great Barrier Reef (Agincourt Ribbon Reef)",
+  "version": "1.0.0",
+  "bbox": [
+    145.825751,
+    -16.056811,
+    145.848249,
+    -16.035189
+  ],
+  "featureCounts": {
+    "buildings": 0,
+    "roads": 0,
+    "water": 0,
+    "parks": 1,
+    "pois": 0,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 798720,
+  "checksumSha256": "c55b241ff4eeca2bd8c1fe51965618465f02f835eb0aef50e8fed8337f6afb87",
+  "createdAt": 1792214140,
+  "realm": "Australia & Red Centre",
+  "category": "Coral Reef Barrier",
+  "icon": "\ud83c\udf0a",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -16.046,
+    145.837
+  ]
+}

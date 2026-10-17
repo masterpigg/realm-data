@@ -1,7 +1,7 @@
 {
   "id": "tokyo_daiba",
   "name": "Odaiba Daiba Fortress Island",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     139.758199,
     35.622689,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 176,
-    "roads": 1109,
+    "roads": 1113,
     "water": 3,
     "parks": 237,
     "pois": 321,
     "caves": 0,
+    "subterranean": 6,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "7ef1ba0fa4b19fe6676654cc7dc010cdf5427d34d4cb6eda4f08e2e484e49de8",
-  "createdAt": 1789936126,
+  "checksumSha256": "ccd549f93b2b5e2ac07e84a6a3a37cb651d3084a56d7d893c8a764514260cbc9",
+  "createdAt": 1792214722,
   "realm": "Tokyo",
   "category": "Offshore Battery",
   "icon": "\u2693",

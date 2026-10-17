@@ -1,0 +1,33 @@
+{
+  "id": "gobekli_tepe",
+  "name": "G\u00f6bekli Tepe Prehistoric T-Pillar Sanctuary",
+  "version": "1.0.0",
+  "bbox": [
+    38.908923,
+    37.212489,
+    38.936077,
+    37.234111
+  ],
+  "featureCounts": {
+    "buildings": 20,
+    "roads": 51,
+    "water": 19,
+    "parks": 81,
+    "pois": 7,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "df2fbc6409e10c7f76babd19f63996bdf658f2cfa1292cb1e5926aa0ea2abf1c",
+  "createdAt": 1792213806,
+  "realm": "Middle East & Levant",
+  "category": "Prehistoric Megalith Rings",
+  "icon": "\ud83d\uddff",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    37.2233,
+    38.9225
+  ]
+}

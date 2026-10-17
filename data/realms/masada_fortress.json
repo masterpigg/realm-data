@@ -1,0 +1,33 @@
+{
+  "id": "masada_fortress",
+  "name": "Masada Clifftop Judean Desert Mesa",
+  "version": "1.0.0",
+  "bbox": [
+    35.341246,
+    31.304789,
+    35.366554,
+    31.326411
+  ],
+  "featureCounts": {
+    "buildings": 24,
+    "roads": 137,
+    "water": 3,
+    "parks": 25,
+    "pois": 2,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "bbfa3c847e77f0b7b6bd7c93dccb514e5dd1eb9b303fbd342a53673f1838f2e1",
+  "createdAt": 1792213800,
+  "realm": "Middle East & Levant",
+  "category": "Desert Mesa Citadel",
+  "icon": "\ud83d\udee1\ufe0f",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    31.3156,
+    35.3539
+  ]
+}

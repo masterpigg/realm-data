@@ -1,7 +1,7 @@
 {
   "id": "dc_roosevelt_island",
   "name": "DC \u2014 Theodore Roosevelt Island & Rock Creek",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -77.078091,
     38.886089,
@@ -9,18 +9,19 @@
     38.907711
   ],
   "featureCounts": {
-    "buildings": 2434,
-    "roads": 4848,
+    "buildings": 2436,
+    "roads": 4868,
     "water": 61,
-    "parks": 647,
-    "pois": 1357,
+    "parks": 648,
+    "pois": 1362,
     "caves": 0,
+    "subterranean": 12,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 4730880,
-  "checksumSha256": "f460be0b46e106f900d59e4c5d916db817ce409dc4d1f547d3b80a18d5ffd2b8",
-  "createdAt": 1789935286,
+  "checksumSha256": "07a7882442e3e028c1969258b7e29a7a7064fbc7593aac092f7f21dd43726cb9",
+  "createdAt": 1792214305,
   "realm": "Washington DC",
   "category": "Potomac Sanctuary",
   "icon": "\ud83c\udf32",

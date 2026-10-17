@@ -1,0 +1,33 @@
+{
+  "id": "zhangjiajie_pillars",
+  "name": "Zhangjiajie Quartz Sandstone Pillar Forest",
+  "version": "1.0.0",
+  "bbox": [
+    110.4217,
+    29.314089,
+    110.4465,
+    29.335711
+  ],
+  "featureCounts": {
+    "buildings": 36,
+    "roads": 51,
+    "water": 1,
+    "parks": 1,
+    "pois": 4,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "76edd1f631d574e8aa52a9ccbb911e86661e5b4c54790623e6acd754e26df4c9",
+  "createdAt": 1792213976,
+  "realm": "China & East Asia",
+  "category": "Quartz Pillar Forest",
+  "icon": "\ud83c\udfd4\ufe0f",
+  "realmEmoji": "\ud83d\udc09",
+  "center": [
+    29.3249,
+    110.4341
+  ]
+}

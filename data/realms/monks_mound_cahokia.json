@@ -1,7 +1,7 @@
 {
   "id": "monks_mound_cahokia",
   "name": "Monks Mound (Cahokia)",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -90.076045,
     38.649689,
@@ -15,12 +15,13 @@
     "parks": 76,
     "pois": 0,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "c02ad9568527696bc94babbc8c96963a7d75df53191951a6cee14e7df5a63498",
-  "createdAt": 1789936314,
+  "checksumSha256": "e5eb808e99e3bfd55c1b5166499daa65fbd400b9798f0210839c8f158b41f557",
+  "createdAt": 1792214862,
   "realm": "Missouri",
   "category": "Platform Earthwork",
   "icon": "\u26f0\ufe0f",

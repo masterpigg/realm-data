@@ -1,7 +1,7 @@
 {
   "id": "fort_davidson_mo",
   "name": "Fort Davidson Star Fort",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -90.656949,
     37.609989,
@@ -15,12 +15,13 @@
     "parks": 4,
     "pois": 3,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "e5d0b42f06597d549a858770698ad2f67f0562b4521b5902d78f65515ce94189",
-  "createdAt": 1789936326,
+  "checksumSha256": "b29cd08b07b8e7591dfb6de029efc8cb9c0c54001c32ee2e8ef120538f41b498",
+  "createdAt": 1792214867,
   "realm": "Missouri",
   "category": "Star Fort Redoubt",
   "icon": "\u2694\ufe0f",

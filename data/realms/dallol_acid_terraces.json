@@ -1,0 +1,33 @@
+{
+  "id": "dallol_acid_terraces",
+  "name": "Dallol Hydrothermal Neon Acid Terraces",
+  "version": "1.0.0",
+  "bbox": [
+    40.286646,
+    14.230889,
+    40.308954,
+    14.252511
+  ],
+  "featureCounts": {
+    "buildings": 19,
+    "roads": 11,
+    "water": 0,
+    "parks": 6,
+    "pois": 1,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "a924231a1090632f0016d1125d775db1de300e6d823ca5bedc06e67b6c5438af",
+  "createdAt": 1792213860,
+  "realm": "Africa & Great Rift",
+  "category": "Neon Acid Salt Terraces",
+  "icon": "\ud83e\uddea",
+  "realmEmoji": "\ud83c\udf0d",
+  "center": [
+    14.2417,
+    40.2978
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "fushimi_inari",
   "name": "Fushimi Inari Torii Corridor",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     135.759508,
     34.956289,
@@ -9,18 +9,19 @@
     34.977911
   ],
   "featureCounts": {
-    "buildings": 12761,
-    "roads": 2436,
+    "buildings": 12759,
+    "roads": 2469,
     "water": 113,
-    "parks": 376,
-    "pois": 604,
+    "parks": 382,
+    "pois": 612,
     "caves": 0,
+    "subterranean": 6,
     "tiles": 0
   },
   "includeTiles": false,
-  "sizeBytes": 4206592,
-  "checksumSha256": "065adbc7f0e2787ea5afa0e0b9e51822f4d3ed2ed42888cbdee70644913fede7",
-  "createdAt": 1789936158,
+  "sizeBytes": 3944448,
+  "checksumSha256": "178f5cb8073d2192330597705de0cf35b8417842c316888ce5b48e899bbe4573",
+  "createdAt": 1792214741,
   "realm": "Japan Feudal",
   "category": "Shinto Shrine",
   "icon": "\u26e9\ufe0f",

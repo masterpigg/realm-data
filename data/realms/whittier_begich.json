@@ -1,7 +1,7 @@
 {
   "id": "whittier_begich",
   "name": "Whittier \"Town Under One Roof\"",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -148.706041,
     60.762289,
@@ -9,18 +9,19 @@
     60.783911
   ],
   "featureCounts": {
-    "buildings": 56,
-    "roads": 82,
+    "buildings": 59,
+    "roads": 84,
     "water": 6,
     "parks": 13,
-    "pois": 4,
+    "pois": 2,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2109440,
-  "checksumSha256": "cd5bb45580cd4567573bea107165173d73c24eb5b35069461b12525835591f76",
-  "createdAt": 1789935443,
+  "checksumSha256": "11d3d996b513c3cc0bb219e1093249d005fb0d4e00c8a1603fa48783c309df63",
+  "createdAt": 1792214409,
   "realm": "Alaska & Arctic",
   "category": "Bunker Fortress",
   "icon": "\ud83c\udfe2",

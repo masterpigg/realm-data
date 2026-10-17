@@ -1,7 +1,7 @@
 {
   "id": "seattle_underground",
   "name": "Seattle Pioneer Square Areaways",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -122.350333,
     47.590689,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 1086,
-    "roads": 7732,
+    "roads": 7734,
     "water": 12,
     "parks": 382,
-    "pois": 1627,
+    "pois": 1630,
     "caves": 0,
+    "subterranean": 25,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 3420160,
-  "checksumSha256": "3d1987aed7b7cc7374b3d43469417ba09ad7eeaf97878ed4709d052ec16f9b0e",
-  "createdAt": 1789936264,
+  "checksumSha256": "31d56f034822bd2717df91f89093e368e366db8d745feb08cde3cb7e480cb46e",
+  "createdAt": 1792214819,
   "realm": "Cascadia",
   "category": "Submerged Street",
   "icon": "\ud83c\udfdb\ufe0f",

@@ -1,0 +1,33 @@
+{
+  "id": "coober_pedy_dugouts",
+  "name": "Coober Pedy Subterranean Opal Dugouts",
+  "version": "1.0.0",
+  "bbox": [
+    134.742038,
+    -29.024311,
+    134.766762,
+    -29.002689
+  ],
+  "featureCounts": {
+    "buildings": 629,
+    "roads": 232,
+    "water": 17,
+    "parks": 38,
+    "pois": 31,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "b8888fcb0fd1550a06b8e5cb0635cf234c3a1b72ca96e39076ecbaa09784b5c8",
+  "createdAt": 1792214118,
+  "realm": "Australia & Red Centre",
+  "category": "Subterranean Dugout Town",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83e\udd98",
+  "center": [
+    -29.0135,
+    134.7544
+  ]
+}

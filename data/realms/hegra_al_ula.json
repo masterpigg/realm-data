@@ -1,0 +1,33 @@
+{
+  "id": "hegra_al_ula",
+  "name": "Hegra (Mada'in Salih) Tomb of Lihyan",
+  "version": "1.0.0",
+  "bbox": [
+    37.942088,
+    26.793589,
+    37.966312,
+    26.815211
+  ],
+  "featureCounts": {
+    "buildings": 29,
+    "roads": 38,
+    "water": 1,
+    "parks": 48,
+    "pois": 23,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2109440,
+  "checksumSha256": "7838db75fd2fe8c170df713ed787a6bc83313f087c44c88fa25f2b322bba729b",
+  "createdAt": 1792213788,
+  "realm": "Middle East & Levant",
+  "category": "Desert Inselberg Necropolis",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    26.8044,
+    37.9542
+  ]
+}

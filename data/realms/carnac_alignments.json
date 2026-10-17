@@ -1,7 +1,7 @@
 {
   "id": "carnac_alignments",
   "name": "Carnac Megalithic Menhirs",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "bbox": [
     -3.09853,
     47.581689,
@@ -10,17 +10,18 @@
   ],
   "featureCounts": {
     "buildings": 2598,
-    "roads": 850,
+    "roads": 852,
     "water": 8,
     "parks": 128,
     "pois": 186,
     "caves": 0,
+    "subterranean": 0,
     "tiles": 0
   },
   "includeTiles": false,
   "sizeBytes": 2371584,
-  "checksumSha256": "2fc0df400a9e3c19df713c6dd45775d7d695bb49bb6c1dfd41d6c596fe2f15f9",
-  "createdAt": 1789935982,
+  "checksumSha256": "50ea44341837b8ac2f6d5a5427599a9b7f8a3a9cfa2f46568c2af0cf4776a48e",
+  "createdAt": 1792214637,
   "realm": "Europe",
   "category": "Ancient Megaliths",
   "icon": "\ud83d\uddff",

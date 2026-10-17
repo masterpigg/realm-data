@@ -1,0 +1,33 @@
+{
+  "id": "meghalaya_root_bridges",
+  "name": "Meghalaya Living Root Bridges & Umshiang Gorge",
+  "version": "1.0.0",
+  "bbox": [
+    91.658647,
+    25.239689,
+    91.682553,
+    25.261311
+  ],
+  "featureCounts": {
+    "buildings": 3,
+    "roads": 66,
+    "water": 9,
+    "parks": 5,
+    "pois": 30,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 2371584,
+  "checksumSha256": "08fd56c10ee883729a5f8e61c78a70e574b0b48bb35a0a921d7142358841ab39",
+  "createdAt": 1792213923,
+  "realm": "India & South Asia",
+  "category": "Living Tree Bridge",
+  "icon": "\ud83c\udf3f",
+  "realmEmoji": "\ud83c\uddee\ud83c\uddf3",
+  "center": [
+    25.2505,
+    91.6706
+  ]
+}

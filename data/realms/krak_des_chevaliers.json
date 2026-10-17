@@ -1,0 +1,33 @@
+{
+  "id": "krak_des_chevaliers",
+  "name": "Krak des Chevaliers Concentric Citadel",
+  "version": "1.0.0",
+  "bbox": [
+    36.281241,
+    34.746089,
+    36.307559,
+    34.767711
+  ],
+  "featureCounts": {
+    "buildings": 259,
+    "roads": 85,
+    "water": 0,
+    "parks": 15,
+    "pois": 4,
+    "caves": 0,
+    "subterranean": 0,
+    "tiles": 0
+  },
+  "includeTiles": false,
+  "sizeBytes": 1847296,
+  "checksumSha256": "8bd8d4713b00273b510c2378fc565444fe2b6783141e454b2398d0f3ff1e9a6f",
+  "createdAt": 1792213825,
+  "realm": "Middle East & Levant",
+  "category": "Concentric Crusader Fortress",
+  "icon": "\ud83c\udff0",
+  "realmEmoji": "\ud83c\udffa",
+  "center": [
+    34.7569,
+    36.2944
+  ]
+}
