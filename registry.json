@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generatedAt": 1792251575,
+  "generatedAt": 1792854880,
   "repository": "masterpigg/realm-data",
   "releaseTag": "v1.0.0",
   "releasesBaseUrl": "https://github.com/masterpigg/realm-data/releases/download",
-  "realmsCount": 130,
+  "realmsCount": 128,
   "realms": [
     {
       "id": "dallol_acid_terraces",
@@ -483,39 +483,6 @@
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/whittier_begich.json"
     },
     {
-      "id": "south_pole_station",
-      "name": "Amundsen-Scott South Pole Station",
-      "realm": "Antarctica",
-      "category": "Plateau Citadel",
-      "icon": "\ud83e\udded",
-      "realmEmoji": "\u2744\ufe0f",
-      "version": "v1.0.0",
-      "bbox": [
-        -108.108108,
-        -90.0,
-        108.108108,
-        -89.989089
-      ],
-      "center": [
-        -89.9999,
-        0.0
-      ],
-      "featureCounts": {
-        "buildings": 0,
-        "roads": 0,
-        "water": 0,
-        "parks": 0,
-        "pois": 0,
-        "caves": 0,
-        "tiles": 0
-      },
-      "includeTiles": false,
-      "sizeBytes": 536576,
-      "checksumSha256": "df21389c15f89c57b184fa49a4cdab5843fe6fc7a51b40cc15a58674f054bbd1",
-      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/south_pole_station.realm.duckdb",
-      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/south_pole_station.json"
-    },
-    {
       "id": "blood_falls",
       "name": "Blood Falls & Taylor Glacier",
       "realm": "Antarctica",
@@ -582,39 +549,6 @@
       "checksumSha256": "52d5f5bab7ccff233e07d7f0f81fadf3b5699c0cc6b11c129c718c91b45670d6",
       "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/deception_island.realm.duckdb",
       "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/deception_island.json"
-    },
-    {
-      "id": "halley_vi_station",
-      "name": "Halley VI Ski-Stilt Station",
-      "realm": "Antarctica",
-      "category": "Mobile Ice Crawler",
-      "icon": "\ud83d\ude9c",
-      "realmEmoji": "\u2744\ufe0f",
-      "version": "v1.0.0",
-      "bbox": [
-        -25.543422,
-        -75.594111,
-        -25.456578,
-        -75.572489
-      ],
-      "center": [
-        -75.5833,
-        -25.5
-      ],
-      "featureCounts": {
-        "buildings": 0,
-        "roads": 0,
-        "water": 0,
-        "parks": 0,
-        "pois": 0,
-        "caves": 0,
-        "tiles": 0
-      },
-      "includeTiles": false,
-      "sizeBytes": 536576,
-      "checksumSha256": "01af4f48f4006fd4887fd9bf325327e70987ba5095c0eba992afedc71b4075ad",
-      "downloadUrl": "https://github.com/masterpigg/realm-data/releases/download/v1.0.0/halley_vi_station.realm.duckdb",
-      "manifestUrl": "https://raw.githubusercontent.com/masterpigg/realm-data/main/data/realms/halley_vi_station.json"
     },
     {
       "id": "mcmurdo_station",
