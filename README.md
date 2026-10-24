@@ -5,10 +5,10 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 
 ## 📊 Catalog Overview
 
-- **Curated Landmarks Baked:** 130
+- **Curated Landmarks Baked:** 128
 - **Total Structures Indexed:** 192,517
 - **Total Thoroughfares & Paths:** 133,841
-- **Total Compressed Footprint:** 320.02 MB
+- **Total Compressed Footprint:** 319.0 MB
 - **Master Registry Catalog:** [`registry.json`](registry.json)
 - **Release Tag:** `v1.0.0`
 
@@ -30,10 +30,8 @@ Contains pre-baked, bounded `.realm.duckdb` offline spatial databases for iconic
 | **❄️ Mendenhall Glacier Ice Caves**<br><code>mendenhall_ice_caves</code> | Alaska & Arctic | Blue Ice Grotto | <code>v1.0.0</code> | 2.0 MB | 0 | 5 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mendenhall_ice_caves.realm.duckdb) |
 | **🏹 Utqiaġvik (Point Barrow)**<br><code>utqiagvik_barrow</code> | Alaska & Arctic | Arctic Bluffs | <code>v1.0.0</code> | 2.0 MB | 964 | 140 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/utqiagvik_barrow.realm.duckdb) |
 | **🏢 Whittier "Town Under One Roof"**<br><code>whittier_begich</code> | Alaska & Arctic | Bunker Fortress | <code>v1.0.0</code> | 2.0 MB | 59 | 84 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/whittier_begich.realm.duckdb) |
-| **🧭 Amundsen-Scott South Pole Station**<br><code>south_pole_station</code> | Antarctica | Plateau Citadel | <code>v1.0.0</code> | 524 KB | 0 | 0 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/south_pole_station.realm.duckdb) |
 | **🩸 Blood Falls & Taylor Glacier**<br><code>blood_falls</code> | Antarctica | Bleeding Glacier | <code>v1.0.0</code> | 1.0 MB | 0 | 0 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/blood_falls.realm.duckdb) |
 | **⚓ Deception Island Flooded Caldera**<br><code>deception_island</code> | Antarctica | Drowned Volcano | <code>v1.0.0</code> | 1.3 MB | 0 | 0 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/deception_island.realm.duckdb) |
-| **🚜 Halley VI Ski-Stilt Station**<br><code>halley_vi_station</code> | Antarctica | Mobile Ice Crawler | <code>v1.0.0</code> | 524 KB | 0 | 0 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/halley_vi_station.realm.duckdb) |
 | **❄️ McMurdo Station (Ross Island)**<br><code>mcmurdo_station</code> | Antarctica | Polar Outpost Hub | <code>v1.0.0</code> | 2.0 MB | 307 | 309 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mcmurdo_station.realm.duckdb) |
 | **🌋 Mount Erebus Caldera & Fumaroles**<br><code>mount_erebus</code> | Antarctica | Volcanic Ice Chimneys | <code>v1.0.0</code> | 1.5 MB | 0 | 0 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/mount_erebus.realm.duckdb) |
 | **🏗️ Neumayer Station III Platform**<br><code>neumayer_iii_station</code> | Antarctica | Hydraulic Ice Fortress | <code>v1.0.0</code> | 1.3 MB | 2 | 2 | [📦 Download](https://github.com/masterpigg/realm-data/releases/download/v1.0.0/neumayer_iii_station.realm.duckdb) |
